@@ -1,0 +1,720 @@
+[
+  {
+    "name": "Curry Bowl",
+    "description": "Build your own delicious bowl. Choose a base (like rice or quinoa), a protein (chicken, paneer, lamb, etc.), a savory sauce, and fresh toppings.",
+    "price": 12.95,
+    "calories": 850,
+    "tags": [
+      "Popular Items",
+      "Indian",
+      "Curry",
+      "Customizable",
+      "Bowl",
+      "Entree",
+      "Lunch",
+      "Dinner",
+      "Savory",
+      "Healthy Option",
+      "Vegetarian Option"
+    ]
+  },
+  {
+    "name": "Mango Lassi",
+    "description": "A creamy and refreshing traditional Indian drink made from yogurt, milk, and sweet mango pulp.",
+    "price": 5.95,
+    "calories": 420,
+    "tags": [
+      "Popular Items",
+      "Drinks",
+      "Lassi",
+      "Mango",
+      "Yogurt Drink",
+      "Indian",
+      "Sweet",
+      "Refreshing",
+      "Beverage",
+      "Classic",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Paneer Biryani",
+    "description": "Cubes of Indian cottage cheese (paneer) cooked with fragrant Indian spices and layered with aromatic basmati rice. Served with a side of raita (yogurt sauce).",
+    "price": 15.95,
+    "calories": 920,
+    "tags": [
+      "Popular Items",
+      "Biryani",
+      "Paneer",
+      "Vegetarian",
+      "Indian",
+      "Rice Dish",
+      "Entree",
+      "Aromatic",
+      "Spiced",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Boneless Chicken Biryani",
+    "description": "Tender boneless chicken marinated in aromatic Indian spices, slow-cooked and layered with fragrant basmati rice. Served with a side of raita (yogurt sauce).",
+    "price": 15.95,
+    "calories": 980,
+    "tags": [
+      "Popular Items",
+      "Biryani",
+      "Chicken",
+      "Boneless",
+      "Indian",
+      "Rice Dish",
+      "Entree",
+      "Aromatic",
+      "Spiced",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Lamb Bowl",
+    "description": "Tender boneless lamb slow-cooked in a rich and creamy kurma sauce, served over a bed of fragrant ghee rice.",
+    "price": 17.9,
+    "calories": 1050,
+    "tags": [
+      "Bowl's & Taco's",
+      "Lamb",
+      "Bowl",
+      "Indian",
+      "Kurma",
+      "Creamy",
+      "Slow-cooked",
+      "Entree",
+      "Rice Dish",
+      "Hearty"
+    ]
+  },
+  {
+    "name": "Curry Goat Bowl",
+    "description": "Authentic bone-in goat meat slow-simmered in a traditional, flavorful curry sauce, served over a bed of fragrant ghee rice.",
+    "price": 17.9,
+    "calories": 1100,
+    "tags": [
+      "Bowl's & Taco's",
+      "Goat",
+      "Curry",
+      "Indian",
+      "Bowl",
+      "Bone-in",
+      "Authentic",
+      "Entree",
+      "Rice Dish",
+      "Hearty"
+    ]
+  },
+  {
+    "name": "Fire Bowl",
+    "description": "For spice lovers! A bowl of ghee rice topped with spicy Chicken 65, fried chiles, and a drizzle of chile mayo.",
+    "price": 13.95,
+    "calories": 1020,
+    "tags": [
+      "Bowl's & Taco's",
+      "Bowl",
+      "Spicy",
+      "Chicken 65",
+      "Chicken",
+      "Indian",
+      "Fried Chicken",
+      "Chile",
+      "Entree",
+      "Hot"
+    ]
+  },
+  {
+    "name": "Protein Bowl",
+    "description": "A hearty bowl loaded with ghee rice, tender Chicken Tikka, savory Lamb, and finished with a creamy Kurma Sauce.",
+    "price": 18.95,
+    "calories": 1300,
+    "tags": [
+      "Bowl's & Taco's",
+      "Bowl",
+      "Protein",
+      "Chicken Tikka",
+      "Lamb",
+      "Chicken",
+      "Indian",
+      "Hearty",
+      "Entree",
+      "Combo"
+    ]
+  },
+  {
+    "name": "Desi Tacos (2)",
+    "description": "An Indian twist on a classic. Your choice of 1-2 proteins, served on warm, flaky paratha bread with Indian-style salad toppings.",
+    "price": 11.95,
+    "calories": 750,
+    "tags": [
+      "Bowl's & Taco's",
+      "Tacos",
+      "Indian Fusion",
+      "Desi",
+      "Paratha",
+      "Customizable",
+      "Handheld",
+      "Street Food",
+      "Lunch",
+      "Vegetarian Option"
+    ]
+  },
+  {
+    "name": "Lamb Biryani",
+    "description": "Tender, slow-cooked lamb layered with aromatic spices and fragrant basmati rice. Served with a side of raita (yogurt sauce).",
+    "price": 20.9,
+    "calories": 1150,
+    "tags": [
+      "Biryani's",
+      "Lamb",
+      "Indian",
+      "Rice Dish",
+      "Slow-cooked",
+      "Aromatic",
+      "Entree",
+      "Hearty",
+      "Classic",
+      "Spiced"
+    ]
+  },
+  {
+    "name": "Goat Biryani",
+    "description": "Authentic, tender bone-in goat simmered with fragrant Indian spices and layered with basmati rice. Served with a side of raita (yogurt sauce).",
+    "price": 20.9,
+    "calories": 1200,
+    "tags": [
+      "Biryani's",
+      "Goat",
+      "Bone-in",
+      "Indian",
+      "Rice Dish",
+      "Slow-cooked",
+      "Aromatic",
+      "Entree",
+      "Hearty",
+      "Authentic"
+    ]
+  },
+  {
+    "name": "Paneer Tikka Masala",
+    "description": "Grilled paneer cubes simmered in a rich, creamy, and flavorful tomato-based sauce. Served with rice and naan.",
+    "price": 19.95,
+    "calories": 1050,
+    "tags": [
+      "Classic Comb's",
+      "Paneer",
+      "Tikka Masala",
+      "Vegetarian",
+      "Indian",
+      "Curry",
+      "Creamy",
+      "Entree",
+      "Combo",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Chana Masala",
+    "description": "A classic North Indian dish of tender chickpeas cooked in a flavorful onion, tomato, and spice gravy. Served with rice and naan.",
+    "price": 19.95,
+    "calories": 850,
+    "tags": [
+      "Classic Comb's",
+      "Chana Masala",
+      "Chickpeas",
+      "Vegetarian",
+      "Vegan",
+      "Indian",
+      "Curry",
+      "Entree",
+      "Combo",
+      "Healthy"
+    ]
+  },
+  {
+    "name": "Saag Chana",
+    "description": "A nutritious and hearty curry of chickpeas (chana) and spinach (saag) cooked with ginger, garlic, and spices. Served with rice and naan.",
+    "price": 19.95,
+    "calories": 880,
+    "tags": [
+      "Classic Comb's",
+      "Saag",
+      "Spinach",
+      "Chana",
+      "Chickpeas",
+      "Vegetarian",
+      "Indian",
+      "Curry",
+      "Entree",
+      "Healthy",
+      "Vegan Option"
+    ]
+  },
+  {
+    "name": "Saag Paneer",
+    "description": "Soft paneer cubes cooked in a smooth, creamy, and vibrant spinach gravy. A beloved classic served with rice and naan.",
+    "price": 19.95,
+    "calories": 980,
+    "tags": [
+      "Classic Comb's",
+      "Saag",
+      "Spinach",
+      "Paneer",
+      "Vegetarian",
+      "Indian",
+      "Curry",
+      "Creamy",
+      "Entree",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Chicken Kurma",
+    "description": "Tender chicken pieces cooked in a mild, rich, and creamy cashew-based gravy. Served with rice and naan.",
+    "price": 19.95,
+    "calories": 1080,
+    "tags": [
+      "Classic Comb's",
+      "Chicken",
+      "Kurma",
+      "Indian",
+      "Curry",
+      "Creamy",
+      "Mild",
+      "Entree",
+      "Combo",
+      "Comfort Food"
+    ]
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "description": "Grilled chicken chunks (tikka) simmered in a spectacular creamy, spiced tomato sauce. Served with rice and naan.",
+    "price": 19.95,
+    "calories": 1150,
+    "tags": [
+      "Classic Comb's",
+      "Chicken Tikka Masala",
+      "Chicken",
+      "Indian",
+      "Curry",
+      "Creamy",
+      "Popular",
+      "Entree",
+      "Classic",
+      "British-Indian"
+    ]
+  },
+  {
+    "name": "Butter Chicken",
+    "description": "A rich and decadent dish of tender chicken in a mildly spiced tomato, butter, and cream sauce. Served with rice and naan.",
+    "price": 19.95,
+    "calories": 1200,
+    "tags": [
+      "Classic Comb's",
+      "Butter Chicken",
+      "Chicken",
+      "Indian",
+      "Curry",
+      "Creamy",
+      "Rich",
+      "Popular",
+      "Entree",
+      "Comfort Food"
+    ]
+  },
+  {
+    "name": "Saag Chicken",
+    "description": "A wholesome curry of tender chicken pieces cooked in a flavorful and creamy spinach gravy. Served with rice and naan.",
+    "price": 19.95,
+    "calories": 990,
+    "tags": [
+      "Classic Comb's",
+      "Saag",
+      "Spinach",
+      "Chicken",
+      "Indian",
+      "Curry",
+      "Healthy",
+      "Entree",
+      "Combo",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Lamb Kurma",
+    "description": "Succulent pieces of lamb slow-cooked in a luxurious, creamy, and mildly spiced cashew-based sauce. Served with rice and naan.",
+    "price": 24.95,
+    "calories": 1250,
+    "tags": [
+      "Classic Comb's",
+      "Lamb",
+      "Kurma",
+      "Indian",
+      "Curry",
+      "Creamy",
+      "Mild",
+      "Entree",
+      "Hearty",
+      "Rich"
+    ]
+  },
+  {
+    "name": "Curry Goat",
+    "description": "Tender bone-in goat meat slow-cooked in a traditional, aromatic, and spicy curry sauce. Served with rice and naan.",
+    "price": 24.95,
+    "calories": 1300,
+    "tags": [
+      "Classic Comb's",
+      "Goat",
+      "Curry",
+      "Indian",
+      "Bone-in",
+      "Authentic",
+      "Entree",
+      "Hearty",
+      "Spicy",
+      "Traditional"
+    ]
+  },
+  {
+    "name": "Veggie Samosa (2)",
+    "description": "Two crispy, golden-fried pastries filled with a savory mixture of spiced potatoes and peas.",
+    "price": 6.95,
+    "calories": 400,
+    "tags": [
+      "Any Time Snacks",
+      "Samosa",
+      "Vegetarian",
+      "Appetizer",
+      "Fried",
+      "Indian",
+      "Street Food",
+      "Pastry",
+      "Popular",
+      "Savory",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Samosa Chaat (12oz)",
+    "description": "A crushed veggie samosa topped with chickpeas, yogurt, tamarind and mint chutneys, onions, and spices. A flavor explosion!",
+    "price": 8.95,
+    "calories": 600,
+    "tags": [
+      "Any Time Snacks",
+      "Samosa Chaat",
+      "Vegetarian",
+      "Appetizer",
+      "Indian",
+      "Street Food",
+      "Savory",
+      "Tangy",
+      "Yogurt",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Chicken 65 (12oz)",
+    "description": "Spicy, bite-sized pieces of deep-fried chicken, bursting with the flavor of ginger, garlic, and red chilies.",
+    "price": 8.95,
+    "calories": 650,
+    "tags": [
+      "Any Time Snacks",
+      "Chicken 65",
+      "Chicken",
+      "Appetizer",
+      "Fried Chicken",
+      "Spicy",
+      "Indian",
+      "South Indian",
+      "Popular",
+      "Dry"
+    ]
+  },
+  {
+    "name": "Ghee Rice (12oz)",
+    "description": "Aromatic basmati rice cooked with clarified butter (ghee) and whole spices for a rich, buttery flavor.",
+    "price": 6.95,
+    "calories": 380,
+    "tags": [
+      "Any Time Snacks",
+      "Side Dish",
+      "Ghee Rice",
+      "Rice",
+      "Indian",
+      "Vegetarian",
+      "Aromatic",
+      "Rich",
+      "Buttery",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Biryani Rice (12oz)",
+    "description": "Fragrant basmati rice slow-cooked with a blend of aromatic whole spices, perfect as a side for any curry.",
+    "price": 7.95,
+    "calories": 420,
+    "tags": [
+      "Any Time Snacks",
+      "Side Dish",
+      "Biryani Rice",
+      "Rice",
+      "Indian",
+      "Vegetarian",
+      "Aromatic",
+      "Spiced",
+      "Flavorful",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Gulab Jamun (2)",
+    "description": "Two soft, spongy, deep-fried milk-solid dumplings soaked in a sweet, fragrant sugar syrup.",
+    "price": 5.95,
+    "calories": 350,
+    "tags": [
+      "Drinks & Desserts",
+      "Dessert",
+      "Gulab Jamun",
+      "Sweet",
+      "Indian",
+      "Fried",
+      "Syrup",
+      "Classic",
+      "Popular",
+      "Indulgent",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Indian Lemonade",
+    "description": "A refreshing twist on classic lemonade, infused with Indian spices like cumin and black salt for a unique savory-sweet taste.",
+    "price": 5.95,
+    "calories": 220,
+    "tags": [
+      "Drinks & Desserts",
+      "Beverage",
+      "Lemonade",
+      "Indian",
+      "Refreshing",
+      "Spiced",
+      "Sweet and Tart",
+      "Non-Alcoholic",
+      "Unique",
+      "Summer",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Real Chai (Hot)",
+    "description": "Authentic Indian masala chai, brewed with black tea, milk, and a blend of aromatic spices like cardamom, ginger, and cloves.",
+    "price": 5.95,
+    "calories": 180,
+    "tags": [
+      "Drinks & Desserts",
+      "Beverage",
+      "Chai",
+      "Hot Drink",
+      "Indian",
+      "Spiced Tea",
+      "Aromatic",
+      "Comforting",
+      "Traditional",
+      "Milk Tea",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Bottled Water",
+    "description": "A simple bottle of purified spring water.",
+    "price": 1.95,
+    "calories": 0,
+    "tags": [
+      "Drinks & Desserts",
+      "Beverage",
+      "Water",
+      "Non-Alcoholic",
+      "Healthy",
+      "Refreshing",
+      "Hydration",
+      "Simple",
+      "Zero Calorie",
+      "Bottle",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Limca",
+    "description": "A popular Indian lemon-lime soda known for its crisp, bubbly, and thirst-quenching flavor.",
+    "price": 3.95,
+    "calories": 160,
+    "tags": [
+      "Drinks & Desserts",
+      "Beverage",
+      "Soda",
+      "Indian",
+      "Limca",
+      "Lemon-Lime",
+      "Refreshing",
+      "Bubbly",
+      "Imported",
+      "Popular",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Thumbs Up",
+    "description": "India's iconic cola, known for its strong, fizzy, and slightly spicy taste.",
+    "price": 3.95,
+    "calories": 150,
+    "tags": [
+      "Drinks & Desserts",
+      "Beverage",
+      "Soda",
+      "Indian",
+      "Thumbs Up",
+      "Cola",
+      "Strong",
+      "Bubbly",
+      "Imported",
+      "Popular",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Coke",
+    "description": "The classic, refreshing taste of Coca-Cola.",
+    "price": 1.95,
+    "calories": 140,
+    "tags": [
+      "Drinks & Desserts",
+      "Beverage",
+      "Soda",
+      "Coke",
+      "Classic",
+      "Refreshing",
+      "Cold",
+      "Popular",
+      "Sweet",
+      "Fountain",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Sprite",
+    "description": "A crisp, clean, caffeine-free lemon-lime soda.",
+    "price": 1.95,
+    "calories": 140,
+    "tags": [
+      "Drinks & Desserts",
+      "Beverage",
+      "Soda",
+      "Sprite",
+      "Lemon-Lime",
+      "Refreshing",
+      "Cold",
+      "Popular",
+      "Caffeine-Free",
+      "Fountain",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Fanta",
+    "description": "Bright, bubbly, and fruity orange flavored soda.",
+    "price": 1.95,
+    "calories": 160,
+    "tags": [
+      "Drinks & Desserts",
+      "Beverage",
+      "Soda",
+      "Fanta",
+      "Orange",
+      "Fruity",
+      "Refreshing",
+      "Cold",
+      "Sweet",
+      "Fountain",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Coke Zero",
+    "description": "The classic taste of Coca-Cola with zero sugar and zero calories.",
+    "price": 1.95,
+    "calories": 0,
+    "tags": [
+      "Drinks & Desserts",
+      "Beverage",
+      "Soda",
+      "Coke Zero",
+      "Zero Calorie",
+      "Refreshing",
+      "Cold",
+      "Popular",
+      "Diet",
+      "Fountain",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Extra Tikka Masala Sauce (2oz)",
+    "description": "A 2oz side of our signature creamy and flavorful tomato-based tikka masala sauce.",
+    "price": 2.25,
+    "calories": 120,
+    "tags": [
+      "Extra Curry Sauce",
+      "Side",
+      "Sauce",
+      "Tikka Masala",
+      "Indian",
+      "Creamy",
+      "Tomato",
+      "Condiment",
+      "Extra",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Extra Creamy Spinach (2oz)",
+    "description": "A 2oz side of our smooth and savory creamy spinach (saag) sauce.",
+    "price": 2.25,
+    "calories": 110,
+    "tags": [
+      "Extra Curry Sauce",
+      "Side",
+      "Sauce",
+      "Saag",
+      "Spinach",
+      "Indian",
+      "Creamy",
+      "Vegetable",
+      "Condiment",
+      "Extra",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Extra Kurma sauce (2oz)",
+    "description": "A 2oz side of our rich, mild, and creamy cashew-based kurma sauce.",
+    "price": 2.25,
+    "calories": 130,
+    "tags": [
+      "Extra Curry Sauce",
+      "Side",
+      "Sauce",
+      "Kurma",
+      "Indian",
+      "Creamy",
+      "Mild",
+      "Condiment",
+      "Extra",
+      "Nutty",
+      "Vegetarian"
+    ]
+  }
+]

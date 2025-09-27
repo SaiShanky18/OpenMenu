@@ -1,0 +1,2450 @@
+[
+  {
+    "name": "2 Entrees Plate",
+    "description": null,
+    "price": 10.99,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Entree Plate",
+      "Combo",
+      "Asian Fusion",
+      "Customizable",
+      "Lunch",
+      "Dinner",
+      "Value Meal",
+      "Takeout",
+      "Chinese"
+    ]
+  },
+  {
+    "name": "Hibachi Chicken Breast",
+    "description": null,
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Hibachi",
+      "Chicken",
+      "Grilled",
+      "Japanese",
+      "Entree",
+      "Healthy",
+      "Savory",
+      "Lunch",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "3 Entrees Plate",
+    "description": null,
+    "price": 13.99,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Entree Plate",
+      "Combo",
+      "Asian Fusion",
+      "Customizable",
+      "Large Portion",
+      "Dinner",
+      "Value Meal",
+      "Takeout",
+      "Chinese"
+    ]
+  },
+  {
+    "name": "Any Three Rolls",
+    "description": null,
+    "price": 16.99,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Sushi",
+      "Sushi Roll",
+      "Combo",
+      "Japanese",
+      "Customizable",
+      "Seafood",
+      "Value Meal",
+      "Sharable",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Entree Bowl",
+    "description": null,
+    "price": 7.75,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Entree Plate",
+      "Bowl",
+      "Asian Fusion",
+      "Customizable",
+      "Lunch",
+      "Quick Meal",
+      "Value Meal",
+      "Takeout",
+      "Chinese"
+    ]
+  },
+  {
+    "name": "Any Two Rolls",
+    "description": null,
+    "price": 12.99,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Sushi",
+      "Sushi Roll",
+      "Combo",
+      "Japanese",
+      "Customizable",
+      "Seafood",
+      "Value Meal",
+      "Lunch Special",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Salmon Poke Bowl",
+    "description": "Salmon,edamame,seaweed salad,cucumber,radish,fish roe,avocado and crab meat salad",
+    "price": 14.00,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Poke Bowl",
+      "Salmon",
+      "Seafood",
+      "Healthy",
+      "Cold Dish",
+      "Hawaiian",
+      "Japanese Fusion",
+      "Fresh",
+      "Lunch"
+    ]
+  },
+  {
+    "name": "Spicy Crunchy Crab Roll",
+    "description": "(Fried) Spicy carb and cream cheese inside deep fry with chef special sauce",
+    "price": 9.00,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Sushi",
+      "Special Roll",
+      "Fried",
+      "Spicy",
+      "Crab",
+      "Cream Cheese",
+      "Crunchy",
+      "Japanese",
+      "Appetizer"
+    ]
+  },
+  {
+    "name": "Hibachi Beef",
+    "description": null,
+    "price": 14.00,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Hibachi",
+      "Beef",
+      "Grilled",
+      "Japanese",
+      "Entree",
+      "Steak",
+      "Savory",
+      "Dinner",
+      "Hearty"
+    ]
+  },
+  {
+    "name": "Spicy Beef Noodles",
+    "description": null,
+    "price": 15.00,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Noodles",
+      "Beef",
+      "Spicy",
+      "Asian",
+      "Soup",
+      "Hearty",
+      "Entree",
+      "Comfort Food",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Crab Rangoon(8)",
+    "description": null,
+    "price": 8.00,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Appetizer",
+      "Fried",
+      "Crab",
+      "Cream Cheese",
+      "Wonton",
+      "Chinese-American",
+      "Sharable",
+      "Savory",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Home Make Pork Bun(6)",
+    "description": null,
+    "price": 9.99,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Appetizer",
+      "Pork",
+      "Bun",
+      "Steamed",
+      "Homemade",
+      "Chinese",
+      "Dim Sum",
+      "Savory",
+      "Sharable"
+    ]
+  },
+  {
+    "name": "Hot & Sour soup",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Soup",
+      "Hot and Sour",
+      "Spicy",
+      "Chinese",
+      "Appetizer",
+      "Starter",
+      "Vegetarian",
+      "Comfort Food",
+      "Traditional"
+    ]
+  },
+  {
+    "name": "Shrimp Tempura Roll",
+    "description": "Cooked",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Sushi",
+      "Sushi Roll",
+      "Shrimp Tempura",
+      "Cooked",
+      "Japanese",
+      "Seafood",
+      "Fried",
+      "Crunchy",
+      "Appetizer"
+    ]
+  },
+  {
+    "name": "Chicken Egg Rolls(2)",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Appetizer",
+      "Egg Roll",
+      "Chicken",
+      "Fried",
+      "Chinese-American",
+      "Starter",
+      "Savory",
+      "Crispy",
+      "Takeout"
+    ]
+  },
+  {
+    "name": "Spicy Tuna Poke Bowl",
+    "description": "Spicy Tuna,edamame,seaweed salad,cucumber,radish,fish roe,avocado and crab meat salad",
+    "price": 15.00,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Poke Bowl",
+      "Spicy Tuna",
+      "Raw",
+      "Seafood",
+      "Healthy",
+      "Cold Dish",
+      "Japanese Fusion",
+      "Spicy",
+      "Lunch"
+    ]
+  },
+  {
+    "name": "Yum Yum Sauce",
+    "description": null,
+    "price": 0.75,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Sauce",
+      "Side",
+      "Japanese",
+      "Creamy",
+      "Condiment",
+      "Hibachi",
+      "Dip",
+      "Sweet",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Spring Rolls(2)",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Appetizer",
+      "Spring Roll",
+      "Fried",
+      "Vegetarian",
+      "Chinese",
+      "Starter",
+      "Crispy",
+      "Takeout",
+      "Sharable"
+    ]
+  },
+  {
+    "name": "Hibachi Jumbo Shrimp",
+    "description": null,
+    "price": 13.00,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Hibachi",
+      "Shrimp",
+      "Seafood",
+      "Grilled",
+      "Japanese",
+      "Entree",
+      "Jumbo Shrimp",
+      "Savory",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Hibachi House Steak",
+    "description": null,
+    "price": 18.00,
+    "calories": null,
+    "tags": [
+      "Popular",
+      "Hibachi",
+      "Steak",
+      "Beef",
+      "Grilled",
+      "Japanese",
+      "Entree",
+      "Premium",
+      "Dinner",
+      "Hearty"
+    ]
+  },
+  {
+    "name": "Entree Bowl",
+    "description": null,
+    "price": 7.75,
+    "calories": null,
+    "tags": [
+      "Entree Plate",
+      "Bowl",
+      "Asian Fusion",
+      "Customizable",
+      "Lunch",
+      "Quick Meal",
+      "Value Meal",
+      "Takeout",
+      "Chinese",
+      "Combo"
+    ]
+  },
+  {
+    "name": "2 Entrees Plate",
+    "description": null,
+    "price": 10.99,
+    "calories": null,
+    "tags": [
+      "Entree Plate",
+      "Combo",
+      "Asian Fusion",
+      "Customizable",
+      "Lunch",
+      "Dinner",
+      "Value Meal",
+      "Takeout",
+      "Chinese",
+      "Popular"
+    ]
+  },
+  {
+    "name": "3 Entrees Plate",
+    "description": null,
+    "price": 13.99,
+    "calories": null,
+    "tags": [
+      "Entree Plate",
+      "Combo",
+      "Asian Fusion",
+      "Customizable",
+      "Large Portion",
+      "Dinner",
+      "Value Meal",
+      "Takeout",
+      "Chinese",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Hibachi Beef",
+    "description": null,
+    "price": 14.00,
+    "calories": null,
+    "tags": [
+      "Hibachi",
+      "Beef",
+      "Grilled",
+      "Japanese",
+      "Entree",
+      "Steak",
+      "Savory",
+      "Dinner",
+      "Hearty",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Hibachi Salmon",
+    "description": null,
+    "price": 15.00,
+    "calories": null,
+    "tags": [
+      "Hibachi",
+      "Salmon",
+      "Seafood",
+      "Grilled",
+      "Japanese",
+      "Entree",
+      "Healthy",
+      "Dinner",
+      "Fish",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Hibachi Veggies Only",
+    "description": null,
+    "price": 11.00,
+    "calories": null,
+    "tags": [
+      "Hibachi",
+      "Vegetarian",
+      "Veggies",
+      "Grilled",
+      "Japanese",
+      "Healthy",
+      "Side Dish",
+      "Entree",
+      "Vegan Option",
+      "Light"
+    ]
+  },
+  {
+    "name": "Hibachi Fried Tofu",
+    "description": null,
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Hibachi",
+      "Tofu",
+      "Vegetarian",
+      "Fried",
+      "Japanese",
+      "Entree",
+      "Vegan Option",
+      "Protein",
+      "Asian",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Hibachi Chicken Breast",
+    "description": null,
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Hibachi",
+      "Chicken",
+      "Grilled",
+      "Japanese",
+      "Entree",
+      "Healthy",
+      "Savory",
+      "Lunch",
+      "Dinner",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Hibachi Crab Meat",
+    "description": null,
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Hibachi",
+      "Crab",
+      "Seafood",
+      "Grilled",
+      "Japanese",
+      "Entree",
+      "Shellfish",
+      "Dinner",
+      "Savory",
+      "Cooked"
+    ]
+  },
+  {
+    "name": "Hibachi House Steak",
+    "description": null,
+    "price": 18.00,
+    "calories": null,
+    "tags": [
+      "Hibachi",
+      "Steak",
+      "Beef",
+      "Grilled",
+      "Japanese",
+      "Entree",
+      "Premium",
+      "Dinner",
+      "Hearty",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Hibachi Jumbo Shrimp",
+    "description": null,
+    "price": 13.00,
+    "calories": null,
+    "tags": [
+      "Hibachi",
+      "Shrimp",
+      "Seafood",
+      "Grilled",
+      "Japanese",
+      "Entree",
+      "Jumbo Shrimp",
+      "Savory",
+      "Dinner",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Salmon Poke Bowl",
+    "description": "Salmon,edamame,seaweed salad,cucumber,radish,fish roe,avocado and crab meat salad",
+    "price": 14.00,
+    "calories": null,
+    "tags": [
+      "Poke Bowl",
+      "Salmon",
+      "Seafood",
+      "Healthy",
+      "Cold Dish",
+      "Hawaiian",
+      "Japanese Fusion",
+      "Fresh",
+      "Lunch",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Spicy Salmon Poke Bowl",
+    "description": "Spicy Salmon,edamame,seaweed salad,cucumber,radish,fish roe,avocado and crab meat salad",
+    "price": 14.00,
+    "calories": null,
+    "tags": [
+      "Poke Bowl",
+      "Spicy Salmon",
+      "Raw",
+      "Seafood",
+      "Healthy",
+      "Cold Dish",
+      "Japanese Fusion",
+      "Spicy",
+      "Fresh",
+      "Lunch"
+    ]
+  },
+  {
+    "name": "Yellow Tail Poke Bowl",
+    "description": null,
+    "price": 15.00,
+    "calories": null,
+    "tags": [
+      "Poke Bowl",
+      "Yellowtail",
+      "Raw",
+      "Seafood",
+      "Healthy",
+      "Cold Dish",
+      "Japanese Fusion",
+      "Fresh",
+      "Lunch",
+      "Fish"
+    ]
+  },
+  {
+    "name": "Spicy Yellowtail Poke Bowl",
+    "description": null,
+    "price": 15.00,
+    "calories": null,
+    "tags": [
+      "Poke Bowl",
+      "Spicy Yellowtail",
+      "Raw",
+      "Seafood",
+      "Healthy",
+      "Cold Dish",
+      "Japanese Fusion",
+      "Spicy",
+      "Fresh",
+      "Lunch"
+    ]
+  },
+  {
+    "name": "Tuna Poke Bowl",
+    "description": "Tuna,edamame,seaweed salad,cucumber,radish,fish roe,avocado and crab meat salad",
+    "price": 15.00,
+    "calories": null,
+    "tags": [
+      "Poke Bowl",
+      "Tuna",
+      "Raw",
+      "Seafood",
+      "Healthy",
+      "Cold Dish",
+      "Japanese Fusion",
+      "Fresh",
+      "Lunch",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Eel Poke Bowl",
+    "description": "Edamame,Seaweed salad,cucumber. radish. fish roe. avocado and crab meat salad",
+    "price": 16.00,
+    "calories": null,
+    "tags": [
+      "Poke Bowl",
+      "Eel",
+      "Unagi",
+      "Cooked",
+      "Seafood",
+      "Healthy",
+      "Cold Dish",
+      "Japanese Fusion",
+      "Savory",
+      "Lunch"
+    ]
+  },
+  {
+    "name": "Vegan Poke Bowl",
+    "description": "Fried tofu,Grilled mushroom,edamame,seaweed salad,cucumber,radish,and avocado",
+    "price": 13.00,
+    "calories": null,
+    "tags": [
+      "Poke Bowl",
+      "Vegan",
+      "Vegetarian",
+      "Tofu",
+      "Mushroom",
+      "Healthy",
+      "Cold Dish",
+      "Plant-Based",
+      "Fresh",
+      "Lunch"
+    ]
+  },
+  {
+    "name": "Additional Protein",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "Poke Bowl",
+      "Side",
+      "Extra",
+      "Add-on",
+      "Protein",
+      "Customizable",
+      "Meat",
+      "Seafood",
+      "Tofu",
+      "Healthy"
+    ]
+  },
+  {
+    "name": "Any Two Rolls",
+    "description": null,
+    "price": 12.99,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Combo",
+      "Japanese",
+      "Customizable",
+      "Seafood",
+      "Value Meal",
+      "Lunch Special",
+      "Dinner",
+      "Popular",
+      "Takeout"
+    ]
+  },
+  {
+    "name": "Any Three Rolls",
+    "description": null,
+    "price": 16.99,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Combo",
+      "Japanese",
+      "Customizable",
+      "Seafood",
+      "Value Meal",
+      "Sharable",
+      "Dinner",
+      "Popular",
+      "Takeout"
+    ]
+  },
+  {
+    "name": "Alaska Roll",
+    "description": "*Raw",
+    "price": 8.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Raw",
+      "Salmon",
+      "Avocado",
+      "Cucumber",
+      "Japanese",
+      "Seafood",
+      "Classic",
+      "Maki",
+      "Fresh"
+    ]
+  },
+  {
+    "name": "Avocado Roll",
+    "description": "Cooked",
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Vegetarian",
+      "Avocado",
+      "Cooked",
+      "Japanese",
+      "Healthy",
+      "Vegan Option",
+      "Maki",
+      "Light",
+      "Simple"
+    ]
+  },
+  {
+    "name": "Boston Roll",
+    "description": "Cooked",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Cooked",
+      "Shrimp",
+      "Avocado",
+      "Cucumber",
+      "Japanese",
+      "Seafood",
+      "Classic",
+      "Maki",
+      "Lettuce"
+    ]
+  },
+  {
+    "name": "Cucumber Roll",
+    "description": "Cooked",
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Vegetarian",
+      "Cucumber",
+      "Cooked",
+      "Japanese",
+      "Healthy",
+      "Vegan Option",
+      "Maki",
+      "Light",
+      "Simple"
+    ]
+  },
+  {
+    "name": "California Roll",
+    "description": "Cooked",
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Cooked",
+      "Crab",
+      "Avocado",
+      "Cucumber",
+      "Japanese",
+      "Classic",
+      "Maki",
+      "Beginner Friendly",
+      "American-style"
+    ]
+  },
+  {
+    "name": "Crab Stick Roll",
+    "description": null,
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Cooked",
+      "Crab Stick",
+      "Kani",
+      "Japanese",
+      "Simple",
+      "Maki",
+      "Seafood",
+      "Kid Friendly",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Spicy Crab Roll",
+    "description": null,
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Cooked",
+      "Spicy Crab",
+      "Japanese",
+      "Spicy",
+      "Maki",
+      "Seafood",
+      "Creamy",
+      "Savory",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Eel Avocado Roll",
+    "description": "Cooked",
+    "price": 8.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Cooked",
+      "Eel",
+      "Unagi",
+      "Avocado",
+      "Japanese",
+      "Savory",
+      "Maki",
+      "Sweet Sauce",
+      "Seafood"
+    ]
+  },
+  {
+    "name": "Eel Cucumber Roll",
+    "description": "Cooked",
+    "price": 8.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Cooked",
+      "Eel",
+      "Unagi",
+      "Cucumber",
+      "Japanese",
+      "Savory",
+      "Maki",
+      "Sweet Sauce",
+      "Seafood"
+    ]
+  },
+  {
+    "name": "Vegetarian Roll",
+    "description": "Cooked",
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Vegetarian",
+      "Cooked",
+      "Japanese",
+      "Healthy",
+      "Avocado",
+      "Cucumber",
+      "Vegan Option",
+      "Maki",
+      "Light"
+    ]
+  },
+  {
+    "name": "Philadelphia Roll",
+    "description": "*Raw",
+    "price": 8.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Raw",
+      "Salmon",
+      "Cream Cheese",
+      "Japanese",
+      "American-style",
+      "Maki",
+      "Classic",
+      "Rich",
+      "Seafood"
+    ]
+  },
+  {
+    "name": "Salmon Avocado Roll",
+    "description": "*Raw",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Raw",
+      "Salmon",
+      "Avocado",
+      "Japanese",
+      "Seafood",
+      "Maki",
+      "Classic",
+      "Healthy",
+      "Fresh"
+    ]
+  },
+  {
+    "name": "Salmon Cucumber Roll",
+    "description": "*Raw",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Raw",
+      "Salmon",
+      "Cucumber",
+      "Japanese",
+      "Seafood",
+      "Maki",
+      "Classic",
+      "Healthy",
+      "Fresh"
+    ]
+  },
+  {
+    "name": "Salmon Roll",
+    "description": "*Raw",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Raw",
+      "Salmon",
+      "Japanese",
+      "Seafood",
+      "Maki",
+      "Simple",
+      "Classic",
+      "Tekkamaki",
+      "Fresh"
+    ]
+  },
+  {
+    "name": "Shrimp Avocado Roll",
+    "description": "*Raw",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Cooked",
+      "Shrimp",
+      "Avocado",
+      "Japanese",
+      "Seafood",
+      "Maki",
+      "Classic",
+      "Creamy",
+      "Simple"
+    ]
+  },
+  {
+    "name": "Shrimp Tempura Roll",
+    "description": "Cooked",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Cooked",
+      "Shrimp Tempura",
+      "Fried",
+      "Japanese",
+      "Seafood",
+      "Maki",
+      "Crunchy",
+      "Popular",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Shrimp Cucumber Roll",
+    "description": "*Raw",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Cooked",
+      "Shrimp",
+      "Cucumber",
+      "Japanese",
+      "Seafood",
+      "Maki",
+      "Light",
+      "Fresh",
+      "Simple"
+    ]
+  },
+  {
+    "name": "Spicy Salmon Roll",
+    "description": "*Raw",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Raw",
+      "Spicy Salmon",
+      "Japanese",
+      "Seafood",
+      "Maki",
+      "Spicy",
+      "Popular",
+      "Savory",
+      "Fresh"
+    ]
+  },
+  {
+    "name": "Spicy Tuna Roll",
+    "description": "*Raw",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Raw",
+      "Spicy Tuna",
+      "Japanese",
+      "Seafood",
+      "Maki",
+      "Spicy",
+      "Popular",
+      "Classic",
+      "Fresh"
+    ]
+  },
+  {
+    "name": "Tuna Avocado Roll",
+    "description": "*Raw",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Raw",
+      "Tuna",
+      "Avocado",
+      "Japanese",
+      "Seafood",
+      "Maki",
+      "Classic",
+      "Healthy",
+      "Fresh"
+    ]
+  },
+  {
+    "name": "Tuna Cucumber Roll",
+    "description": "*Raw",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Raw",
+      "Tuna",
+      "Cucumber",
+      "Japanese",
+      "Seafood",
+      "Maki",
+      "Classic",
+      "Healthy",
+      "Fresh"
+    ]
+  },
+  {
+    "name": "Tuna Roll",
+    "description": "*Raw",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Raw",
+      "Tuna",
+      "Japanese",
+      "Seafood",
+      "Maki",
+      "Simple",
+      "Classic",
+      "Tekkamaki",
+      "Fresh"
+    ]
+  },
+  {
+    "name": "Yellowtail Roll",
+    "description": "*Raw",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Raw",
+      "Yellowtail",
+      "Japanese",
+      "Seafood",
+      "Maki",
+      "Simple",
+      "Classic",
+      "Negihama",
+      "Fresh"
+    ]
+  },
+  {
+    "name": "Spicy Yellowtail Roll",
+    "description": "*Raw",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Raw",
+      "Spicy Yellowtail",
+      "Japanese",
+      "Seafood",
+      "Maki",
+      "Spicy",
+      "Popular",
+      "Savory",
+      "Fresh"
+    ]
+  },
+  {
+    "name": "Spicy Crab Roll",
+    "description": null,
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Sushi Roll",
+      "Cooked",
+      "Spicy Crab",
+      "Japanese",
+      "Spicy",
+      "Maki",
+      "Seafood",
+      "Creamy",
+      "Savory",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Veggie Burrito",
+    "description": null,
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Sushi Burrito",
+      "Vegetarian",
+      "Japanese Fusion",
+      "Healthy",
+      "Lunch",
+      "Vegan Option",
+      "Fresh",
+      "Large",
+      "Handheld",
+      "Quick Meal"
+    ]
+  },
+  {
+    "name": "Salmon Burrito",
+    "description": null,
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Sushi Burrito",
+      "Salmon",
+      "Raw",
+      "Seafood",
+      "Japanese Fusion",
+      "Lunch",
+      "Large",
+      "Handheld",
+      "Fresh",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Spicy Crab Burrito",
+    "description": null,
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Sushi Burrito",
+      "Spicy Crab",
+      "Cooked",
+      "Seafood",
+      "Japanese Fusion",
+      "Lunch",
+      "Large",
+      "Handheld",
+      "Spicy",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Tuna Burrito",
+    "description": null,
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Sushi Burrito",
+      "Tuna",
+      "Raw",
+      "Seafood",
+      "Japanese Fusion",
+      "Lunch",
+      "Large",
+      "Handheld",
+      "Fresh",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Shrimp tempura Burrito",
+    "description": null,
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Sushi Burrito",
+      "Shrimp Tempura",
+      "Cooked",
+      "Fried",
+      "Japanese Fusion",
+      "Lunch",
+      "Large",
+      "Handheld",
+      "Crunchy",
+      "Seafood"
+    ]
+  },
+  {
+    "name": "Eel Burrito",
+    "description": null,
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Sushi Burrito",
+      "Eel",
+      "Unagi",
+      "Cooked",
+      "Japanese Fusion",
+      "Lunch",
+      "Large",
+      "Handheld",
+      "Savory",
+      "Sweet Sauce"
+    ]
+  },
+  {
+    "name": "Spicy Crunchy Crab Roll",
+    "description": "(Fried) Spicy carb and cream cheese inside deep fry with chef special sauce",
+    "price": 9.00,
+    "calories": null,
+    "tags": [
+      "Special Roll",
+      "Fried",
+      "Spicy Crab",
+      "Cream Cheese",
+      "Crunchy",
+      "Japanese",
+      "Cooked",
+      "Savory",
+      "Popular",
+      "Rich"
+    ]
+  },
+  {
+    "name": "Sunday Morning",
+    "description": "(Fried) Salmon avocado and cream cheese inside, top with chef's special sauce scallion and masago",
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Special Roll",
+      "Fried",
+      "Salmon",
+      "Cream Cheese",
+      "Avocado",
+      "Japanese",
+      "Cooked",
+      "Rich",
+      "Savory",
+      "Signature"
+    ]
+  },
+  {
+    "name": "King Roll",
+    "description": "(Fried) Red snapper avocado and cream cheese inside top with chef's special sauce scallion and tobiko",
+    "price": 11.00,
+    "calories": null,
+    "tags": [
+      "Special Roll",
+      "Fried",
+      "Red Snapper",
+      "Cream Cheese",
+      "Avocado",
+      "Japanese",
+      "Cooked",
+      "Rich",
+      "Savory",
+      "Fish"
+    ]
+  },
+  {
+    "name": "Dragon Roll",
+    "description": "Eel, cucumber inside, topped with avocado,served with eel sauce & masago",
+    "price": 13.00,
+    "calories": null,
+    "tags": [
+      "Special Roll",
+      "Eel",
+      "Unagi",
+      "Avocado",
+      "Cooked",
+      "Japanese",
+      "Classic",
+      "Artistic",
+      "Savory",
+      "Sweet Sauce"
+    ]
+  },
+  {
+    "name": "Rainbow Roll",
+    "description": "Crab meat, cucumber & avocado inside, topped with tuna, salmon snapper and avocado",
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Special Roll",
+      "Raw",
+      "Tuna",
+      "Salmon",
+      "Red Snapper",
+      "Avocado",
+      "Japanese",
+      "Colorful",
+      "Classic",
+      "Fresh"
+    ]
+  },
+  {
+    "name": "Tiger Roll",
+    "description": "Shrimp tempura, avocado insice topped with spicy salmon, and eel sauce",
+    "price": 13.00,
+    "calories": null,
+    "tags": [
+      "Special Roll",
+      "Shrimp Tempura",
+      "Spicy Salmon",
+      "Raw",
+      "Cooked",
+      "Japanese",
+      "Crunchy",
+      "Spicy",
+      "Sweet and Spicy",
+      "Signature"
+    ]
+  },
+  {
+    "name": "Volcano Roll",
+    "description": "Spicy tuna, crunchy inside topped with spicy crab, tobiko and, sriracha sauce",
+    "price": 13.00,
+    "calories": null,
+    "tags": [
+      "Special Roll",
+      "Spicy Tuna",
+      "Spicy Crab",
+      "Raw",
+      "Cooked",
+      "Japanese",
+      "Spicy",
+      "Crunchy",
+      "Signature",
+      "Layered"
+    ]
+  },
+  {
+    "name": "Black Dragon Roll",
+    "description": "Shrimp tempura and cucumber inside, eel and avocado on top, with eel sauce",
+    "price": 15.00,
+    "calories": null,
+    "tags": [
+      "Special Roll",
+      "Eel",
+      "Unagi",
+      "Shrimp Tempura",
+      "Cooked",
+      "Japanese",
+      "Crunchy",
+      "Savory",
+      "Sweet Sauce",
+      "Signature"
+    ]
+  },
+  {
+    "name": "Yummy Roll",
+    "description": "Smoked salmon avocado and cream cheese inside. topped with spicy carb & chef's special sauce",
+    "price": 13.00,
+    "calories": null,
+    "tags": [
+      "Special Roll",
+      "Smoked Salmon",
+      "Spicy Crab",
+      "Cream Cheese",
+      "Cooked",
+      "Japanese",
+      "Rich",
+      "Savory",
+      "Creamy",
+      "Signature"
+    ]
+  },
+  {
+    "name": "Atlanta Roll",
+    "description": "Spicy salmon, crunchy inside, tooped with tuna & tobiko w honey wasabi sauce",
+    "price": 13.00,
+    "calories": null,
+    "tags": [
+      "Special Roll",
+      "Spicy Salmon",
+      "Tuna",
+      "Raw",
+      "Japanese",
+      "Crunchy",
+      "Sweet and Spicy",
+      "Wasabi",
+      "Signature",
+      "Local"
+    ]
+  },
+  {
+    "name": "Red Mountain Roll",
+    "description": "Tempura shrimp avocado and cream cheese inside topped with crab meat chef's special sauce and crispy onion",
+    "price": 14.00,
+    "calories": null,
+    "tags": [
+      "Special Roll",
+      "Shrimp Tempura",
+      "Crab Meat",
+      "Cream Cheese",
+      "Cooked",
+      "Japanese",
+      "Crunchy",
+      "Crispy Onion",
+      "Rich",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Salmon",
+    "description": null,
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Sashimi",
+      "Nigiri",
+      "Salmon",
+      "Raw",
+      "Seafood",
+      "Japanese",
+      "Classic",
+      "Fresh",
+      "Healthy",
+      "Simple"
+    ]
+  },
+  {
+    "name": "Tuna",
+    "description": null,
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Sashimi",
+      "Nigiri",
+      "Tuna",
+      "Raw",
+      "Seafood",
+      "Japanese",
+      "Classic",
+      "Fresh",
+      "Maguro",
+      "Simple"
+    ]
+  },
+  {
+    "name": "Red Snapper",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "Sashimi",
+      "Nigiri",
+      "Red Snapper",
+      "Raw",
+      "Seafood",
+      "Japanese",
+      "Classic",
+      "Fresh",
+      "White Fish",
+      "Light"
+    ]
+  },
+  {
+    "name": "Yellowtail",
+    "description": null,
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Sashimi",
+      "Nigiri",
+      "Yellowtail",
+      "Raw",
+      "Seafood",
+      "Japanese",
+      "Classic",
+      "Fresh",
+      "Hamachi",
+      "Rich"
+    ]
+  },
+  {
+    "name": "Eel",
+    "description": null,
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Sashimi",
+      "Nigiri",
+      "Eel",
+      "Unagi",
+      "Cooked",
+      "Seafood",
+      "Japanese",
+      "Classic",
+      "Savory",
+      "Sweet Sauce"
+    ]
+  },
+  {
+    "name": "Shrimp",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "Sashimi",
+      "Nigiri",
+      "Shrimp",
+      "Ebi",
+      "Cooked",
+      "Seafood",
+      "Japanese",
+      "Classic",
+      "Sweet",
+      "Simple"
+    ]
+  },
+  {
+    "name": "Edamame",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Edamame",
+      "Vegetarian",
+      "Healthy",
+      "Japanese",
+      "Steamed",
+      "Soybean",
+      "Light",
+      "Starter",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Spring Rolls(2)",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Spring Roll",
+      "Fried",
+      "Vegetarian",
+      "Chinese",
+      "Starter",
+      "Crispy",
+      "Takeout",
+      "Sharable",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Chicken Egg Rolls(2)",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Egg Roll",
+      "Chicken",
+      "Fried",
+      "Chinese-American",
+      "Starter",
+      "Savory",
+      "Crispy",
+      "Takeout",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Fried Shrimp(8)",
+    "description": null,
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Fried Shrimp",
+      "Seafood",
+      "Fried",
+      "Japanese",
+      "Starter",
+      "Crispy",
+      "Sharable",
+      "Battered",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Dumplings(8)",
+    "description": null,
+    "price": 8.00,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Dumplings",
+      "Gyoza",
+      "Steamed",
+      "Pan-fried",
+      "Chinese",
+      "Japanese",
+      "Pork",
+      "Sharable",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Shrimp Tempura app (4)",
+    "description": null,
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Shrimp Tempura",
+      "Fried",
+      "Japanese",
+      "Seafood",
+      "Crispy",
+      "Light",
+      "Battered",
+      "Starter",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Crab Rangoon(8)",
+    "description": null,
+    "price": 8.00,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Fried",
+      "Crab",
+      "Cream Cheese",
+      "Wonton",
+      "Chinese-American",
+      "Sharable",
+      "Savory",
+      "Starter",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Home Make Pork Bun(6)",
+    "description": null,
+    "price": 9.99,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Pork",
+      "Bun",
+      "Steamed",
+      "Homemade",
+      "Chinese",
+      "Dim Sum",
+      "Savory",
+      "Sharable",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Pork chives dumpling(10)",
+    "description": null,
+    "price": 9.90,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Dumplings",
+      "Pork",
+      "Chives",
+      "Steamed",
+      "Pan-fried",
+      "Chinese",
+      "Savory",
+      "Sharable",
+      "Traditional"
+    ]
+  },
+  {
+    "name": "Miso Soup",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Soup",
+      "Salad",
+      "Miso",
+      "Japanese",
+      "Healthy",
+      "Light",
+      "Starter",
+      "Tofu",
+      "Seaweed",
+      "Traditional"
+    ]
+  },
+  {
+    "name": "Hot & Sour soup",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Soup",
+      "Salad",
+      "Hot and Sour",
+      "Spicy",
+      "Chinese",
+      "Appetizer",
+      "Starter",
+      "Vegetarian",
+      "Comfort Food",
+      "Popular"
+    ]
+  },
+  {
+    "name": "House Salad",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "Salad",
+      "Soup",
+      "Healthy",
+      "Vegetarian",
+      "Light",
+      "Starter",
+      "Fresh",
+      "Side Dish",
+      "Greens",
+      "American"
+    ]
+  },
+  {
+    "name": "Kani Salad",
+    "description": null,
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Salad",
+      "Soup",
+      "Kani",
+      "Crab",
+      "Japanese",
+      "Seafood",
+      "Creamy",
+      "Cold Dish",
+      "Starter",
+      "Refreshing"
+    ]
+  },
+  {
+    "name": "Seaweed Salad",
+    "description": null,
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Salad",
+      "Soup",
+      "Seaweed",
+      "Wakame",
+      "Japanese",
+      "Vegetarian",
+      "Healthy",
+      "Cold Dish",
+      "Starter",
+      "Light"
+    ]
+  },
+  {
+    "name": "Spicy Beef Noodles",
+    "description": null,
+    "price": 15.00,
+    "calories": null,
+    "tags": [
+      "Noodles",
+      "Rice",
+      "Beef",
+      "Spicy",
+      "Asian",
+      "Soup",
+      "Hearty",
+      "Entree",
+      "Comfort Food",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Clear Broth Beef Noodles",
+    "description": null,
+    "price": 14.00,
+    "calories": null,
+    "tags": [
+      "Noodles",
+      "Rice",
+      "Beef",
+      "Soup",
+      "Asian",
+      "Clear Broth",
+      "Hearty",
+      "Entree",
+      "Comfort Food",
+      "Traditional"
+    ]
+  },
+  {
+    "name": "Veg Fried Rice",
+    "description": null,
+    "price": 11.00,
+    "calories": null,
+    "tags": [
+      "Noodles",
+      "Rice",
+      "Vegetarian",
+      "Fried Rice",
+      "Chinese",
+      "Side Dish",
+      "Entree",
+      "Vegan Option",
+      "Stir-fry",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Veg Lo Mein",
+    "description": null,
+    "price": 11.00,
+    "calories": null,
+    "tags": [
+      "Noodles",
+      "Rice",
+      "Vegetarian",
+      "Lo Mein",
+      "Chinese",
+      "Side Dish",
+      "Entree",
+      "Vegan Option",
+      "Stir-fry",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Chicken Fried Rice",
+    "description": null,
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Noodles",
+      "Rice",
+      "Chicken",
+      "Fried Rice",
+      "Chinese",
+      "Entree",
+      "Takeout",
+      "Classic",
+      "Stir-fry",
+      "Comfort Food"
+    ]
+  },
+  {
+    "name": "Chicken Lo Mein",
+    "description": null,
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Noodles",
+      "Rice",
+      "Chicken",
+      "Lo Mein",
+      "Chinese",
+      "Entree",
+      "Takeout",
+      "Classic",
+      "Stir-fry",
+      "Comfort Food"
+    ]
+  },
+  {
+    "name": "Shrimp Fried Rice",
+    "description": null,
+    "price": 13.00,
+    "calories": null,
+    "tags": [
+      "Noodles",
+      "Rice",
+      "Shrimp",
+      "Fried Rice",
+      "Chinese",
+      "Seafood",
+      "Entree",
+      "Takeout",
+      "Classic",
+      "Stir-fry"
+    ]
+  },
+  {
+    "name": "Shrimp Lo Mein",
+    "description": null,
+    "price": 13.00,
+    "calories": null,
+    "tags": [
+      "Noodles",
+      "Rice",
+      "Shrimp",
+      "Lo Mein",
+      "Chinese",
+      "Seafood",
+      "Entree",
+      "Takeout",
+      "Classic",
+      "Stir-fry"
+    ]
+  },
+  {
+    "name": "Beef Fried Rice",
+    "description": null,
+    "price": 14.00,
+    "calories": null,
+    "tags": [
+      "Noodles",
+      "Rice",
+      "Beef",
+      "Fried Rice",
+      "Chinese",
+      "Entree",
+      "Takeout",
+      "Classic",
+      "Stir-fry",
+      "Hearty"
+    ]
+  },
+  {
+    "name": "Beef Lo Mein",
+    "description": null,
+    "price": 14.00,
+    "calories": null,
+    "tags": [
+      "Noodles",
+      "Rice",
+      "Beef",
+      "Lo Mein",
+      "Chinese",
+      "Entree",
+      "Takeout",
+      "Classic",
+      "Stir-fry",
+      "Hearty"
+    ]
+  },
+  {
+    "name": "Chicken with Broccoli",
+    "description": null,
+    "price": 13.00,
+    "calories": null,
+    "tags": [
+      "Chef's Special",
+      "Chinese",
+      "Chicken",
+      "Broccoli",
+      "Stir-fry",
+      "Healthy",
+      "Classic",
+      "Entree",
+      "Takeout",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Black Pepper Chicken",
+    "description": null,
+    "price": 14.00,
+    "calories": null,
+    "tags": [
+      "Chef's Special",
+      "Chinese",
+      "Chicken",
+      "Black Pepper",
+      "Spicy",
+      "Stir-fry",
+      "Savory",
+      "Entree",
+      "Takeout",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Orange Chicken",
+    "description": null,
+    "price": 15.00,
+    "calories": null,
+    "tags": [
+      "Chef's Special",
+      "Chinese-American",
+      "Chicken",
+      "Orange Sauce",
+      "Sweet and Sour",
+      "Fried",
+      "Popular",
+      "Entree",
+      "Takeout",
+      "Crispy"
+    ]
+  },
+  {
+    "name": "General Tso's Chicken",
+    "description": null,
+    "price": 15.00,
+    "calories": null,
+    "tags": [
+      "Chef's Special",
+      "Chinese-American",
+      "Chicken",
+      "Spicy",
+      "Sweet and Sour",
+      "Fried",
+      "Popular",
+      "Entree",
+      "Takeout",
+      "Crispy"
+    ]
+  },
+  {
+    "name": "Mongolian Beef",
+    "description": null,
+    "price": 16.00,
+    "calories": null,
+    "tags": [
+      "Chef's Special",
+      "Chinese",
+      "Beef",
+      "Mongolian",
+      "Savory",
+      "Stir-fry",
+      "Onions",
+      "Entree",
+      "Popular",
+      "Takeout"
+    ]
+  },
+  {
+    "name": "Butter Cabbage",
+    "description": null,
+    "price": 12.00,
+    "calories": null,
+    "tags": [
+      "Chef's Special",
+      "Side Dish",
+      "Cabbage",
+      "Butter",
+      "Vegetarian",
+      "Comfort Food",
+      "Savory",
+      "Simple",
+      "Asian",
+      "Stir-fry"
+    ]
+  },
+  {
+    "name": "Pepper steak",
+    "description": null,
+    "price": 16.00,
+    "calories": null,
+    "tags": [
+      "Chef's Special",
+      "Chinese-American",
+      "Beef",
+      "Pepper Steak",
+      "Stir-fry",
+      "Bell Peppers",
+      "Onions",
+      "Entree",
+      "Classic",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Teriyaki Chicken",
+    "description": null,
+    "price": 15.00,
+    "calories": null,
+    "tags": [
+      "Chef's Special",
+      "Japanese",
+      "Chicken",
+      "Teriyaki",
+      "Grilled",
+      "Sweet",
+      "Savory",
+      "Entree",
+      "Popular",
+      "Takeout"
+    ]
+  },
+  {
+    "name": "Mapo Tofu",
+    "description": null,
+    "price": 15.00,
+    "calories": null,
+    "tags": [
+      "Chef's Special",
+      "Chinese",
+      "Sichuan",
+      "Tofu",
+      "Spicy",
+      "Vegetarian Option",
+      "Pork",
+      "Authentic",
+      "Entree",
+      "Rich"
+    ]
+  },
+  {
+    "name": "Homemade Tofu",
+    "description": null,
+    "price": 14.00,
+    "calories": null,
+    "tags": [
+      "Chef's Special",
+      "Chinese",
+      "Tofu",
+      "Vegetarian",
+      "Homemade",
+      "Healthy",
+      "Entree",
+      "Light",
+      "Savory",
+      "Simple"
+    ]
+  },
+  {
+    "name": "Szechuan chicken",
+    "description": null,
+    "price": 15.00,
+    "calories": null,
+    "tags": [
+      "Chef's Special",
+      "Chinese",
+      "Sichuan",
+      "Szechuan",
+      "Chicken",
+      "Spicy",
+      "Stir-fry",
+      "Peppers",
+      "Entree",
+      "Bold Flavor"
+    ]
+  },
+  {
+    "name": "White Rice",
+    "description": null,
+    "price": 2.50,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Sauce",
+      "Rice",
+      "Steamed",
+      "Classic",
+      "Staple",
+      "Plain",
+      "Gluten-Free",
+      "Vegetarian",
+      "Asian"
+    ]
+  },
+  {
+    "name": "Fried Rice",
+    "description": null,
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Sauce",
+      "Fried Rice",
+      "Chinese",
+      "Classic",
+      "Takeout",
+      "Stir-fry",
+      "Egg",
+      "Vegetable",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Lo Mein",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Sauce",
+      "Lo Mein",
+      "Noodles",
+      "Chinese",
+      "Classic",
+      "Takeout",
+      "Stir-fry",
+      "Vegetable",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Yum Yum Sauce",
+    "description": null,
+    "price": 0.75,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Sauce",
+      "Japanese",
+      "Creamy",
+      "Condiment",
+      "Hibachi",
+      "Dip",
+      "Sweet",
+      "Savory",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Chili Oil",
+    "description": null,
+    "price": 0.75,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Sauce",
+      "Chili Oil",
+      "Spicy",
+      "Condiment",
+      "Chinese",
+      "Sichuan",
+      "Flavorful",
+      "Aromatic",
+      "Hot"
+    ]
+  },
+  {
+    "name": "Siracha Sauce",
+    "description": null,
+    "price": 0.75,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Sauce",
+      "Sriracha",
+      "Spicy",
+      "Condiment",
+      "Hot Sauce",
+      "Thai",
+      "Versatile",
+      "Tangy",
+      "Garlic"
+    ]
+  },
+  {
+    "name": "Teriyaki Sauce",
+    "description": null,
+    "price": 0.75,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Sauce",
+      "Teriyaki",
+      "Japanese",
+      "Sweet",
+      "Savory",
+      "Glaze",
+      "Condiment",
+      "Classic",
+      "Rich"
+    ]
+  },
+  {
+    "name": "Eel Sauce",
+    "description": null,
+    "price": 0.75,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Sauce",
+      "Eel Sauce",
+      "Unagi",
+      "Japanese",
+      "Sweet",
+      "Savory",
+      "Glaze",
+      "Sushi",
+      "Rich"
+    ]
+  },
+  {
+    "name": "Garlic Sauce",
+    "description": null,
+    "price": 0.75,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Sauce",
+      "Garlic",
+      "Chinese",
+      "Savory",
+      "Aromatic",
+      "Stir-fry",
+      "Condiment",
+      "Flavorful",
+      "Versatile"
+    ]
+  },
+  {
+    "name": "Spicy Mayo",
+    "description": null,
+    "price": 0.75,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Sauce",
+      "Spicy Mayo",
+      "Japanese",
+      "Creamy",
+      "Spicy",
+      "Condiment",
+      "Sushi",
+      "Dip",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Sweet Chili",
+    "description": null,
+    "price": 0.75,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Sauce",
+      "Sweet Chili",
+      "Thai",
+      "Sweet and Sour",
+      "Spicy",
+      "Condiment",
+      "Dip",
+      "Versatile",
+      "Tangy"
+    ]
+  },
+  {
+    "name": "Your Chinese Feast for 30",
+    "description": null,
+    "price": 450.00,
+    "calories": null,
+    "tags": [
+      "Chinese party",
+      "Catering",
+      "Party Tray",
+      "Large Group",
+      "Chinese",
+      "Feast",
+      "Family Style",
+      "Sharable",
+      "Event",
+      "Value"
+    ]
+  }
+]

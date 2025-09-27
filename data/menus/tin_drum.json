@@ -1,0 +1,2522 @@
+[
+  {
+    "name": "Brown Sugar Pearl Milk",
+    "description": null,
+    "price": 5.50,
+    "calories": null,
+    "tags": [
+      "Local Favorites",
+      "Boba",
+      "Milk Tea",
+      "Brown Sugar",
+      "Sweet",
+      "Dessert Drink",
+      "Popular",
+      "Asian",
+      "Refreshing",
+      "Creamy"
+    ]
+  },
+  {
+    "name": "Tonkotsu Ramen",
+    "description": "Tonkotsu broth, hard boiled soy egg, bean sprout, green onion, garlic ...",
+    "price": 12.95,
+    "calories": null,
+    "tags": [
+      "Local Favorites",
+      "Ramen",
+      "Japanese",
+      "Pork Broth",
+      "Noodle Soup",
+      "Comfort Food",
+      "Entree",
+      "Hearty",
+      "Savory",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Panang Curry King",
+    "description": "Creamy red curry, coconut milk, broccoli, bell pepper, fresh basil, eg...",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "Local Favorites",
+      "Curry",
+      "Thai",
+      "Panang",
+      "Coconut Milk",
+      "Spicy",
+      "Creamy",
+      "Entree",
+      "Rice Dish",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Pho",
+    "description": "Beef broth, rice noodle, fried shallot, onion, cilantro, scallion, gar...",
+    "price": 12.95,
+    "calories": null,
+    "tags": [
+      "FEATURED ITEMS",
+      "Pho",
+      "Vietnamese",
+      "Noodle Soup",
+      "Beef Broth",
+      "Comfort Food",
+      "Entree",
+      "Aromatic",
+      "Herbaceous",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Buddha Ramen",
+    "description": "Spicy miso broth, spinach, hard boiled soy egg, green onion, pickled g...",
+    "price": 12.95,
+    "calories": null,
+    "tags": [
+      "FEATURED ITEMS",
+      "Ramen",
+      "Japanese",
+      "Miso Broth",
+      "Spicy",
+      "Vegetarian Option",
+      "Noodle Soup",
+      "Comfort Food",
+      "Entree",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Chinese American Fried Rice",
+    "description": "Carrot, onion, scallion, bean sprout, egg, sesame oil.",
+    "price": 11.00,
+    "calories": null,
+    "tags": [
+      "FEATURED ITEMS",
+      "Fried Rice",
+      "Chinese-American",
+      "Stir-fry",
+      "Classic",
+      "Takeout",
+      "Entree",
+      "Comfort Food",
+      "Savory",
+      "Rice Dish"
+    ]
+  },
+  {
+    "name": "Crab & Cheese Spring Roll (1)",
+    "description": "An indulgent Crab Rangoon rolled in a spring roll wrapper. Don't miss ...",
+    "price": 2.25,
+    "calories": null,
+    "tags": [
+      "TIN DRUM'S GREATEST HITS",
+      "Appetizer",
+      "Spring Roll",
+      "Crab Rangoon",
+      "Fried",
+      "Seafood",
+      "Cream Cheese",
+      "Asian Fusion",
+      "Starter",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Chinese Sesame Stir Fry",
+    "description": "Broccoli, toasted sesame seed, bell pepper, sweet & savory",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "TIN DRUM'S GREATEST HITS",
+      "Stir-fry",
+      "Chinese",
+      "Sesame",
+      "Sweet and Savory",
+      "Vegetarian Option",
+      "Entree",
+      "Classic",
+      "Takeout",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Pad Thai Noodle",
+    "description": "Rice noodle, bean sprout, carrot, scallion, lime, toasted peanut, egg,...",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "TIN DRUM'S GREATEST HITS",
+      "Pad Thai",
+      "Noodle Dish",
+      "Thai",
+      "Rice Noodles",
+      "Peanuts",
+      "Sweet and Tangy",
+      "Classic",
+      "Popular",
+      "Stir-fry"
+    ]
+  },
+  {
+    "name": "Thai Basil Fried Rice",
+    "description": "Green bean, onion, scallion, jalapeno, cucumber, fried red chilis, fre...",
+    "price": 11.00,
+    "calories": null,
+    "tags": [
+      "TIN DRUM'S GREATEST HITS",
+      "Fried Rice",
+      "Thai",
+      "Basil",
+      "Spicy",
+      "Aromatic",
+      "Stir-fry",
+      "Entree",
+      "Popular",
+      "Jalapeno"
+    ]
+  },
+  {
+    "name": "Bangin Miso Ramen",
+    "description": "Spicy miso broth, hard boiled soy egg, green onion, pickled ginger, cr...",
+    "price": 12.95,
+    "calories": null,
+    "tags": [
+      "TIN DRUM'S GREATEST HITS",
+      "Ramen",
+      "Japanese",
+      "Miso Broth",
+      "Spicy",
+      "Noodle Soup",
+      "Comfort Food",
+      "Entree",
+      "Popular",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Chinatown Lo Mein Noodle",
+    "description": "Soba wheat noodle, cabbage, carrot, scallion, crispy rice noodle, chop...",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "TIN DRUM'S GREATEST HITS",
+      "Lo Mein",
+      "Noodle Dish",
+      "Chinese",
+      "Soba",
+      "Stir-fry",
+      "Classic",
+      "Takeout",
+      "Savory",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Bangkok Sweet Chili Curry",
+    "description": "Sweet chili curry, coconut milk, baby spinach, toasted peanut, white o...",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "TIN DRUM'S GREATEST HITS",
+      "Curry",
+      "Thai",
+      "Sweet Chili",
+      "Coconut Milk",
+      "Spicy",
+      "Sweet",
+      "Entree",
+      "Rice Dish",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Build Your Own Milk Tea",
+    "description": null,
+    "price": 5.50,
+    "calories": null,
+    "tags": [
+      "BOBA MILK TEAS",
+      "Boba",
+      "Milk Tea",
+      "Customizable",
+      "Beverage",
+      "Sweet",
+      "Refreshing",
+      "Asian",
+      "Build Your Own",
+      "Drink"
+    ]
+  },
+  {
+    "name": "Brown Sugar Pearl Milk",
+    "description": null,
+    "price": 5.50,
+    "calories": null,
+    "tags": [
+      "BOBA MILK TEAS",
+      "Boba",
+      "Milk Tea",
+      "Brown Sugar",
+      "Sweet",
+      "Dessert Drink",
+      "Popular",
+      "Asian",
+      "Refreshing",
+      "Creamy"
+    ]
+  },
+  {
+    "name": "Classic Milk Tea",
+    "description": null,
+    "price": 5.50,
+    "calories": null,
+    "tags": [
+      "BOBA MILK TEAS",
+      "Boba",
+      "Milk Tea",
+      "Classic",
+      "Black Tea",
+      "Sweet",
+      "Refreshing",
+      "Customizable",
+      "Asian",
+      "Beverage"
+    ]
+  },
+  {
+    "name": "Thai Iced Tea",
+    "description": null,
+    "price": 5.50,
+    "calories": null,
+    "tags": [
+      "BOBA MILK TEAS",
+      "Thai Tea",
+      "Boba",
+      "Iced Tea",
+      "Sweet",
+      "Creamy",
+      "Spiced",
+      "Southeast Asian",
+      "Popular",
+      "Refreshing"
+    ]
+  },
+  {
+    "name": "Taro Milk Tea",
+    "description": null,
+    "price": 5.50,
+    "calories": null,
+    "tags": [
+      "BOBA MILK TEAS",
+      "Boba",
+      "Milk Tea",
+      "Taro",
+      "Sweet",
+      "Creamy",
+      "Purple",
+      "Asian",
+      "Dessert Drink",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Matcha Milk Tea",
+    "description": null,
+    "price": 5.50,
+    "calories": null,
+    "tags": [
+      "BOBA MILK TEAS",
+      "Boba",
+      "Milk Tea",
+      "Matcha",
+      "Green Tea",
+      "Japanese",
+      "Earthy",
+      "Sweet",
+      "Creamy",
+      "Refreshing"
+    ]
+  },
+  {
+    "name": "Matcha Strawberry Milk Tea",
+    "description": null,
+    "price": 5.50,
+    "calories": null,
+    "tags": [
+      "BOBA MILK TEAS",
+      "Boba",
+      "Milk Tea",
+      "Matcha",
+      "Strawberry",
+      "Fruity",
+      "Sweet",
+      "Earthy",
+      "Layered",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Matcha Blueberry Milk Tea",
+    "description": null,
+    "price": 5.50,
+    "calories": null,
+    "tags": [
+      "BOBA MILK TEAS",
+      "Boba",
+      "Milk Tea",
+      "Matcha",
+      "Blueberry",
+      "Fruity",
+      "Sweet",
+      "Earthy",
+      "Antioxidants",
+      "Unique"
+    ]
+  },
+  {
+    "name": "Chai Milk Tea",
+    "description": null,
+    "price": 5.50,
+    "calories": null,
+    "tags": [
+      "BOBA MILK TEAS",
+      "Boba",
+      "Milk Tea",
+      "Chai",
+      "Spiced",
+      "Indian",
+      "Aromatic",
+      "Sweet",
+      "Creamy",
+      "Comforting"
+    ]
+  },
+  {
+    "name": "Build Your Own Fruit Tea",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "BOBA FRUIT TEAS",
+      "Fruit Tea",
+      "Boba",
+      "Customizable",
+      "Refreshing",
+      "Iced Tea",
+      "Fruity",
+      "Sweet",
+      "Beverage",
+      "Build Your Own"
+    ]
+  },
+  {
+    "name": "Passion Fruit Mango Fruit Tea",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "BOBA FRUIT TEAS",
+      "Fruit Tea",
+      "Passion Fruit",
+      "Mango",
+      "Tropical",
+      "Refreshing",
+      "Sweet",
+      "Tangy",
+      "Popular",
+      "Iced Tea"
+    ]
+  },
+  {
+    "name": "Mango Fruit Tea",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "BOBA FRUIT TEAS",
+      "Fruit Tea",
+      "Mango",
+      "Tropical",
+      "Refreshing",
+      "Sweet",
+      "Fruity",
+      "Popular",
+      "Iced Tea",
+      "Boba"
+    ]
+  },
+  {
+    "name": "Peach Fruit Tea",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "BOBA FRUIT TEAS",
+      "Fruit Tea",
+      "Peach",
+      "Refreshing",
+      "Sweet",
+      "Fruity",
+      "Classic",
+      "Iced Tea",
+      "Boba",
+      "Summer"
+    ]
+  },
+  {
+    "name": "Strawberry Fruit Tea",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "BOBA FRUIT TEAS",
+      "Fruit Tea",
+      "Strawberry",
+      "Refreshing",
+      "Sweet",
+      "Fruity",
+      "Berry",
+      "Iced Tea",
+      "Boba",
+      "Popular"
+    ]
+  },
+  {
+    "name": "DragonFruit Pineapple Fruit Tea",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "BOBA FRUIT TEAS",
+      "Fruit Tea",
+      "Dragon Fruit",
+      "Pineapple",
+      "Tropical",
+      "Exotic",
+      "Refreshing",
+      "Sweet",
+      "Iced Tea",
+      "Unique"
+    ]
+  },
+  {
+    "name": "Pineapple Peach Fruit Tea",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "BOBA FRUIT TEAS",
+      "Fruit Tea",
+      "Pineapple",
+      "Peach",
+      "Tropical",
+      "Refreshing",
+      "Sweet",
+      "Fruity",
+      "Iced Tea",
+      "Summer"
+    ]
+  },
+  {
+    "name": "Lychee Strawberry Fruit Tea",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "BOBA FRUIT TEAS",
+      "Fruit Tea",
+      "Lychee",
+      "Strawberry",
+      "Floral",
+      "Fruity",
+      "Refreshing",
+      "Sweet",
+      "Iced Tea",
+      "Asian"
+    ]
+  },
+  {
+    "name": "Lychee Fruit Tea",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "BOBA FRUIT TEAS",
+      "Fruit Tea",
+      "Lychee",
+      "Floral",
+      "Fruity",
+      "Refreshing",
+      "Sweet",
+      "Iced Tea",
+      "Asian",
+      "Classic"
+    ]
+  },
+  {
+    "name": "TDAK Refreshers Freeze",
+    "description": null,
+    "price": 5.25,
+    "calories": null,
+    "tags": [
+      "HANDCRAFTED DRINKS",
+      "Refresher",
+      "Frozen",
+      "Slush",
+      "Fruity",
+      "Refreshing",
+      "Cold",
+      "Sweet",
+      "Beverage",
+      "Non-Alcoholic"
+    ]
+  },
+  {
+    "name": "TDAK Refreshers Iced or Fizz",
+    "description": null,
+    "price": 5.25,
+    "calories": null,
+    "tags": [
+      "HANDCRAFTED DRINKS",
+      "Refresher",
+      "Iced",
+      "Sparkling",
+      "Fruity",
+      "Refreshing",
+      "Cold",
+      "Sweet",
+      "Beverage",
+      "Non-Alcoholic"
+    ]
+  },
+  {
+    "name": "Vietnamese Iced Coffee",
+    "description": null,
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "HANDCRAFTED DRINKS",
+      "Coffee",
+      "Vietnamese",
+      "Iced Coffee",
+      "Strong",
+      "Sweet",
+      "Condensed Milk",
+      "Caffeinated",
+      "Bold",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Lemonades",
+    "description": "Classic or Yuzu",
+    "price": 4.50,
+    "calories": null,
+    "tags": [
+      "HANDCRAFTED DRINKS",
+      "Lemonade",
+      "Beverage",
+      "Refreshing",
+      "Sweet and Tart",
+      "Citrus",
+      "Yuzu",
+      "Classic",
+      "Non-Alcoholic",
+      "Summer"
+    ]
+  },
+  {
+    "name": "Mai Tai",
+    "description": "Pineapple, Orange, & Orgeat",
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "HANDCRAFTED DRINKS",
+      "Mocktail",
+      "Mai Tai",
+      "Tropical",
+      "Fruity",
+      "Pineapple",
+      "Orange",
+      "Non-Alcoholic",
+      "Refreshing",
+      "Sweet"
+    ]
+  },
+  {
+    "name": "Blue Hawaiian",
+    "description": "Pineapple, Coconut, & Blue Citrus",
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "HANDCRAFTED DRINKS",
+      "Mocktail",
+      "Blue Hawaiian",
+      "Tropical",
+      "Fruity",
+      "Pineapple",
+      "Coconut",
+      "Non-Alcoholic",
+      "Refreshing",
+      "Sweet"
+    ]
+  },
+  {
+    "name": "Yuzu Pina Colada",
+    "description": "Coconut, Pineapple, & Yuzu Lemon",
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "HANDCRAFTED DRINKS",
+      "Mocktail",
+      "Pina Colada",
+      "Yuzu",
+      "Tropical",
+      "Fruity",
+      "Coconut",
+      "Pineapple",
+      "Non-Alcoholic",
+      "Creamy"
+    ]
+  },
+  {
+    "name": "Lime Colada",
+    "description": "Coconut & Lime",
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "HANDCRAFTED DRINKS",
+      "Mocktail",
+      "Colada",
+      "Lime",
+      "Tropical",
+      "Creamy",
+      "Coconut",
+      "Non-Alcoholic",
+      "Refreshing",
+      "Tangy"
+    ]
+  },
+  {
+    "name": "Crab N Cheese Spring Roll (1)",
+    "description": "An indulgent Crab Rangoon rolled in a spring roll wrapper. Don't miss ...",
+    "price": 2.25,
+    "calories": null,
+    "tags": [
+      "BITE",
+      "Appetizer",
+      "Spring Roll",
+      "Crab Rangoon",
+      "Fried",
+      "Seafood",
+      "Cream Cheese",
+      "Asian Fusion",
+      "Starter",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Veggie Spring Roll (1)",
+    "description": "A cripsy mix of fresh veggies and delicious sweet n sour sauce!",
+    "price": 2.25,
+    "calories": null,
+    "tags": [
+      "BITE",
+      "Appetizer",
+      "Spring Roll",
+      "Vegetarian",
+      "Fried",
+      "Crispy",
+      "Chinese",
+      "Starter",
+      "Vegan",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Tokyo Crinkle Fries",
+    "description": "Sesame oil, salt, sesame seeds, Sriracha mayo.",
+    "price": 3.95,
+    "calories": null,
+    "tags": [
+      "BITE",
+      "Fries",
+      "Side Dish",
+      "Japanese Fusion",
+      "Spicy",
+      "Sesame",
+      "Sriracha Mayo",
+      "Crinkle Cut",
+      "Savory",
+      "Appetizer"
+    ]
+  },
+  {
+    "name": "Crunchy Chicken Potsticker (3)",
+    "description": "(3) crispy fried chicken potstickers served with ponzu-lime dip",
+    "price": 3.95,
+    "calories": null,
+    "tags": [
+      "BITE",
+      "Appetizer",
+      "Potsticker",
+      "Gyoza",
+      "Fried",
+      "Chicken",
+      "Asian",
+      "Crispy",
+      "Sharable",
+      "Dumpling"
+    ]
+  },
+  {
+    "name": "Chicken Lettuce Wrap",
+    "description": "Minced chicken, water chestnut, onion, garlic, sesame seed, crispy noo...",
+    "price": 7.50,
+    "calories": null,
+    "tags": [
+      "APPETIZER",
+      "Lettuce Wrap",
+      "Chicken",
+      "Healthy",
+      "Light",
+      "Asian",
+      "Low Carb",
+      "Fresh",
+      "Savory",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Firecracker Cauliflower",
+    "description": "Tempura cauliflower, scallion, garlic chili sauce",
+    "price": 7.50,
+    "calories": null,
+    "tags": [
+      "APPETIZER",
+      "Cauliflower",
+      "Vegetarian",
+      "Spicy",
+      "Fried",
+      "Tempura",
+      "Asian Fusion",
+      "Firecracker",
+      "Starter",
+      "Bold Flavor"
+    ]
+  },
+  {
+    "name": "Cantonese Green Bean",
+    "description": "Green beans, shallot crunch, savory sauce",
+    "price": 7.50,
+    "calories": null,
+    "tags": [
+      "APPETIZER",
+      "Green Beans",
+      "Vegetable",
+      "Chinese",
+      "Cantonese",
+      "Savory",
+      "Side Dish",
+      "Vegetarian",
+      "Stir-fry",
+      "Garlicky"
+    ]
+  },
+  {
+    "name": "Side Drum Salad",
+    "description": "Broccoli, carrot, cilantro, spinach, iceberg lettuce, sesame seed, zes...",
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "SOUP & SALAD",
+      "Salad",
+      "Side Dish",
+      "Healthy",
+      "Vegetarian",
+      "Fresh",
+      "Light",
+      "Asian",
+      "Sesame",
+      "Greens"
+    ]
+  },
+  {
+    "name": "Saigon Salad",
+    "description": "Drum salad mix (broccoli, carrot, cilantro, spinach, iceberg lettuce),...",
+    "price": 8.00,
+    "calories": null,
+    "tags": [
+      "SOUP & SALAD",
+      "Salad",
+      "Vietnamese",
+      "Healthy",
+      "Fresh",
+      "Entree Salad",
+      "Light",
+      "Herbaceous",
+      "Customizable",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Thai Coconut Soup",
+    "description": "Made fresh daily with chopped green onion and mushroom",
+    "price": null,
+    "calories": null,
+    "tags": [
+      "SOUP & SALAD",
+      "Soup",
+      "Thai",
+      "Coconut",
+      "Tom Kha",
+      "Creamy",
+      "Aromatic",
+      "Comfort Food",
+      "Starter",
+      "Mushroom"
+    ]
+  },
+  {
+    "name": "Spicy Miso Soup",
+    "description": "Comforting miso soup with a subtle spicy kick, savory umami from red m...",
+    "price": null,
+    "calories": null,
+    "tags": [
+      "SOUP & SALAD",
+      "Soup",
+      "Miso",
+      "Japanese",
+      "Spicy",
+      "Umami",
+      "Comfort Food",
+      "Starter",
+      "Light",
+      "Healthy"
+    ]
+  },
+  {
+    "name": "Koreano Sandwich + Tokyo Crinkle Fries",
+    "description": "Gochujang pepper sauce, pickled carrot & daikon, sesame oil, brioche b...",
+    "price": 9.50,
+    "calories": null,
+    "tags": [
+      "FRIED CHICKEN SANDWICH",
+      "Combo Meal",
+      "Fried Chicken",
+      "Sandwich",
+      "Korean",
+      "Gochujang",
+      "Spicy",
+      "Fries",
+      "Lunch",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Yum Yum Sandwich + Tokyo Fries",
+    "description": "Hibachi yum yum sauce, jalapeno drizzle, pickled ginger, brioche bun",
+    "price": 9.50,
+    "calories": null,
+    "tags": [
+      "FRIED CHICKEN SANDWICH",
+      "Combo Meal",
+      "Fried Chicken",
+      "Sandwich",
+      "Japanese Fusion",
+      "Yum Yum Sauce",
+      "Creamy",
+      "Fries",
+      "Lunch",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "6 Wok Wings",
+    "description": "6 Wings tossed in your choice of Lucky Flavor",
+    "price": 8.50,
+    "calories": null,
+    "tags": [
+      "WOK WINGS & MORE!",
+      "Chicken Wings",
+      "Wok",
+      "Appetizer",
+      "Sharable",
+      "Customizable",
+      "Asian Fusion",
+      "Fried",
+      "Savory",
+      "Popular"
+    ]
+  },
+  {
+    "name": "12 Wok Wings",
+    "description": "12 Wok Wings tossed in your choice of 1 or 2 Lucky Flavors",
+    "price": 15.95,
+    "calories": null,
+    "tags": [
+      "WOK WINGS & MORE!",
+      "Chicken Wings",
+      "Wok",
+      "Large Portion",
+      "Sharable",
+      "Customizable",
+      "Asian Fusion",
+      "Party",
+      "Game Day",
+      "Popular"
+    ]
+  },
+  {
+    "name": "18 Wok Wings",
+    "description": "18 Wok Wings tossed in your choice of up to 3 different Lucky Flavors",
+    "price": 23.95,
+    "calories": null,
+    "tags": [
+      "WOK WINGS & MORE!",
+      "Chicken Wings",
+      "Wok",
+      "Family Size",
+      "Sharable",
+      "Customizable",
+      "Asian Fusion",
+      "Party",
+      "Game Day",
+      "Variety"
+    ]
+  },
+  {
+    "name": "24 Wok Wings",
+    "description": "24 Wok Wings tossed in your choice of 1, 2, or 4 different Lucky Flavo...",
+    "price": 31.95,
+    "calories": null,
+    "tags": [
+      "WOK WINGS & MORE!",
+      "Chicken Wings",
+      "Wok",
+      "Party Pack",
+      "Sharable",
+      "Customizable",
+      "Asian Fusion",
+      "Catering",
+      "Game Day",
+      "Group Meal"
+    ]
+  },
+  {
+    "name": "Boneless Wok Wings",
+    "description": null,
+    "price": 7.50,
+    "calories": null,
+    "tags": [
+      "WOK WINGS & MORE!",
+      "Boneless Wings",
+      "Chicken",
+      "Wok",
+      "Appetizer",
+      "Customizable",
+      "Asian Fusion",
+      "Fried",
+      "Easier to Eat",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Tempura Cauliflower",
+    "description": null,
+    "price": 7.50,
+    "calories": null,
+    "tags": [
+      "WOK WINGS & MORE!",
+      "Cauliflower",
+      "Vegetarian",
+      "Tempura",
+      "Fried",
+      "Appetizer",
+      "Side Dish",
+      "Crispy",
+      "Asian Fusion",
+      "Wok"
+    ]
+  },
+  {
+    "name": "Wok Tossed Tofu",
+    "description": null,
+    "price": 6.50,
+    "calories": null,
+    "tags": [
+      "WOK WINGS & MORE!",
+      "Tofu",
+      "Vegetarian",
+      "Wok",
+      "Stir-fry",
+      "Healthy",
+      "Protein",
+      "Side Dish",
+      "Vegan",
+      "Asian"
+    ]
+  },
+  {
+    "name": "Wok Tossed Veggies",
+    "description": null,
+    "price": 6.50,
+    "calories": null,
+    "tags": [
+      "WOK WINGS & MORE!",
+      "Vegetables",
+      "Vegetarian",
+      "Wok",
+      "Stir-fry",
+      "Healthy",
+      "Side Dish",
+      "Vegan",
+      "Fresh",
+      "Asian"
+    ]
+  },
+  {
+    "name": "Hong Kong Crispy Chicken N Rice",
+    "description": "Sweet n sour dipping sauce, cucumber, cilantro, shallot crunch",
+    "price": 15.50,
+    "calories": null,
+    "tags": [
+      "SIGNATURE DISHES",
+      "Chicken",
+      "Crispy",
+      "Rice Dish",
+      "Chinese",
+      "Hong Kong Style",
+      "Sweet and Sour",
+      "Entree",
+      "Comfort Food",
+      "Fried Chicken"
+    ]
+  },
+  {
+    "name": "Japanese Bourbon Katsu Chicken",
+    "description": "Panko fried chicken cutlet, bourbon sauce, mushroom",
+    "price": 13.95,
+    "calories": null,
+    "tags": [
+      "SIGNATURE DISHES",
+      "Chicken Katsu",
+      "Japanese",
+      "Fried Chicken",
+      "Panko",
+      "Bourbon Sauce",
+      "Sweet and Savory",
+      "Entree",
+      "Crispy",
+      "Comfort Food"
+    ]
+  },
+  {
+    "name": "Blazin' Angus Steak",
+    "description": "7 oz. certified angus steak, spinach, teriyaki glaze.",
+    "price": 15.95,
+    "calories": null,
+    "tags": [
+      "GRAND BENTOS",
+      "Bento Box",
+      "Steak",
+      "Angus Beef",
+      "Japanese",
+      "Teriyaki",
+      "Grilled",
+      "Entree",
+      "Hearty",
+      "Premium"
+    ]
+  },
+  {
+    "name": "Blazin' Shrimp",
+    "description": "Shrimp (8), spinach, teriyaki glaze.",
+    "price": 14.95,
+    "calories": null,
+    "tags": [
+      "GRAND BENTOS",
+      "Bento Box",
+      "Shrimp",
+      "Seafood",
+      "Japanese",
+      "Teriyaki",
+      "Grilled",
+      "Entree",
+      "Healthy",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Angus Ribeye Bulgogi",
+    "description": "Korean style wok seared shaved ribeye, onion, carrot.",
+    "price": 15.95,
+    "calories": null,
+    "tags": [
+      "GRAND BENTOS",
+      "Bento Box",
+      "Bulgogi",
+      "Korean",
+      "Ribeye",
+      "Beef",
+      "Stir-fry",
+      "Sweet and Savory",
+      "Entree",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Chinese Firecracker Pork Rib",
+    "description": "Chinese pork ribs (4), sesame seed, firecracker glaze.",
+    "price": 14.95,
+    "calories": null,
+    "tags": [
+      "GRAND BENTOS",
+      "Bento Box",
+      "Pork Ribs",
+      "Chinese",
+      "Spicy",
+      "Firecracker",
+      "Sweet and Spicy",
+      "Entree",
+      "Hearty",
+      "Glazed"
+    ]
+  },
+  {
+    "name": "Tonkotsu Ramen",
+    "description": "Tonkotsu broth, hard boiled soy egg, bean sprout, green onion, garlic ...",
+    "price": 12.95,
+    "calories": null,
+    "tags": [
+      "RAMEN & PHO",
+      "Ramen",
+      "Japanese",
+      "Tonkotsu",
+      "Pork Broth",
+      "Noodle Soup",
+      "Comfort Food",
+      "Entree",
+      "Hearty",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Bangin Miso Ramen",
+    "description": "Spicy miso broth, spinach, hard boiled soy egg, green onion, pickled g...",
+    "price": 12.95,
+    "calories": null,
+    "tags": [
+      "RAMEN & PHO",
+      "Ramen",
+      "Japanese",
+      "Miso Broth",
+      "Spicy",
+      "Noodle Soup",
+      "Comfort Food",
+      "Entree",
+      "Popular",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Buddha Ramen",
+    "description": "Plant based miso broth, green onion, pickled ginger, spinach, crispy o...",
+    "price": 12.95,
+    "calories": null,
+    "tags": [
+      "RAMEN & PHO",
+      "Ramen",
+      "Japanese",
+      "Miso Broth",
+      "Vegetarian",
+      "Vegan",
+      "Plant-Based",
+      "Noodle Soup",
+      "Healthy",
+      "Entree"
+    ]
+  },
+  {
+    "name": "Pho",
+    "description": "Beef broth, rice noodle, fried shallot, onion, cilantro, scallion, gar...",
+    "price": 12.95,
+    "calories": null,
+    "tags": [
+      "RAMEN & PHO",
+      "Pho",
+      "Vietnamese",
+      "Noodle Soup",
+      "Beef Broth",
+      "Comfort Food",
+      "Entree",
+      "Aromatic",
+      "Herbaceous",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Chinese Sesame Stir Fry",
+    "description": "Broccoli, toasted sesame seed, bell pepper, sweet & savory",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Chinese",
+      "Sesame",
+      "Sweet and Savory",
+      "Vegetarian Option",
+      "Entree",
+      "Classic",
+      "Takeout",
+      "Popular",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Chinese General Tso's Stir Fry",
+    "description": "Onion, bell pepper, red chilis, spicy savory & tangy",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "General Tso's",
+      "Chinese-American",
+      "Spicy",
+      "Sweet and Tangy",
+      "Entree",
+      "Popular",
+      "Takeout",
+      "Customizable",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Japanese Teriyaki Stir Fry",
+    "description": "Carrot, cabbage, scallion, lime, sweet & savory",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Teriyaki",
+      "Japanese",
+      "Sweet and Savory",
+      "Entree",
+      "Classic",
+      "Takeout",
+      "Popular",
+      "Customizable",
+      "Glaze"
+    ]
+  },
+  {
+    "name": "Chinese Orange Stir Fry",
+    "description": "Bell pepper, bright & tangy",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Orange Chicken",
+      "Chinese-American",
+      "Citrus",
+      "Tangy",
+      "Sweet",
+      "Entree",
+      "Popular",
+      "Takeout",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Thai Mango Stir Fry",
+    "description": "Mango, onion, bell pepper, jalapeno, basil, eggplant, sweet & tangy",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Thai",
+      "Mango",
+      "Sweet and Tangy",
+      "Fruity",
+      "Spicy",
+      "Entree",
+      "Southeast Asian",
+      "Customizable",
+      "Fresh"
+    ]
+  },
+  {
+    "name": "Chinese Firecracker Stir Fry",
+    "description": "Zucchini, spicy & savory",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Firecracker",
+      "Chinese",
+      "Spicy",
+      "Savory",
+      "Entree",
+      "Stir-fry",
+      "Bold Flavor",
+      "Takeout",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Chinese Black Pepper Stir Fry",
+    "description": "Zucchini, onion, black pepper, savory & peppery",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Black Pepper",
+      "Chinese",
+      "Savory",
+      "Peppery",
+      "Stir-fry",
+      "Entree",
+      "Bold Flavor",
+      "Takeout",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Chinese Mongolian Stir Fry",
+    "description": "Onion, scallion, crispy noodle, sweet & savory",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Mongolian",
+      "Chinese",
+      "Sweet and Savory",
+      "Stir-fry",
+      "Entree",
+      "Popular",
+      "Takeout",
+      "Customizable",
+      "Onion"
+    ]
+  },
+  {
+    "name": "Chinese Beijing Stir Fry",
+    "description": "Onion, bell pepper, scallion, Sichuan pepper, warmly spicy & savory",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Beijing Style",
+      "Chinese",
+      "Sichuan Pepper",
+      "Spicy",
+      "Savory",
+      "Entree",
+      "Stir-fry",
+      "Aromatic",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Chinese Sichuan Stir Fry",
+    "description": "Onion, bell pepper, eggplant, Sichuan pepper, spicy & savory",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Sichuan",
+      "Chinese",
+      "Spicy",
+      "Numbing",
+      "Sichuan Pepper",
+      "Entree",
+      "Stir-fry",
+      "Authentic",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Chinese Kung Pao Stir Fry",
+    "description": "Zucchini, onion, Sichuan pepper, peanut, spicy & savory",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Kung Pao",
+      "Chinese",
+      "Sichuan",
+      "Spicy",
+      "Peanut",
+      "Entree",
+      "Classic",
+      "Popular",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Vietnamese Lemongrass Stir Fry",
+    "description": "Onion, scallion, lemongrass, citrusy & savory",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Vietnamese",
+      "Lemongrass",
+      "Citrusy",
+      "Savory",
+      "Aromatic",
+      "Entree",
+      "Southeast Asian",
+      "Healthy",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Chinese Ginger Stir Fry",
+    "description": "Onion, scallion, ginger, warmly spicy",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Ginger",
+      "Chinese",
+      "Aromatic",
+      "Warmly Spicy",
+      "Savory",
+      "Entree",
+      "Stir-fry",
+      "Healthy",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Thai Basil Ginger Stir Fry",
+    "description": "Zucchini, onion, basil, ginger, warmly spicy & aromatic",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Thai",
+      "Basil",
+      "Ginger",
+      "Aromatic",
+      "Herbaceous",
+      "Spicy",
+      "Entree",
+      "Stir-fry",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Thai Pad Prik Stir Fry",
+    "description": "Green bean, peanuts, sweet chili spiced curry",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Pad Prik",
+      "Thai",
+      "Curry",
+      "Spicy",
+      "Sweet Chili",
+      "Green Bean",
+      "Entree",
+      "Stir-fry",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Chinese Veggie Delight Stir Fry",
+    "description": "Broccoli, carrot, cabbage, scallion, bell pepper, savory",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Vegetable",
+      "Vegetarian",
+      "Chinese",
+      "Healthy",
+      "Stir-fry",
+      "Entree",
+      "Vegan",
+      "Light",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Chinese Green Bean Stir Fry",
+    "description": "Green bean, shallot crunch, umami-rich savory",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Green Bean",
+      "Chinese",
+      "Vegetarian",
+      "Savory",
+      "Umami",
+      "Stir-fry",
+      "Entree",
+      "Side Dish",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Chinese Broccoli Stir Fry",
+    "description": "Broccoli, shallot crunch, umami-rich savory",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Broccoli",
+      "Chinese",
+      "Vegetarian",
+      "Savory",
+      "Umami",
+      "Stir-fry",
+      "Entree",
+      "Healthy",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Chinese Mushroom Stir Fry",
+    "description": "Mushroom, shallot crunch, umami-rich savory",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Mushroom",
+      "Chinese",
+      "Vegetarian",
+      "Savory",
+      "Umami",
+      "Stir-fry",
+      "Entree",
+      "Earthy",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Thai Eggplant Stir Fry",
+    "description": "Eggplant, basil, fragrant & herbaceous, choice of grain.",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "STIR FRY",
+      "Eggplant",
+      "Thai",
+      "Vegetarian",
+      "Basil",
+      "Herbaceous",
+      "Fragrant",
+      "Entree",
+      "Stir-fry",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Chinese American Fried Rice",
+    "description": "Carrot, onion, scallion, bean sprout, egg, sesame oil.",
+    "price": 11.00,
+    "calories": null,
+    "tags": [
+      "FRIED RICE",
+      "Chinese-American",
+      "Stir-fry",
+      "Classic",
+      "Takeout",
+      "Entree",
+      "Comfort Food",
+      "Savory",
+      "Rice Dish",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Japanese Teriyaki",
+    "description": "Edamame, carrot, scallion, house seasoning, egg, teriyaki drizzle.",
+    "price": 11.00,
+    "calories": null,
+    "tags": [
+      "FRIED RICE",
+      "Japanese",
+      "Teriyaki",
+      "Sweet and Savory",
+      "Rice Dish",
+      "Entree",
+      "Stir-fry",
+      "Edamame",
+      "Customizable",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Thai Basil",
+    "description": "Green bean, onion, scallion, jalapeno, cucumber, fried red chilis, fre...",
+    "price": 11.00,
+    "calories": null,
+    "tags": [
+      "FRIED RICE",
+      "Thai",
+      "Basil",
+      "Spicy",
+      "Aromatic",
+      "Rice Dish",
+      "Entree",
+      "Stir-fry",
+      "Jalapeno",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Chinese Fried Rice",
+    "description": "Bell pepper, onion, edamame, scallion, carrot, egg, jalapeno drizzle, ...",
+    "price": 11.00,
+    "calories": null,
+    "tags": [
+      "FRIED RICE",
+      "Chinese",
+      "Classic",
+      "Stir-fry",
+      "Entree",
+      "Takeout",
+      "Rice Dish",
+      "Vegetable",
+      "Customizable",
+      "Spicy Option"
+    ]
+  },
+  {
+    "name": "Pad Thai",
+    "description": "Rice noodle, bean sprout, carrot, scallion, lime, toasted peanut, egg,...",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "NOODLE",
+      "Pad Thai",
+      "Thai",
+      "Noodle Dish",
+      "Rice Noodles",
+      "Peanuts",
+      "Sweet and Tangy",
+      "Classic",
+      "Popular",
+      "Stir-fry"
+    ]
+  },
+  {
+    "name": "Chinatown Lo Mein",
+    "description": "Soba wheat noodle, cabbage, carrot, scallion, crispy rice noodle, chop...",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "NOODLE",
+      "Lo Mein",
+      "Chinese",
+      "Soba",
+      "Stir-fry",
+      "Classic",
+      "Takeout",
+      "Savory",
+      "Noodle Dish",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Singapore Curry Chow Mein",
+    "description": "Rice noodle, egg, cabbage, carrot, scallion, shallot crunch, cilantro,...",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "NOODLE",
+      "Singapore Noodles",
+      "Curry",
+      "Chow Mein",
+      "Rice Noodles",
+      "Stir-fry",
+      "Southeast Asian",
+      "Spicy",
+      "Noodle Dish",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Phuket Woon Sen",
+    "description": "Vermicelli (glass) noodle, egg, cabbage, carrot, chopped green onion, ...",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "NOODLE",
+      "Woon Sen",
+      "Thai",
+      "Glass Noodles",
+      "Stir-fry",
+      "Light",
+      "Healthy",
+      "Noodle Dish",
+      "Customizable",
+      "Vegetarian Option"
+    ]
+  },
+  {
+    "name": "Panang Curry King",
+    "description": "Creamy red curry, coconut milk, broccoli, bell pepper, fresh basil, eg...",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "CURRY",
+      "Thai",
+      "Panang",
+      "Red Curry",
+      "Coconut Milk",
+      "Spicy",
+      "Creamy",
+      "Entree",
+      "Rice Dish",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Bangkok Sweet Chili Curry",
+    "description": "Sweet chili curry, coconut milk, baby spinach, toasted peanut, white o...",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "CURRY",
+      "Thai",
+      "Sweet Chili",
+      "Coconut Milk",
+      "Sweet and Spicy",
+      "Entree",
+      "Rice Dish",
+      "Peanut",
+      "Creamy",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Tikka Masala",
+    "description": "Indian masala curry, cream, tomato, cilantro, cucumber sticks, veggie ...",
+    "price": 10.50,
+    "calories": null,
+    "tags": [
+      "CURRY",
+      "Indian",
+      "Tikka Masala",
+      "Creamy",
+      "Tomato",
+      "Savory",
+      "Entree",
+      "Rice Dish",
+      "Popular",
+      "Comfort Food"
+    ]
+  },
+  {
+    "name": "Kids Fried Rice",
+    "description": "Egg Fried Rice in a savory Thai brown sauce, served standard with gril...",
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "JUNIOR DRUMMER",
+      "Kids Menu",
+      "Fried Rice",
+      "Chicken",
+      "Simple",
+      "Mild",
+      "Entree",
+      "Kid Friendly",
+      "Asian",
+      "Rice Dish"
+    ]
+  },
+  {
+    "name": "Kids Lo Mein",
+    "description": "Savory Thai brown sauce, yaki-soba noodle, served standard with grille...",
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "JUNIOR DRUMMER",
+      "Kids Menu",
+      "Lo Mein",
+      "Noodles",
+      "Chicken",
+      "Simple",
+      "Mild",
+      "Entree",
+      "Kid Friendly",
+      "Asian"
+    ]
+  },
+  {
+    "name": "Kids Crispy Chicken Nuggets",
+    "description": "Crispy Chicken Nuggets served on White Rice with Sweet N Sour Sauce.",
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "JUNIOR DRUMMER",
+      "Kids Menu",
+      "Chicken Nuggets",
+      "Fried",
+      "American",
+      "Simple",
+      "Kid Friendly",
+      "Entree",
+      "Rice",
+      "Sweet and Sour"
+    ]
+  },
+  {
+    "name": "Kids Tokyo Crinkle Fries",
+    "description": "Sesame oil scent, Sriracha mayo.",
+    "price": 3.95,
+    "calories": null,
+    "tags": [
+      "JUNIOR DRUMMER",
+      "Kids Menu",
+      "Fries",
+      "Side Dish",
+      "Japanese Fusion",
+      "Mild",
+      "Kid Friendly",
+      "Crinkle Cut",
+      "Savory",
+      "Sesame"
+    ]
+  },
+  {
+    "name": "Fried Cheesecake Drumroll",
+    "description": "Cinnamon sugar, strawberry dipping sauce.",
+    "price": 4.50,
+    "calories": null,
+    "tags": [
+      "DESSERT",
+      "Cheesecake",
+      "Fried",
+      "Sweet",
+      "Indulgent",
+      "Cinnamon",
+      "Strawberry",
+      "Dessert",
+      "Unique",
+      "American Fusion"
+    ]
+  },
+  {
+    "name": "Coke Zero 20 OZ Bottle",
+    "description": null,
+    "price": 2.95,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Soda",
+      "Coke Zero",
+      "Bottle",
+      "Zero Calorie",
+      "Refreshing",
+      "Cold",
+      "Non-Alcoholic",
+      "Beverage",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Black Sweet Tea",
+    "description": "Assam Black Tea with Cane Sugar",
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Iced Tea",
+      "Black Tea",
+      "Sweet Tea",
+      "Refreshing",
+      "Cold",
+      "Classic",
+      "Beverage",
+      "Southern",
+      "Sweet"
+    ]
+  },
+  {
+    "name": "Green Sweet Tea",
+    "description": "Jasmine Green Tea with Cane Sugar",
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Iced Tea",
+      "Green Tea",
+      "Sweet Tea",
+      "Jasmine",
+      "Refreshing",
+      "Cold",
+      "Floral",
+      "Beverage",
+      "Sweet"
+    ]
+  },
+  {
+    "name": "Black Unsweet Tea",
+    "description": "Assam Black Tea",
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Iced Tea",
+      "Black Tea",
+      "Unsweetened",
+      "Refreshing",
+      "Cold",
+      "Classic",
+      "Beverage",
+      "Healthy Option",
+      "Zero Calorie"
+    ]
+  },
+  {
+    "name": "Green Unsweet Tea",
+    "description": "Jasmine Green Tea",
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Iced Tea",
+      "Green Tea",
+      "Unsweetened",
+      "Jasmine",
+      "Refreshing",
+      "Cold",
+      "Healthy Option",
+      "Floral",
+      "Zero Calorie"
+    ]
+  },
+  {
+    "name": "Organic Mango Juice",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Juice",
+      "Mango",
+      "Organic",
+      "Sweet",
+      "Fruity",
+      "Tropical",
+      "Refreshing",
+      "Non-Alcoholic",
+      "Healthy"
+    ]
+  },
+  {
+    "name": "Ginger Ale Jasmine Tea",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Iced Tea",
+      "Ginger Ale",
+      "Jasmine Tea",
+      "Fusion",
+      "Unique",
+      "Refreshing",
+      "Aromatic",
+      "Sparkling",
+      "Beverage"
+    ]
+  },
+  {
+    "name": "Ramune Original",
+    "description": null,
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Soda",
+      "Ramune",
+      "Japanese",
+      "Classic",
+      "Lemon-Lime",
+      "Marble Soda",
+      "Fun",
+      "Sweet",
+      "Refreshing"
+    ]
+  },
+  {
+    "name": "Ramune Orange",
+    "description": null,
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Soda",
+      "Ramune",
+      "Japanese",
+      "Orange",
+      "Fruity",
+      "Marble Soda",
+      "Fun",
+      "Sweet",
+      "Refreshing"
+    ]
+  },
+  {
+    "name": "Ramune Grape",
+    "description": null,
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Soda",
+      "Ramune",
+      "Japanese",
+      "Grape",
+      "Fruity",
+      "Marble Soda",
+      "Fun",
+      "Sweet",
+      "Refreshing"
+    ]
+  },
+  {
+    "name": "Ramune Strawberry",
+    "description": null,
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Soda",
+      "Ramune",
+      "Japanese",
+      "Strawberry",
+      "Fruity",
+      "Marble Soda",
+      "Fun",
+      "Sweet",
+      "Refreshing"
+    ]
+  },
+  {
+    "name": "Ramune Peach",
+    "description": null,
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Soda",
+      "Ramune",
+      "Japanese",
+      "Peach",
+      "Fruity",
+      "Marble Soda",
+      "Fun",
+      "Sweet",
+      "Refreshing"
+    ]
+  },
+  {
+    "name": "Ramune Lychee",
+    "description": null,
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Soda",
+      "Ramune",
+      "Japanese",
+      "Lychee",
+      "Fruity",
+      "Marble Soda",
+      "Fun",
+      "Sweet",
+      "Floral"
+    ]
+  },
+  {
+    "name": "Smart Water Bottle",
+    "description": null,
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Water",
+      "Bottled Water",
+      "Healthy",
+      "Refreshing",
+      "Hydration",
+      "Zero Calorie",
+      "Purified",
+      "Electrolytes",
+      "Premium"
+    ]
+  },
+  {
+    "name": "Coca Cola Classic 20 OZ Bottle",
+    "description": null,
+    "price": 2.95,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Soda",
+      "Coke",
+      "Classic",
+      "Bottle",
+      "Refreshing",
+      "Cold",
+      "Popular",
+      "Sweet",
+      "Beverage"
+    ]
+  },
+  {
+    "name": "Sprite 20 OZ Bottle",
+    "description": null,
+    "price": 2.95,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Soda",
+      "Sprite",
+      "Lemon-Lime",
+      "Bottle",
+      "Refreshing",
+      "Cold",
+      "Popular",
+      "Caffeine-Free",
+      "Beverage"
+    ]
+  },
+  {
+    "name": "Diet Coke 20 OZ Bottle",
+    "description": null,
+    "price": 2.95,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Soda",
+      "Diet Coke",
+      "Zero Calorie",
+      "Bottle",
+      "Refreshing",
+      "Cold",
+      "Popular",
+      "Light",
+      "Beverage"
+    ]
+  },
+  {
+    "name": "San Pellegrino Bottle",
+    "description": null,
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "BEVERAGES",
+      "Sparkling Water",
+      "San Pellegrino",
+      "Italian",
+      "Bottle",
+      "Refreshing",
+      "Bubbly",
+      "Zero Calorie",
+      "Mixer",
+      "Mineral Water"
+    ]
+  },
+  {
+    "name": "Side Sauces",
+    "description": null,
+    "price": null,
+    "calories": null,
+    "tags": [
+      "SAUCES & SIDES",
+      "Sauce",
+      "Condiment",
+      "Side",
+      "Dip",
+      "Extra",
+      "Flavor",
+      "Customizable",
+      "Dressing",
+      "Asian"
+    ]
+  },
+  {
+    "name": "Side Rice",
+    "description": null,
+    "price": null,
+    "calories": null,
+    "tags": [
+      "SAUCES & SIDES",
+      "Rice",
+      "Side",
+      "White Rice",
+      "Brown Rice",
+      "Jasmine Rice",
+      "Grain",
+      "Staple",
+      "Carbohydrate",
+      "Asian"
+    ]
+  },
+  {
+    "name": "Hello Kitty (Mango)",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Candy",
+      "Gummy",
+      "Hello Kitty",
+      "Mango",
+      "Sweet",
+      "Fruity",
+      "Asian",
+      "Snack",
+      "Kids"
+    ]
+  },
+  {
+    "name": "Hello Kitty (Strawberry)",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Candy",
+      "Gummy",
+      "Hello Kitty",
+      "Strawberry",
+      "Sweet",
+      "Fruity",
+      "Asian",
+      "Snack",
+      "Kids"
+    ]
+  },
+  {
+    "name": "Cafe Du Monde Coffee",
+    "description": null,
+    "price": 8.00,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Retail",
+      "Coffee",
+      "Cafe Du Monde",
+      "New Orleans",
+      "Chicory",
+      "Ground Coffee",
+      "Beverage",
+      "To-Go",
+      "Imported"
+    ]
+  },
+  {
+    "name": "Hello Kitty (Pineapple)",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Candy",
+      "Gummy",
+      "Hello Kitty",
+      "Pineapple",
+      "Sweet",
+      "Fruity",
+      "Asian",
+      "Snack",
+      "Kids"
+    ]
+  },
+  {
+    "name": "Kiwi Gummies",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Candy",
+      "Gummy",
+      "Kiwi",
+      "Sweet",
+      "Fruity",
+      "Asian",
+      "Snack",
+      "Green",
+      "Chewy"
+    ]
+  },
+  {
+    "name": "Grape Gummies",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Candy",
+      "Gummy",
+      "Grape",
+      "Sweet",
+      "Fruity",
+      "Asian",
+      "Snack",
+      "Purple",
+      "Chewy"
+    ]
+  },
+  {
+    "name": "Lychee Gummies",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Candy",
+      "Gummy",
+      "Lychee",
+      "Sweet",
+      "Fruity",
+      "Asian",
+      "Snack",
+      "Floral",
+      "Chewy"
+    ]
+  },
+  {
+    "name": "Puchao Cola",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Candy",
+      "Puchao",
+      "Cola",
+      "Chewy",
+      "Japanese",
+      "Snack",
+      "Sweet",
+      "Fizz",
+      "Gummy"
+    ]
+  },
+  {
+    "name": "Puchao 4 Flavors",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Candy",
+      "Puchao",
+      "Assorted",
+      "Fruity",
+      "Chewy",
+      "Japanese",
+      "Snack",
+      "Sweet",
+      "Variety"
+    ]
+  },
+  {
+    "name": "Pocky Chocolate",
+    "description": null,
+    "price": 2.50,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Snack",
+      "Pocky",
+      "Chocolate",
+      "Biscuit Stick",
+      "Japanese",
+      "Sweet",
+      "Classic",
+      "Popular",
+      "Dessert"
+    ]
+  },
+  {
+    "name": "Pocky Matcha",
+    "description": null,
+    "price": 2.50,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Snack",
+      "Pocky",
+      "Matcha",
+      "Green Tea",
+      "Biscuit Stick",
+      "Japanese",
+      "Sweet",
+      "Earthy",
+      "Dessert"
+    ]
+  },
+  {
+    "name": "Pocky Strawberry",
+    "description": null,
+    "price": 2.50,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Snack",
+      "Pocky",
+      "Strawberry",
+      "Biscuit Stick",
+      "Japanese",
+      "Sweet",
+      "Fruity",
+      "Pink",
+      "Dessert"
+    ]
+  },
+  {
+    "name": "Pocky Cookies & Cream",
+    "description": null,
+    "price": 2.50,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Snack",
+      "Pocky",
+      "Cookies and Cream",
+      "Biscuit Stick",
+      "Japanese",
+      "Sweet",
+      "Creamy",
+      "Popular",
+      "Dessert"
+    ]
+  },
+  {
+    "name": "Garlic Shrimp Chips",
+    "description": null,
+    "price": 3.00,
+    "calories": null,
+    "tags": [
+      "ASIAN CANDIES & RETAIL",
+      "Snack",
+      "Shrimp Chips",
+      "Garlic",
+      "Savory",
+      "Crispy",
+      "Asian",
+      "Seafood",
+      "Puffed",
+      "Popular"
+    ]
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "name": "The OG",
+    "description": "Ground Beef, Shredded Lettuce, Pico, Cheddar Jack Cheese, BOHO Sauce",
+    "price": 4.50,
+    "calories": null,
+    "tags": [
+      "Tacos",
+      "Beef",
+      "Classic",
+      "Mexican",
+      "Street Food",
+      "Handheld",
+      "Savory",
+      "Lunch",
+      "Dinner",
+      "Popular"
+    ]
+  },
+  {
+    "name": "El Pastor",
+    "description": "Marinated Pork, Pineapple, Onion, Cilantro",
+    "price": 4.50,
+    "calories": null,
+    "tags": [
+      "Tacos",
+      "Pork",
+      "Al Pastor",
+      "Mexican",
+      "Street Food",
+      "Sweet and Savory",
+      "Pineapple",
+      "Traditional",
+      "Lunch",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "The Borracho",
+    "description": "Beer Battered Fish, Slaw, Chipotle Crema",
+    "price": 5.50,
+    "calories": null,
+    "tags": [
+      "Tacos",
+      "Fish Taco",
+      "Seafood",
+      "Beer Battered",
+      "Fried",
+      "Mexican",
+      "Coastal",
+      "Slaw",
+      "Chipotle",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Down South",
+    "description": "Fried Chicken, Slaw, BOHO Sauce",
+    "price": 4.50,
+    "calories": null,
+    "tags": [
+      "Tacos",
+      "Fried Chicken",
+      "Southern",
+      "Fusion",
+      "Comfort Food",
+      "Crispy",
+      "Slaw",
+      "Handheld",
+      "Lunch",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Carne Asada",
+    "description": "Grilled Steak, Onion, Cilantro",
+    "price": 5.50,
+    "calories": null,
+    "tags": [
+      "Tacos",
+      "Steak",
+      "Carne Asada",
+      "Grilled",
+      "Mexican",
+      "Street Food",
+      "Beef",
+      "Classic",
+      "Savory",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Veg Out",
+    "description": "Black Beans, Corn, Slaw, Chipotle Crema",
+    "price": 4.50,
+    "calories": null,
+    "tags": [
+      "Tacos",
+      "Vegetarian",
+      "Black Beans",
+      "Corn",
+      "Healthy",
+      "Mexican",
+      "Veggie",
+      "Light",
+      "Lunch",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Carnitas",
+    "description": "Slow Cooked Pork, Onion, Cilantro",
+    "price": 4.50,
+    "calories": null,
+    "tags": [
+      "Tacos",
+      "Pork",
+      "Carnitas",
+      "Slow-Cooked",
+      "Mexican",
+      "Traditional",
+      "Street Food",
+      "Savory",
+      "Hearty",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Chicken Tinga",
+    "description": "Shredded Chicken, Onion, Cilantro",
+    "price": 4.50,
+    "calories": null,
+    "tags": [
+      "Tacos",
+      "Chicken",
+      "Shredded Chicken",
+      "Tinga",
+      "Mexican",
+      "Street Food",
+      "Savory",
+      "Flavorful",
+      "Lunch",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Chips & Salsa",
+    "description": "Fried Corn Tortillas, Housemade Salsa",
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Sides",
+      "Appetizer",
+      "Chips",
+      "Salsa",
+      "Mexican",
+      "Vegetarian",
+      "Sharable",
+      "Classic",
+      "Light",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Chips & Guac",
+    "description": "Fried Corn Tortillas, Housemade Guacamole",
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Sides",
+      "Appetizer",
+      "Chips",
+      "Guacamole",
+      "Mexican",
+      "Vegetarian",
+      "Sharable",
+      "Classic",
+      "Fresh",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Chips & Queso",
+    "description": "Fried Corn Tortillas, Housemade Queso",
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Sides",
+      "Appetizer",
+      "Chips",
+      "Queso",
+      "Mexican",
+      "Cheese",
+      "Sharable",
+      "Warm",
+      "Comfort Food",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Mexican Street Corn",
+    "description": "Corn, Cotija Cheese, Cilantro, BOHO Sauce",
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Sides",
+      "Street Corn",
+      "Elote",
+      "Mexican",
+      "Vegetarian",
+      "Grilled",
+      "Creamy",
+      "Savory",
+      "Classic",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Quesadilla",
+    "description": "Flour Tortilla, Cheddar Jack Cheese",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Mains",
+      "Quesadilla",
+      "Cheese",
+      "Mexican",
+      "Vegetarian",
+      "Kid Friendly",
+      "Lunch",
+      "Dinner",
+      "Classic",
+      "Comfort Food"
+    ]
+  },
+  {
+    "name": "Loaded Nachos",
+    "description": "Fried Corn Tortillas, Queso, Pico, Jalapeno, Chipotle Crema",
+    "price": 10.00,
+    "calories": null,
+    "tags": [
+      "Mains",
+      "Nachos",
+      "Sharable",
+      "Mexican",
+      "Appetizer",
+      "Queso",
+      "Spicy",
+      "Comfort Food",
+      "Loaded",
+      "Bar Food"
+    ]
+  },
+  {
+    "name": "Burrito/Bowl",
+    "description": "Flour Tortilla or Bowl with Rice, Beans, Shredded Lettuce, Pico, Cheddar Jack Cheese",
+    "price": 10.00,
+    "calories": null,
+    "tags": [
+      "Mains",
+      "Burrito",
+      "Bowl",
+      "Customizable",
+      "Mexican",
+      "Lunch",
+      "Dinner",
+      "Hearty",
+      "Healthy Option",
+      "Takeout"
+    ]
+  },
+  {
+    "name": "Horchata",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Drinks",
+      "Horchata",
+      "Beverage",
+      "Non-Alcoholic",
+      "Mexican",
+      "Traditional",
+      "Sweet",
+      "Cinnamon",
+      "Rice Milk",
+      "Refreshing"
+    ]
+  },
+  {
+    "name": "Mexican Coke",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Beverage",
+      "Non-Alcoholic",
+      "Mexican Coke",
+      "Classic",
+      "Sweet",
+      "Cane Sugar",
+      "Refreshing",
+      "Bottle"
+    ]
+  },
+  {
+    "name": "Jarritos",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Beverage",
+      "Non-Alcoholic",
+      "Jarritos",
+      "Mexican",
+      "Fruit Flavored",
+      "Sweet",
+      "Refreshing",
+      "Bottle"
+    ]
+  },
+  {
+    "name": "Water",
+    "description": null,
+    "price": 2.00,
+    "calories": null,
+    "tags": [
+      "Drinks",
+      "Water",
+      "Beverage",
+      "Non-Alcoholic",
+      "Healthy",
+      "Refreshing",
+      "Hydration",
+      "Simple",
+      "Zero Calorie",
+      "Bottle"
+    ]
+  }
+]

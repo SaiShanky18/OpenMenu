@@ -1,0 +1,524 @@
+[
+  {
+    "name": "Taco Box (3 Tacos)",
+    "description": "3 Tacos with rice and beans.",
+    "price": 14.95,
+    "calories": null,
+    "tags": [
+      "Taco Box",
+      "Combo",
+      "Mexican",
+      "Lunch Special",
+      "Dinner",
+      "Value Meal",
+      "Customizable",
+      "Rice and Beans",
+      "Complete Meal",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Carne Asada Taco",
+    "description": "Grilled Steak topped with cilantro and onion.",
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "Taco",
+      "Carne Asada",
+      "Steak",
+      "Mexican",
+      "Street Food",
+      "Grilled",
+      "Savory",
+      "Dinner",
+      "Lunch",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Shrimp Taco",
+    "description": "Grilled shrimp topped with pico de gallo and chipotle aioli.",
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "Taco",
+      "Shrimp",
+      "Seafood",
+      "Mexican",
+      "Grilled",
+      "Coastal",
+      "Chipotle",
+      "Pico de Gallo",
+      "Fresh",
+      "Light"
+    ]
+  },
+  {
+    "name": "Fish Taco",
+    "description": "Fried fish topped with pico de gallo and chipotle aioli.",
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "Taco",
+      "Fish Taco",
+      "Seafood",
+      "Fried",
+      "Baja Style",
+      "Mexican",
+      "Crispy",
+      "Chipotle",
+      "Pico de Gallo",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Al Pastor Taco",
+    "description": "Marinated pork topped with cilantro, onion and pineapple.",
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Taco",
+      "Al Pastor",
+      "Pork",
+      "Mexican",
+      "Street Food",
+      "Traditional",
+      "Sweet and Savory",
+      "Pineapple",
+      "Marinated",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Carnitas Taco",
+    "description": "Shredded pork topped with cilantro and onion.",
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Taco",
+      "Carnitas",
+      "Pork",
+      "Slow-Cooked",
+      "Mexican",
+      "Street Food",
+      "Traditional",
+      "Savory",
+      "Tender",
+      "Hearty"
+    ]
+  },
+  {
+    "name": "Chicken Tinga Taco",
+    "description": "Shredded chicken topped with cilantro and onion.",
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Taco",
+      "Chicken Tinga",
+      "Shredded Chicken",
+      "Mexican",
+      "Street Food",
+      "Savory",
+      "Smoky",
+      "Flavorful",
+      "Lunch",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Veggies Taco",
+    "description": "Sautéed peppers and onions topped with cilantro and onion.",
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Taco",
+      "Vegetarian",
+      "Veggies",
+      "Sautéed Peppers",
+      "Onions",
+      "Mexican",
+      "Healthy",
+      "Vegan Option",
+      "Light",
+      "Street Food"
+    ]
+  },
+  {
+    "name": "Carne Asada Burrito/Bowl",
+    "description": "Grilled steak with rice, beans, lettuce, pico de gallo and cheese.",
+    "price": 14.95,
+    "calories": null,
+    "tags": [
+      "Burrito/Bowl",
+      "Carne Asada",
+      "Steak",
+      "Mexican",
+      "Hearty",
+      "Entree",
+      "Lunch",
+      "Dinner",
+      "Grilled",
+      "Complete Meal"
+    ]
+  },
+  {
+    "name": "Shrimp Burrito/Bowl",
+    "description": "Grilled shrimp with rice, beans, lettuce, pico de gallo and cheese.",
+    "price": 14.95,
+    "calories": null,
+    "tags": [
+      "Burrito/Bowl",
+      "Shrimp",
+      "Seafood",
+      "Mexican",
+      "Healthy Option",
+      "Entree",
+      "Grilled",
+      "Fresh",
+      "Complete Meal",
+      "Coastal"
+    ]
+  },
+  {
+    "name": "Fish Burrito/Bowl",
+    "description": "Fried fish with rice, beans, lettuce, pico de gallo and cheese.",
+    "price": 14.95,
+    "calories": null,
+    "tags": [
+      "Burrito/Bowl",
+      "Fish",
+      "Seafood",
+      "Fried",
+      "Baja Style",
+      "Mexican",
+      "Hearty",
+      "Entree",
+      "Crispy",
+      "Complete Meal"
+    ]
+  },
+  {
+    "name": "Al Pastor Burrito/Bowl",
+    "description": "Marinated pork with rice, beans, lettuce, pico de gallo and cheese.",
+    "price": 12.95,
+    "calories": null,
+    "tags": [
+      "Burrito/Bowl",
+      "Al Pastor",
+      "Pork",
+      "Mexican",
+      "Marinated",
+      "Sweet and Savory",
+      "Entree",
+      "Hearty",
+      "Pineapple",
+      "Complete Meal"
+    ]
+  },
+  {
+    "name": "Carnitas Burrito/Bowl",
+    "description": "Shredded pork with rice, beans, lettuce, pico de gallo and cheese.",
+    "price": 12.95,
+    "calories": null,
+    "tags": [
+      "Burrito/Bowl",
+      "Carnitas",
+      "Pork",
+      "Slow-Cooked",
+      "Mexican",
+      "Traditional",
+      "Entree",
+      "Hearty",
+      "Tender",
+      "Complete Meal"
+    ]
+  },
+  {
+    "name": "Chicken Tinga Burrito/Bowl",
+    "description": "Shredded chicken with rice, beans, lettuce, pico de gallo and cheese.",
+    "price": 12.95,
+    "calories": null,
+    "tags": [
+      "Burrito/Bowl",
+      "Chicken Tinga",
+      "Shredded Chicken",
+      "Mexican",
+      "Smoky",
+      "Entree",
+      "Flavorful",
+      "Hearty",
+      "Complete Meal",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Veggies Burrito/Bowl",
+    "description": "Sautéed peppers and onions with rice, beans, lettuce, pico de gallo and cheese.",
+    "price": 12.95,
+    "calories": null,
+    "tags": [
+      "Burrito/Bowl",
+      "Vegetarian",
+      "Veggies",
+      "Mexican",
+      "Healthy",
+      "Vegan Option",
+      "Entree",
+      "Light",
+      "Complete Meal",
+      "Sautéed"
+    ]
+  },
+  {
+    "name": "Chips and Salsa",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Appetizer",
+      "Chips",
+      "Salsa",
+      "Mexican",
+      "Vegetarian",
+      "Sharable",
+      "Classic",
+      "Light",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Chips and Guacamole",
+    "description": null,
+    "price": 8.00,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Appetizer",
+      "Chips",
+      "Guacamole",
+      "Mexican",
+      "Vegetarian",
+      "Sharable",
+      "Classic",
+      "Fresh",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Elote",
+    "description": "Mexican street corn.",
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Elote",
+      "Street Corn",
+      "Mexican",
+      "Vegetarian",
+      "Grilled",
+      "Creamy",
+      "Savory",
+      "Classic",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Rice",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Rice",
+      "Mexican Rice",
+      "Vegetarian",
+      "Classic",
+      "Staple",
+      "Seasoned",
+      "Simple",
+      "Gluten-Free",
+      "Accompaniment"
+    ]
+  },
+  {
+    "name": "Beans",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Beans",
+      "Black Beans",
+      "Vegetarian",
+      "Mexican",
+      "Healthy",
+      "Protein",
+      "Classic",
+      "Simple",
+      "Accompaniment"
+    ]
+  },
+  {
+    "name": "Rice and Beans",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Rice and Beans",
+      "Mexican",
+      "Vegetarian",
+      "Classic",
+      "Hearty",
+      "Staple",
+      "Accompaniment",
+      "Value",
+      "Comfort Food"
+    ]
+  },
+  {
+    "name": "Jarritos",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Beverage",
+      "Non-Alcoholic",
+      "Jarritos",
+      "Mexican",
+      "Fruit Flavored",
+      "Sweet",
+      "Refreshing",
+      "Bottle"
+    ]
+  },
+  {
+    "name": "Mexican Coke",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Beverage",
+      "Non-Alcoholic",
+      "Mexican Coke",
+      "Classic",
+      "Sweet",
+      "Cane Sugar",
+      "Refreshing",
+      "Bottle"
+    ]
+  },
+  {
+    "name": "Topo Chico",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "Drinks",
+      "Sparkling Water",
+      "Beverage",
+      "Non-Alcoholic",
+      "Topo Chico",
+      "Mineral Water",
+      "Bubbly",
+      "Refreshing",
+      "Zero Calorie",
+      "Mexican"
+    ]
+  },
+  {
+    "name": "Water",
+    "description": null,
+    "price": 2.00,
+    "calories": null,
+    "tags": [
+      "Drinks",
+      "Water",
+      "Beverage",
+      "Non-Alcoholic",
+      "Healthy",
+      "Refreshing",
+      "Hydration",
+      "Simple",
+      "Zero Calorie",
+      "Bottle"
+    ]
+  },
+  {
+    "name": "Coke",
+    "description": null,
+    "price": 2.50,
+    "calories": null,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Coke",
+      "Beverage",
+      "Non-Alcoholic",
+      "Classic",
+      "Refreshing",
+      "Cold",
+      "Fountain",
+      "Sweet"
+    ]
+  },
+  {
+    "name": "Diet Coke",
+    "description": null,
+    "price": 2.50,
+    "calories": null,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Diet Coke",
+      "Beverage",
+      "Non-Alcoholic",
+      "Zero Calorie",
+      "Refreshing",
+      "Cold",
+      "Fountain",
+      "Light"
+    ]
+  },
+  {
+    "name": "Sprite",
+    "description": null,
+    "price": 2.50,
+    "calories": null,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Sprite",
+      "Beverage",
+      "Non-Alcoholic",
+      "Lemon-Lime",
+      "Refreshing",
+      "Cold",
+      "Fountain",
+      "Caffeine-Free"
+    ]
+  },
+  {
+    "name": "Churros",
+    "description": null,
+    "price": 5.00,
+    "calories": null,
+    "tags": [
+      "Dessert",
+      "Churros",
+      "Sweet",
+      "Fried",
+      "Cinnamon Sugar",
+      "Mexican",
+      "Classic",
+      "Dessert",
+      "Pastry",
+      "Popular"
+    ]
+  }
+]

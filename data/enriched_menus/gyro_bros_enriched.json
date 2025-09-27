@@ -1,0 +1,311 @@
+[
+  {
+    "name": "Gyro Plate",
+    "description": "A mix of seasoned lamb and beef, slow-cooked on a vertical rotisserie. Served with Greek salad, seasoned rice, pita bread, and tzatziki sauce.",
+    "price": 14.99,
+    "calories": 1400,
+    "tags": [
+      "Platters",
+      "Gyro",
+      "Lamb",
+      "Beef",
+      "Mediterranean",
+      "Greek",
+      "Entree",
+      "Savory",
+      "Healthy",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Chicken Gyro Plate",
+    "description": "Marinated chicken, slow-cooked on a vertical rotisserie. Served with Greek salad, seasoned rice, pita bread, and tzatziki sauce.",
+    "price": 13.99,
+    "calories": 1300,
+    "tags": [
+      "Platters",
+      "Chicken Gyro",
+      "Chicken",
+      "Mediterranean",
+      "Greek",
+      "Entree",
+      "Savory",
+      "Healthy",
+      "Grilled",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Falafel Plate (Vegetarian)",
+    "description": "Ground chickpeas, parsley, and spices shaped into balls and deep-fried until golden. Served with Greek salad, seasoned rice, pita bread, and tzatziki sauce.",
+    "price": 12.99,
+    "calories": 1320,
+    "tags": [
+      "Platters",
+      "Falafel",
+      "Vegetarian",
+      "Chickpeas",
+      "Mediterranean",
+      "Greek",
+      "Healthy",
+      "Fried",
+      "Vegan Option",
+      "Entree"
+    ]
+  },
+  {
+    "name": "Combo Plate",
+    "description": "Your choice of any two meats (Gyro, Chicken Gyro). Served with Greek salad, seasoned rice, pita bread, and tzatziki sauce.",
+    "price": 15.99,
+    "calories": 1650,
+    "tags": [
+      "Platters",
+      "Combo",
+      "Customizable",
+      "Mediterranean",
+      "Greek",
+      "Hearty",
+      "Large Portion",
+      "Dinner",
+      "Gyro",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Gyro Sandwich",
+    "description": "A mix of seasoned lamb and beef, shaved from a vertical rotisserie and wrapped in a warm pita with lettuce, tomatoes, onions, and tzatziki sauce.",
+    "price": 9.99,
+    "calories": 850,
+    "tags": [
+      "Sandwiches",
+      "Gyro",
+      "Lamb",
+      "Beef",
+      "Mediterranean",
+      "Greek",
+      "Pita",
+      "Handheld",
+      "Lunch",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Chicken Gyro Sandwich",
+    "description": "Marinated and grilled chicken, shaved from a vertical rotisserie and wrapped in a warm pita with lettuce, tomatoes, onions, and tzatziki sauce.",
+    "price": 8.99,
+    "calories": 750,
+    "tags": [
+      "Sandwiches",
+      "Chicken Gyro",
+      "Chicken",
+      "Mediterranean",
+      "Greek",
+      "Pita",
+      "Handheld",
+      "Lunch",
+      "Grilled",
+      "Healthy"
+    ]
+  },
+  {
+    "name": "Falafel Sandwich (Vegetarian)",
+    "description": "Crispy, deep-fried chickpea balls (falafel) wrapped in a warm pita with lettuce, tomatoes, onions, and tzatziki sauce.",
+    "price": 7.99,
+    "calories": 700,
+    "tags": [
+      "Sandwiches",
+      "Falafel",
+      "Vegetarian",
+      "Chickpeas",
+      "Mediterranean",
+      "Greek",
+      "Pita",
+      "Handheld",
+      "Vegan Option",
+      "Lunch"
+    ]
+  },
+  {
+    "name": "Greek Salad",
+    "description": "A fresh bed of lettuce with tomatoes, onions, cucumbers, feta cheese, and Kalamata olives, tossed in a classic Greek dressing. Add gyro meat for an additional charge.",
+    "price": 8.99,
+    "calories": 480,
+    "tags": [
+      "Salads",
+      "Greek Salad",
+      "Vegetarian",
+      "Healthy",
+      "Feta Cheese",
+      "Mediterranean",
+      "Greek",
+      "Light",
+      "Fresh",
+      "Side"
+    ]
+  },
+  {
+    "name": "Gyro Salad",
+    "description": "Our fresh Greek salad topped with a generous portion of savory lamb and beef gyro meat.",
+    "price": 12.99,
+    "calories": 1050,
+    "tags": [
+      "Salads",
+      "Gyro Salad",
+      "Lamb",
+      "Beef",
+      "Mediterranean",
+      "Greek",
+      "Healthy",
+      "Low Carb",
+      "Entree Salad",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Chicken Salad",
+    "description": "Our fresh Greek salad topped with a generous portion of marinated and grilled chicken gyro meat.",
+    "price": 11.99,
+    "calories": 950,
+    "tags": [
+      "Salads",
+      "Chicken Salad",
+      "Chicken",
+      "Mediterranean",
+      "Greek",
+      "Healthy",
+      "Low Carb",
+      "Entree Salad",
+      "Grilled Chicken",
+      "Lunch"
+    ]
+  },
+  {
+    "name": "Fries",
+    "description": "A generous side of crispy, golden french fries, lightly salted.",
+    "price": 3.99,
+    "calories": 520,
+    "tags": [
+      "Sides",
+      "Fries",
+      "American",
+      "Vegetarian",
+      "Side Dish",
+      "Classic",
+      "Crispy",
+      "Salty",
+      "Comfort Food",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Greek Fries",
+    "description": "Our crispy golden fries topped with crumbled feta cheese and a sprinkle of Greek seasoning.",
+    "price": 4.99,
+    "calories": 650,
+    "tags": [
+      "Sides",
+      "Greek Fries",
+      "Feta Cheese",
+      "Mediterranean",
+      "Greek",
+      "Vegetarian",
+      "Savory",
+      "Side Dish",
+      "Loaded Fries",
+      "Flavorful"
+    ]
+  },
+  {
+    "name": "Onion Rings",
+    "description": "A classic side of thick-cut onion rings, battered and deep-fried until golden and crispy.",
+    "price": 4.99,
+    "calories": 580,
+    "tags": [
+      "Sides",
+      "Onion Rings",
+      "Fried",
+      "American",
+      "Vegetarian",
+      "Appetizer",
+      "Crispy",
+      "Savory",
+      "Side Dish",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Hummus with Pita",
+    "description": "A classic Mediterranean starter of creamy chickpea and tahini dip (hummus), served with slices of warm pita bread for dipping.",
+    "price": 5.99,
+    "calories": 600,
+    "tags": [
+      "Sides",
+      "Hummus",
+      "Pita",
+      "Vegetarian",
+      "Mediterranean",
+      "Healthy",
+      "Appetizer",
+      "Dip",
+      "Vegan",
+      "Sharable"
+    ]
+  },
+  {
+    "name": "Baklava",
+    "description": "A rich, sweet dessert pastry made of layers of flaky filo dough filled with chopped nuts and sweetened with a delicious honey syrup.",
+    "price": 3.99,
+    "calories": 400,
+    "tags": [
+      "Desserts",
+      "Baklava",
+      "Sweet",
+      "Pastry",
+      "Mediterranean",
+      "Greek",
+      "Nuts",
+      "Honey",
+      "Traditional",
+      "Rich",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Fountain Drinks",
+    "description": "Your choice of refreshing fountain soda. Options include Coke, Diet Coke, Sprite, Fanta, and Lemonade.",
+    "price": 2.99,
+    "calories": 220,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Beverage",
+      "Non-Alcoholic",
+      "Fountain Drink",
+      "Coke",
+      "Refreshing",
+      "Cold",
+      "Classic",
+      "Sweet",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Bottled Water",
+    "description": "A simple bottle of purified spring water to quench your thirst.",
+    "price": 1.99,
+    "calories": 0,
+    "tags": [
+      "Drinks",
+      "Water",
+      "Beverage",
+      "Non-Alcoholic",
+      "Healthy",
+      "Refreshing",
+      "Hydration",
+      "Simple",
+      "Zero Calorie",
+      "Bottle",
+      "Vegan"
+    ]
+  }
+]

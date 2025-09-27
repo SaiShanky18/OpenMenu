@@ -1,0 +1,967 @@
+[
+  {
+    "name": "Brown Sugar Bubble Milk Tea",
+    "description": "The brown sugar is cooked for two hours and we use fresh whole milk to make the drink. It’s also one of our most popular drinks.",
+    "price": 6.75,
+    "calories": 480,
+    "tags": [
+      "Bubble Tea",
+      "Milk Tea",
+      "Brown Sugar",
+      "Tapioca Pearls",
+      "Sweet",
+      "Refreshing",
+      "Popular",
+      "Signature Drink",
+      "Asian",
+      "Dessert Drink",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Original Milk Tea",
+    "description": "A classic and smooth black milk tea made with fresh milk, customizable with your favorite toppings.",
+    "price": 5.75,
+    "calories": 350,
+    "tags": [
+      "Bubble Tea",
+      "Milk Tea",
+      "Classic",
+      "Black Tea",
+      "Sweet",
+      "Refreshing",
+      "Customizable",
+      "Asian",
+      "Beverage",
+      "Tapioca Pearls",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Taro Bubble Milk Tea",
+    "description": "A creamy and sweet bubble tea with the unique, nutty flavor of real taro.",
+    "price": 6.25,
+    "calories": 420,
+    "tags": [
+      "Bubble Tea",
+      "Milk Tea",
+      "Taro",
+      "Sweet",
+      "Creamy",
+      "Purple",
+      "Asian",
+      "Dessert Drink",
+      "Unique Flavor",
+      "Popular",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Thai Bubble Milk Tea",
+    "description": "A rich and creamy milk tea made with authentic spiced Thai tea, giving it a distinct orange color.",
+    "price": 6.25,
+    "calories": 410,
+    "tags": [
+      "Bubble Tea",
+      "Milk Tea",
+      "Thai Tea",
+      "Sweet",
+      "Spiced",
+      "Orange",
+      "Asian",
+      "Southeast Asian",
+      "Creamy",
+      "Refreshing",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Oreo Bubble Milk Tea",
+    "description": "An indulgent and creamy blend of milk tea with crushed Oreo cookies for a delicious cookies and cream flavor.",
+    "price": 6.75,
+    "calories": 520,
+    "tags": [
+      "Bubble Tea",
+      "Milk Tea",
+      "Oreo",
+      "Cookies and Cream",
+      "Sweet",
+      "Indulgent",
+      "Dessert Drink",
+      "Kids Friendly",
+      "Blended",
+      "Popular",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Classic Milk Green Tea",
+    "description": "A light and refreshing milk tea made with fragrant jasmine green tea for a delicate floral note.",
+    "price": 5.75,
+    "calories": 320,
+    "tags": [
+      "Bubble Tea",
+      "Milk Tea",
+      "Green Tea",
+      "Jasmine",
+      "Floral",
+      "Light",
+      "Refreshing",
+      "Asian",
+      "Beverage",
+      "Classic",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Honey-peach Fruit Tea",
+    "description": "Caffeine Free. A sweet and fruity tea bursting with the flavors of ripe peach and golden honey.",
+    "price": 6.25,
+    "calories": 220,
+    "tags": [
+      "Fruit Tea",
+      "Caffeine-Free",
+      "Peach",
+      "Honey",
+      "Sweet",
+      "Refreshing",
+      "Iced Tea",
+      "Fruity",
+      "Summer Drink",
+      "Healthy Option",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Passion Fruit Tea",
+    "description": "A sweet and tangy iced tea infused with tropical passion fruit flavor and real seeds.",
+    "price": 6.25,
+    "calories": 240,
+    "tags": [
+      "Fruit Tea",
+      "Passion Fruit",
+      "Tropical",
+      "Sweet",
+      "Tangy",
+      "Refreshing",
+      "Iced Tea",
+      "Fruity",
+      "Summer Drink",
+      "Popular",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Super Fruit Green Tea",
+    "description": "Fresh cut orange, lemon, lime, strawberry, and watermelon.",
+    "price": 7.00,
+    "calories": 280,
+    "tags": [
+      "Fruit Tea",
+      "Green Tea",
+      "Mixed Fruit",
+      "Healthy",
+      "Refreshing",
+      "Iced Tea",
+      "Antioxidants",
+      "Fruity",
+      "Popular",
+      "Signature Drink",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Grapefruit Green Tea",
+    "description": "A zesty and refreshing green tea with the bright, tangy flavor of fresh grapefruit.",
+    "price": 6.25,
+    "calories": 210,
+    "tags": [
+      "Fruit Tea",
+      "Grapefruit",
+      "Green Tea",
+      "Citrus",
+      "Refreshing",
+      "Tangy",
+      "Iced Tea",
+      "Healthy",
+      "Light",
+      "Summer Drink",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Honey Green Tea",
+    "description": "A simple and soothing green tea naturally sweetened with a touch of golden honey.",
+    "price": 5.75,
+    "calories": 180,
+    "tags": [
+      "Fruit Tea",
+      "Honey",
+      "Green Tea",
+      "Sweet",
+      "Classic",
+      "Refreshing",
+      "Iced Tea",
+      "Healthy",
+      "Simple",
+      "Light",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Mango Fruit Tea",
+    "description": "A sweet and tropical iced tea bursting with the flavor of fresh, ripe mango.",
+    "price": 6.25,
+    "calories": 250,
+    "tags": [
+      "Fruit Tea",
+      "Mango",
+      "Tropical",
+      "Sweet",
+      "Refreshing",
+      "Iced Tea",
+      "Fruity",
+      "Popular",
+      "Summer Drink",
+      "Asian",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Strawberry Fruit Tea",
+    "description": "A sweet and fruity iced tea made with real strawberry puree for a classic summer taste.",
+    "price": 6.25,
+    "calories": 240,
+    "tags": [
+      "Fruit Tea",
+      "Strawberry",
+      "Berry",
+      "Sweet",
+      "Refreshing",
+      "Iced Tea",
+      "Fruity",
+      "Popular",
+      "Summer Drink",
+      "Classic",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Cheese Foam Uji Matcha",
+    "description": "Earthy Uji matcha topped with a creamy and slightly savory cheese foam for a perfect balance of flavors.",
+    "price": 6.25,
+    "calories": 380,
+    "tags": [
+      "Cheese Foam Series",
+      "Matcha",
+      "Cheese Foam",
+      "Uji",
+      "Japanese",
+      "Green Tea",
+      "Creamy",
+      "Savory and Sweet",
+      "Popular",
+      "Earthy",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Cheese Foam Black Tea",
+    "description": "Classic black iced tea topped with a creamy, rich, and slightly savory cheese foam.",
+    "price": 5.75,
+    "calories": 310,
+    "tags": [
+      "Cheese Foam Series",
+      "Black Tea",
+      "Cheese Foam",
+      "Creamy",
+      "Savory and Sweet",
+      "Refreshing",
+      "Iced Tea",
+      "Asian",
+      "Popular",
+      "Unique",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Cheese Foam Green Tea",
+    "description": "Light jasmine green tea topped with a creamy, rich, and slightly savory cheese foam.",
+    "price": 5.75,
+    "calories": 300,
+    "tags": [
+      "Cheese Foam Series",
+      "Green Tea",
+      "Cheese Foam",
+      "Creamy",
+      "Savory and Sweet",
+      "Refreshing",
+      "Iced Tea",
+      "Asian",
+      "Light",
+      "Floral",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Cheese Foam Strawberry Tea",
+    "description": "Sweet strawberry fruit tea topped with a rich, savory cheese foam for a delightful contrast.",
+    "price": 6.75,
+    "calories": 390,
+    "tags": [
+      "Cheese Foam Series",
+      "Strawberry",
+      "Cheese Foam",
+      "Fruit Tea",
+      "Creamy",
+      "Sweet and Savory",
+      "Refreshing",
+      "Fruity",
+      "Popular",
+      "Dessert Drink",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Cheese Foam Mango Tea",
+    "description": "Tropical mango fruit tea topped with a rich, savory cheese foam for a taste of summer.",
+    "price": 6.75,
+    "calories": 400,
+    "tags": [
+      "Cheese Foam Series",
+      "Mango",
+      "Cheese Foam",
+      "Fruit Tea",
+      "Creamy",
+      "Sweet and Savory",
+      "Refreshing",
+      "Fruity",
+      "Tropical",
+      "Popular",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Uji Matcha Latte",
+    "description": "A smooth and creamy latte made with high-quality Uji matcha and fresh milk.",
+    "price": 6.25,
+    "calories": 330,
+    "tags": [
+      "Fresh Milk Tea Series",
+      "Matcha",
+      "Latte",
+      "Uji",
+      "Japanese",
+      "Green Tea",
+      "Milk",
+      "Creamy",
+      "Earthy",
+      "Healthy Option",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Fresh Taro Milk Tea",
+    "description": "A creamy beverage made with fresh taro paste and whole milk for a natural, satisfying taste.",
+    "price": 6.75,
+    "calories": 430,
+    "tags": [
+      "Fresh Milk Tea Series",
+      "Taro",
+      "Milk Tea",
+      "Fresh Milk",
+      "Creamy",
+      "Sweet",
+      "Asian",
+      "Natural",
+      "Caffeine-Free option",
+      "Popular",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Fresh Strawberry Milk Tea",
+    "description": "A delightful drink made with fresh strawberry puree and creamy whole milk.",
+    "price": 6.75,
+    "calories": 390,
+    "tags": [
+      "Fresh Milk Tea Series",
+      "Strawberry",
+      "Milk Tea",
+      "Fresh Milk",
+      "Fruity",
+      "Sweet",
+      "Refreshing",
+      "Creamy",
+      "Popular",
+      "Natural",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Soy-Chicken (6 Pieces)",
+    "description": "Six crispy Korean-style fried chicken wings tossed in a sweet and savory soy-garlic glaze.",
+    "price": 9.95,
+    "calories": 750,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Soy Garlic",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Savory",
+      "Appetizer",
+      "Sharable",
+      "Crispy",
+      "Popular",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Soy-Chicken (12 Pieces)",
+    "description": "Twelve crispy Korean-style fried chicken wings tossed in a sweet and savory soy-garlic glaze.",
+    "price": 18.95,
+    "calories": 1500,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Soy Garlic",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Large Portion",
+      "Sharable",
+      "Party",
+      "Crispy",
+      "Savory",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Soy-Chicken (18 Pieces)",
+    "description": "Eighteen crispy Korean-style fried chicken wings tossed in a sweet and savory soy-garlic glaze.",
+    "price": 27.95,
+    "calories": 2250,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Soy Garlic",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Family Size",
+      "Sharable",
+      "Party",
+      "Crispy",
+      "Savory",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Spicy-Chicken (6 Pieces)",
+    "description": "Six crispy Korean-style fried chicken wings tossed in a fiery, sweet, and spicy sauce.",
+    "price": 9.95,
+    "calories": 780,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Spicy Chicken",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Spicy",
+      "Appetizer",
+      "Sharable",
+      "Crispy",
+      "Popular",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Spicy-Chicken (12 Pieces)",
+    "description": "Twelve crispy Korean-style fried chicken wings tossed in a fiery, sweet, and spicy sauce.",
+    "price": 18.95,
+    "calories": 1560,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Spicy Chicken",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Large Portion",
+      "Sharable",
+      "Party",
+      "Crispy",
+      "Spicy",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Spicy-Chicken (18 Pieces)",
+    "description": "Eighteen crispy Korean-style fried chicken wings tossed in a fiery, sweet, and spicy sauce.",
+    "price": 27.95,
+    "calories": 2340,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Spicy Chicken",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Family Size",
+      "Sharable",
+      "Party",
+      "Crispy",
+      "Spicy",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Soy-Chicken-Combo",
+    "description": "6 Pieces of Chicken Wings with a Drink. Your choice of our sweet and savory soy-garlic wings.",
+    "price": 10.95,
+    "calories": 1050,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Soy Garlic",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Combo Meal",
+      "Value",
+      "Lunch",
+      "Dinner",
+      "Savory",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Spicy-Chicken-Combo",
+    "description": "6 Pieces of Chicken Wings with a Drink. Your choice of our fiery and sweet spicy wings.",
+    "price": 10.95,
+    "calories": 1080,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Spicy Chicken",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Combo Meal",
+      "Value",
+      "Lunch",
+      "Dinner",
+      "Spicy",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "French Fries",
+    "description": "Classic, crispy-fried potatoes, lightly salted and served hot. The perfect side for any meal.",
+    "price": 4.00,
+    "calories": 450,
+    "tags": [
+      "Snacks",
+      "Fries",
+      "Side Dish",
+      "American",
+      "Fried",
+      "Salty",
+      "Crispy",
+      "Classic",
+      "Vegetarian",
+      "Appetizer",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Popcorn Chicken",
+    "description": "Bite-sized pieces of chicken, marinated and deep-fried until golden and crispy. A Taiwanese street food classic.",
+    "price": 7.00,
+    "calories": 550,
+    "tags": [
+      "Snacks",
+      "Popcorn Chicken",
+      "Fried Chicken",
+      "Appetizer",
+      "Taiwanese",
+      "Street Food",
+      "Crispy",
+      "Savory",
+      "Sharable",
+      "Popular",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Fried Tofu",
+    "description": "Cubes of firm tofu fried until golden brown and crispy on the outside, soft and silky on the inside.",
+    "price": 6.00,
+    "calories": 400,
+    "tags": [
+      "Snacks",
+      "Tofu",
+      "Fried",
+      "Vegetarian",
+      "Appetizer",
+      "Asian",
+      "Crispy",
+      "Protein",
+      "Side Dish",
+      "Vegan",
+      "Vegan Option"
+    ]
+  },
+  {
+    "name": "Fried Cuttlefish Balls",
+    "description": "Savory and bouncy cuttlefish balls, deep-fried to a perfect golden brown.",
+    "price": 7.00,
+    "calories": 380,
+    "tags": [
+      "Snacks",
+      "Cuttlefish",
+      "Seafood",
+      "Fried",
+      "Appetizer",
+      "Asian",
+      "Street Food",
+      "Savory",
+      "Bouncy",
+      "Sharable"
+    ]
+  },
+  {
+    "name": "Takoyaki Octopus Balls (6 Pcs)",
+    "description": "A classic Japanese street food snack; six savory pancake balls filled with octopus, topped with sauce and bonito flakes.",
+    "price": 7.00,
+    "calories": 420,
+    "tags": [
+      "Snacks",
+      "Takoyaki",
+      "Octopus",
+      "Japanese",
+      "Street Food",
+      "Appetizer",
+      "Savory",
+      "Creamy",
+      "Popular",
+      "Seafood"
+    ]
+  },
+  {
+    "name": "Fried Chicken Gizzards",
+    "description": "A savory and chewy delicacy of chicken gizzards, marinated and fried until crispy.",
+    "price": 7.00,
+    "calories": 480,
+    "tags": [
+      "Snacks",
+      "Chicken Gizzards",
+      "Fried",
+      "Appetizer",
+      "Asian",
+      "Street Food",
+      "Savory",
+      "Chewy",
+      "Unique",
+      "Adventurous",
+      "Chicken"
+    ]
+  },
+  {
+    "name": "Taiwanese Sausage",
+    "description": "A sweet and savory grilled pork sausage, a popular and authentic Taiwanese street food.",
+    "price": 4.00,
+    "calories": 320,
+    "tags": [
+      "Snacks",
+      "Sausage",
+      "Taiwanese",
+      "Pork",
+      "Street Food",
+      "Sweet",
+      "Savory",
+      "Appetizer",
+      "Grilled",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Fried King Oyster Mushroom",
+    "description": "Thick slices of king oyster mushroom, battered and fried for a meaty texture and savory flavor.",
+    "price": 7.00,
+    "calories": 350,
+    "tags": [
+      "Snacks",
+      "Mushroom",
+      "Fried",
+      "Vegetarian",
+      "Appetizer",
+      "Asian",
+      "Street Food",
+      "Savory",
+      "Meaty Texture",
+      "Umami"
+    ]
+  },
+  {
+    "name": "Black Tea",
+    "description": "A simple, classic, and refreshing freshly brewed black tea, served over ice.",
+    "price": 4.75,
+    "calories": 110,
+    "tags": [
+      "Pure Tea",
+      "Black Tea",
+      "Classic",
+      "Refreshing",
+      "Iced Tea",
+      "Simple",
+      "Unsweetened Option",
+      "Beverage",
+      "Caffeinated",
+      "Traditional",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Jasmine Green Tea",
+    "description": "A light and aromatic green tea infused with the fragrant essence of jasmine blossoms.",
+    "price": 4.75,
+    "calories": 100,
+    "tags": [
+      "Pure Tea",
+      "Green Tea",
+      "Jasmine",
+      "Floral",
+      "Refreshing",
+      "Iced Tea",
+      "Aromatic",
+      "Light",
+      "Healthy",
+      "Classic",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Four Season Oolong Tea",
+    "description": "A light, creamy, and floral oolong tea from Taiwan with a smooth, refreshing finish.",
+    "price": 4.75,
+    "calories": 100,
+    "tags": [
+      "Pure Tea",
+      "Oolong Tea",
+      "Four Season",
+      "Lightly Oxidized",
+      "Floral",
+      "Refreshing",
+      "Taiwanese",
+      "Aromatic",
+      "Iced Tea",
+      "Classic",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Roasted Oolong Tea",
+    "description": "A full-bodied oolong tea with a toasty, nutty aroma and a rich, earthy flavor.",
+    "price": 4.75,
+    "calories": 100,
+    "tags": [
+      "Pure Tea",
+      "Oolong Tea",
+      "Roasted",
+      "Toasty",
+      "Earthy",
+      "Full-bodied",
+      "Asian",
+      "Iced Tea",
+      "Aromatic",
+      "Traditional",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Cloud Black Tea",
+    "description": "Classic black tea topped with a creamy, lightly salted milk cap for a rich and layered experience.",
+    "price": 5.75,
+    "calories": 260,
+    "tags": [
+      "Cloud Series",
+      "Black Tea",
+      "Milk Cap",
+      "Creamy",
+      "Iced Tea",
+      "Dessert Drink",
+      "Savory and Sweet",
+      "Layered",
+      "Asian",
+      "Refreshing",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Cloud Green Tea",
+    "description": "Fragrant jasmine green tea topped with a creamy, lightly salted milk cap.",
+    "price": 5.75,
+    "calories": 250,
+    "tags": [
+      "Cloud Series",
+      "Green Tea",
+      "Milk Cap",
+      "Creamy",
+      "Iced Tea",
+      "Floral",
+      "Savory and Sweet",
+      "Layered",
+      "Asian",
+      "Refreshing",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Cloud Oolong Tea",
+    "description": "Refreshing oolong tea topped with a creamy, lightly salted milk cap for a smooth and unique taste.",
+    "price": 5.75,
+    "calories": 250,
+    "tags": [
+      "Cloud Series",
+      "Oolong Tea",
+      "Milk Cap",
+      "Creamy",
+      "Iced Tea",
+      "Floral",
+      "Savory and Sweet",
+      "Layered",
+      "Asian",
+      "Refreshing",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Cloud Roasted Oolong",
+    "description": "Rich, toasty oolong tea topped with a creamy, lightly salted milk cap.",
+    "price": 5.75,
+    "calories": 250,
+    "tags": [
+      "Cloud Series",
+      "Roasted Oolong",
+      "Milk Cap",
+      "Creamy",
+      "Iced Tea",
+      "Toasty",
+      "Savory and Sweet",
+      "Layered",
+      "Asian",
+      "Rich",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Orange Yakult",
+    "description": "A refreshing and tangy drink blending citrusy orange juice with the creamy, probiotic goodness of Yakult.",
+    "price": 6.25,
+    "calories": 280,
+    "tags": [
+      "Yakult",
+      "Orange",
+      "Probiotic",
+      "Yogurt Drink",
+      "Refreshing",
+      "Tangy",
+      "Fruity",
+      "Healthy",
+      "Kids Friendly",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Grapefruit Yakult",
+    "description": "A zesty and tangy drink combining fresh grapefruit juice with the creamy, probiotic goodness of Yakult.",
+    "price": 6.25,
+    "calories": 270,
+    "tags": [
+      "Yakult",
+      "Grapefruit",
+      "Probiotic",
+      "Yogurt Drink",
+      "Refreshing",
+      "Tangy",
+      "Citrus",
+      "Healthy",
+      "Bitter-sweet",
+      "Unique",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Passion Fruit Yakult",
+    "description": "A tropical and tangy drink made with passion fruit juice and the creamy, probiotic goodness of Yakult.",
+    "price": 6.25,
+    "calories": 290,
+    "tags": [
+      "Yakult",
+      "Passion Fruit",
+      "Probiotic",
+      "Yogurt Drink",
+      "Refreshing",
+      "Tangy",
+      "Tropical",
+      "Fruity",
+      "Sweet",
+      "Popular",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Taro Tornado",
+    "description": "A creamy and satisfying ice-blended slush with the sweet, nutty flavor of taro.",
+    "price": 6.75,
+    "calories": 500,
+    "tags": [
+      "Tornado Series",
+      "Taro",
+      "Slush",
+      "Blended Ice",
+      "Creamy",
+      "Sweet",
+      "Dessert Drink",
+      "Refreshing",
+      "Asian",
+      "Popular",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Matcha Tornado",
+    "description": "A rich and earthy ice-blended slush made with authentic Japanese matcha green tea.",
+    "price": 6.75,
+    "calories": 480,
+    "tags": [
+      "Tornado Series",
+      "Matcha",
+      "Slush",
+      "Blended Ice",
+      "Green Tea",
+      "Earthy",
+      "Dessert Drink",
+      "Refreshing",
+      "Japanese",
+      "Sweet",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Mango Tornado",
+    "description": "A sweet and tropical ice-blended slush bursting with the flavor of fresh mango.",
+    "price": 6.75,
+    "calories": 490,
+    "tags": [
+      "Tornado Series",
+      "Mango",
+      "Slush",
+      "Blended Ice",
+      "Tropical",
+      "Fruity",
+      "Sweet",
+      "Refreshing",
+      "Dessert Drink",
+      "Popular",
+      "Vegetarian"
+    ]
+  }
+]

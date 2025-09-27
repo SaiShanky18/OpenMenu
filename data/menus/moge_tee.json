@@ -1,0 +1,920 @@
+[
+  {
+    "name": "Brown Sugar Bubble Milk Tea",
+    "description": "The brown sugar is cooked for two hours and we use fresh whole milk to make the drink. It’s also one of our most popular drinks.",
+    "price": 6.75,
+    "calories": null,
+    "tags": [
+      "Bubble Tea",
+      "Milk Tea",
+      "Brown Sugar",
+      "Tapioca Pearls",
+      "Sweet",
+      "Refreshing",
+      "Popular",
+      "Signature Drink",
+      "Asian",
+      "Dessert Drink"
+    ]
+  },
+  {
+    "name": "Original Milk Tea",
+    "description": null,
+    "price": 5.75,
+    "calories": null,
+    "tags": [
+      "Bubble Tea",
+      "Milk Tea",
+      "Classic",
+      "Black Tea",
+      "Sweet",
+      "Refreshing",
+      "Customizable",
+      "Asian",
+      "Beverage",
+      "Tapioca Pearls"
+    ]
+  },
+  {
+    "name": "Taro Bubble Milk Tea",
+    "description": null,
+    "price": 6.25,
+    "calories": null,
+    "tags": [
+      "Bubble Tea",
+      "Milk Tea",
+      "Taro",
+      "Sweet",
+      "Creamy",
+      "Purple",
+      "Asian",
+      "Dessert Drink",
+      "Unique Flavor",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Thai Bubble Milk Tea",
+    "description": null,
+    "price": 6.25,
+    "calories": null,
+    "tags": [
+      "Bubble Tea",
+      "Milk Tea",
+      "Thai Tea",
+      "Sweet",
+      "Spiced",
+      "Orange",
+      "Asian",
+      "Southeast Asian",
+      "Creamy",
+      "Refreshing"
+    ]
+  },
+  {
+    "name": "Oreo Bubble Milk Tea",
+    "description": null,
+    "price": 6.75,
+    "calories": null,
+    "tags": [
+      "Bubble Tea",
+      "Milk Tea",
+      "Oreo",
+      "Cookies and Cream",
+      "Sweet",
+      "Indulgent",
+      "Dessert Drink",
+      "Kids Friendly",
+      "Blended",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Classic Milk Green Tea",
+    "description": null,
+    "price": 5.75,
+    "calories": null,
+    "tags": [
+      "Bubble Tea",
+      "Milk Tea",
+      "Green Tea",
+      "Jasmine",
+      "Floral",
+      "Light",
+      "Refreshing",
+      "Asian",
+      "Beverage",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Honey-peach Fruit Tea",
+    "description": "Caffeine Free",
+    "price": 6.25,
+    "calories": null,
+    "tags": [
+      "Fruit Tea",
+      "Caffeine-Free",
+      "Peach",
+      "Honey",
+      "Sweet",
+      "Refreshing",
+      "Iced Tea",
+      "Fruity",
+      "Summer Drink",
+      "Healthy Option"
+    ]
+  },
+  {
+    "name": "Passion Fruit Tea",
+    "description": null,
+    "price": 6.25,
+    "calories": null,
+    "tags": [
+      "Fruit Tea",
+      "Passion Fruit",
+      "Tropical",
+      "Sweet",
+      "Tangy",
+      "Refreshing",
+      "Iced Tea",
+      "Fruity",
+      "Summer Drink",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Super Fruit Green Tea",
+    "description": "Fresh cut orange, lemon, lime, strawberry, and watermelon.",
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Fruit Tea",
+      "Green Tea",
+      "Mixed Fruit",
+      "Healthy",
+      "Refreshing",
+      "Iced Tea",
+      "Antioxidants",
+      "Fruity",
+      "Popular",
+      "Signature Drink"
+    ]
+  },
+  {
+    "name": "Grapefruit Green Tea",
+    "description": null,
+    "price": 6.25,
+    "calories": null,
+    "tags": [
+      "Fruit Tea",
+      "Grapefruit",
+      "Green Tea",
+      "Citrus",
+      "Refreshing",
+      "Tangy",
+      "Iced Tea",
+      "Healthy",
+      "Light",
+      "Summer Drink"
+    ]
+  },
+  {
+    "name": "Honey Green Tea",
+    "description": null,
+    "price": 5.75,
+    "calories": null,
+    "tags": [
+      "Fruit Tea",
+      "Honey",
+      "Green Tea",
+      "Sweet",
+      "Classic",
+      "Refreshing",
+      "Iced Tea",
+      "Healthy",
+      "Simple",
+      "Light"
+    ]
+  },
+  {
+    "name": "Mango Fruit Tea",
+    "description": null,
+    "price": 6.25,
+    "calories": null,
+    "tags": [
+      "Fruit Tea",
+      "Mango",
+      "Tropical",
+      "Sweet",
+      "Refreshing",
+      "Iced Tea",
+      "Fruity",
+      "Popular",
+      "Summer Drink",
+      "Asian"
+    ]
+  },
+  {
+    "name": "Strawberry Fruit Tea",
+    "description": null,
+    "price": 6.25,
+    "calories": null,
+    "tags": [
+      "Fruit Tea",
+      "Strawberry",
+      "Berry",
+      "Sweet",
+      "Refreshing",
+      "Iced Tea",
+      "Fruity",
+      "Popular",
+      "Summer Drink",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Cheese Foam Uji Matcha",
+    "description": null,
+    "price": 6.25,
+    "calories": null,
+    "tags": [
+      "Cheese Foam Series",
+      "Matcha",
+      "Cheese Foam",
+      "Uji",
+      "Japanese",
+      "Green Tea",
+      "Creamy",
+      "Savory and Sweet",
+      "Popular",
+      "Earthy"
+    ]
+  },
+  {
+    "name": "Cheese Foam Black Tea",
+    "description": null,
+    "price": 5.75,
+    "calories": null,
+    "tags": [
+      "Cheese Foam Series",
+      "Black Tea",
+      "Cheese Foam",
+      "Creamy",
+      "Savory and Sweet",
+      "Refreshing",
+      "Iced Tea",
+      "Asian",
+      "Popular",
+      "Unique"
+    ]
+  },
+  {
+    "name": "Cheese Foam Green Tea",
+    "description": null,
+    "price": 5.75,
+    "calories": null,
+    "tags": [
+      "Cheese Foam Series",
+      "Green Tea",
+      "Cheese Foam",
+      "Creamy",
+      "Savory and Sweet",
+      "Refreshing",
+      "Iced Tea",
+      "Asian",
+      "Light",
+      "Floral"
+    ]
+  },
+  {
+    "name": "Cheese Foam Strawberry Tea",
+    "description": null,
+    "price": 6.75,
+    "calories": null,
+    "tags": [
+      "Cheese Foam Series",
+      "Strawberry",
+      "Cheese Foam",
+      "Fruit Tea",
+      "Creamy",
+      "Sweet and Savory",
+      "Refreshing",
+      "Fruity",
+      "Popular",
+      "Dessert Drink"
+    ]
+  },
+  {
+    "name": "Cheese Foam Mango Tea",
+    "description": null,
+    "price": 6.75,
+    "calories": null,
+    "tags": [
+      "Cheese Foam Series",
+      "Mango",
+      "Cheese Foam",
+      "Fruit Tea",
+      "Creamy",
+      "Sweet and Savory",
+      "Refreshing",
+      "Fruity",
+      "Tropical",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Uji Matcha Latte",
+    "description": null,
+    "price": 6.25,
+    "calories": null,
+    "tags": [
+      "Fresh Milk Tea Series",
+      "Matcha",
+      "Latte",
+      "Uji",
+      "Japanese",
+      "Green Tea",
+      "Milk",
+      "Creamy",
+      "Earthy",
+      "Healthy Option"
+    ]
+  },
+  {
+    "name": "Fresh Taro Milk Tea",
+    "description": null,
+    "price": 6.75,
+    "calories": null,
+    "tags": [
+      "Fresh Milk Tea Series",
+      "Taro",
+      "Milk Tea",
+      "Fresh Milk",
+      "Creamy",
+      "Sweet",
+      "Asian",
+      "Natural",
+      "Caffeine-Free option",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Fresh Strawberry Milk Tea",
+    "description": null,
+    "price": 6.75,
+    "calories": null,
+    "tags": [
+      "Fresh Milk Tea Series",
+      "Strawberry",
+      "Milk Tea",
+      "Fresh Milk",
+      "Fruity",
+      "Sweet",
+      "Refreshing",
+      "Creamy",
+      "Popular",
+      "Natural"
+    ]
+  },
+  {
+    "name": "Soy-Chicken (6 Pieces)",
+    "description": null,
+    "price": 9.95,
+    "calories": null,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Soy Garlic",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Savory",
+      "Appetizer",
+      "Sharable",
+      "Crispy",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Soy-Chicken (12 Pieces)",
+    "description": null,
+    "price": 18.95,
+    "calories": null,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Soy Garlic",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Large Portion",
+      "Sharable",
+      "Party",
+      "Crispy",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Soy-Chicken (18 Pieces)",
+    "description": null,
+    "price": 27.95,
+    "calories": null,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Soy Garlic",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Family Size",
+      "Sharable",
+      "Party",
+      "Crispy",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Spicy-Chicken (6 Pieces)",
+    "description": null,
+    "price": 9.95,
+    "calories": null,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Spicy Chicken",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Spicy",
+      "Appetizer",
+      "Sharable",
+      "Crispy",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Spicy-Chicken (12 Pieces)",
+    "description": null,
+    "price": 18.95,
+    "calories": null,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Spicy Chicken",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Large Portion",
+      "Sharable",
+      "Party",
+      "Crispy",
+      "Spicy"
+    ]
+  },
+  {
+    "name": "Spicy-Chicken (18 Pieces)",
+    "description": null,
+    "price": 27.95,
+    "calories": null,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Spicy Chicken",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Family Size",
+      "Sharable",
+      "Party",
+      "Crispy",
+      "Spicy"
+    ]
+  },
+  {
+    "name": "Soy-Chicken-Combo",
+    "description": "6 Pieces of Chicken Wings with a Drink",
+    "price": 10.95,
+    "calories": null,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Soy Garlic",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Combo Meal",
+      "Value",
+      "Lunch",
+      "Dinner",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Spicy-Chicken-Combo",
+    "description": "6 Pieces of Chicken Wings with a Drink",
+    "price": 10.95,
+    "calories": null,
+    "tags": [
+      "Korean Style Chicken Wings",
+      "Spicy Chicken",
+      "Chicken Wings",
+      "Korean",
+      "Fried Chicken",
+      "Combo Meal",
+      "Value",
+      "Lunch",
+      "Dinner",
+      "Spicy"
+    ]
+  },
+  {
+    "name": "French Fries",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Snacks",
+      "Fries",
+      "Side Dish",
+      "American",
+      "Fried",
+      "Salty",
+      "Crispy",
+      "Classic",
+      "Vegetarian",
+      "Appetizer"
+    ]
+  },
+  {
+    "name": "Popcorn Chicken",
+    "description": null,
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Snacks",
+      "Popcorn Chicken",
+      "Fried Chicken",
+      "Appetizer",
+      "Taiwanese",
+      "Street Food",
+      "Crispy",
+      "Savory",
+      "Sharable",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Fried Tofu",
+    "description": null,
+    "price": 6.00,
+    "calories": null,
+    "tags": [
+      "Snacks",
+      "Tofu",
+      "Fried",
+      "Vegetarian",
+      "Appetizer",
+      "Asian",
+      "Crispy",
+      "Protein",
+      "Side Dish",
+      "Vegan Option"
+    ]
+  },
+  {
+    "name": "Fried Cuttlefish Balls",
+    "description": null,
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Snacks",
+      "Cuttlefish",
+      "Seafood",
+      "Fried",
+      "Appetizer",
+      "Asian",
+      "Street Food",
+      "Savory",
+      "Bouncy",
+      "Sharable"
+    ]
+  },
+  {
+    "name": "Takoyaki Octopus Balls (6 Pcs)",
+    "description": null,
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Snacks",
+      "Takoyaki",
+      "Octopus",
+      "Japanese",
+      "Street Food",
+      "Appetizer",
+      "Savory",
+      "Creamy",
+      "Popular",
+      "Seafood"
+    ]
+  },
+  {
+    "name": "Fried Chicken Gizzards",
+    "description": null,
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Snacks",
+      "Chicken Gizzards",
+      "Fried",
+      "Appetizer",
+      "Asian",
+      "Street Food",
+      "Savory",
+      "Chewy",
+      "Unique",
+      "Adventurous"
+    ]
+  },
+  {
+    "name": "Taiwanese Sausage",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Snacks",
+      "Sausage",
+      "Taiwanese",
+      "Pork",
+      "Street Food",
+      "Sweet",
+      "Savory",
+      "Appetizer",
+      "Grilled",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Fried King Oyster Mushroom",
+    "description": null,
+    "price": 7.00,
+    "calories": null,
+    "tags": [
+      "Snacks",
+      "Mushroom",
+      "Fried",
+      "Vegetarian",
+      "Appetizer",
+      "Asian",
+      "Street Food",
+      "Savory",
+      "Meaty Texture",
+      "Umami"
+    ]
+  },
+  {
+    "name": "Black Tea",
+    "description": null,
+    "price": 4.75,
+    "calories": null,
+    "tags": [
+      "Pure Tea",
+      "Black Tea",
+      "Classic",
+      "Refreshing",
+      "Iced Tea",
+      "Simple",
+      "Unsweetened Option",
+      "Beverage",
+      "Caffeinated",
+      "Traditional"
+    ]
+  },
+  {
+    "name": "Jasmine Green Tea",
+    "description": null,
+    "price": 4.75,
+    "calories": null,
+    "tags": [
+      "Pure Tea",
+      "Green Tea",
+      "Jasmine",
+      "Floral",
+      "Refreshing",
+      "Iced Tea",
+      "Aromatic",
+      "Light",
+      "Healthy",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Four Season Oolong Tea",
+    "description": null,
+    "price": 4.75,
+    "calories": null,
+    "tags": [
+      "Pure Tea",
+      "Oolong Tea",
+      "Four Season",
+      "Lightly Oxidized",
+      "Floral",
+      "Refreshing",
+      "Taiwanese",
+      "Aromatic",
+      "Iced Tea",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Roasted Oolong Tea",
+    "description": null,
+    "price": 4.75,
+    "calories": null,
+    "tags": [
+      "Pure Tea",
+      "Oolong Tea",
+      "Roasted",
+      "Toasty",
+      "Earthy",
+      "Full-bodied",
+      "Asian",
+      "Iced Tea",
+      "Aromatic",
+      "Traditional"
+    ]
+  },
+  {
+    "name": "Cloud Black Tea",
+    "description": null,
+    "price": 5.75,
+    "calories": null,
+    "tags": [
+      "Cloud Series",
+      "Black Tea",
+      "Milk Cap",
+      "Creamy",
+      "Iced Tea",
+      "Dessert Drink",
+      "Savory and Sweet",
+      "Layered",
+      "Asian",
+      "Refreshing"
+    ]
+  },
+  {
+    "name": "Cloud Green Tea",
+    "description": null,
+    "price": 5.75,
+    "calories": null,
+    "tags": [
+      "Cloud Series",
+      "Green Tea",
+      "Milk Cap",
+      "Creamy",
+      "Iced Tea",
+      "Floral",
+      "Savory and Sweet",
+      "Layered",
+      "Asian",
+      "Refreshing"
+    ]
+  },
+  {
+    "name": "Cloud Oolong Tea",
+    "description": null,
+    "price": 5.75,
+    "calories": null,
+    "tags": [
+      "Cloud Series",
+      "Oolong Tea",
+      "Milk Cap",
+      "Creamy",
+      "Iced Tea",
+      "Floral",
+      "Savory and Sweet",
+      "Layered",
+      "Asian",
+      "Refreshing"
+    ]
+  },
+  {
+    "name": "Cloud Roasted Oolong",
+    "description": null,
+    "price": 5.75,
+    "calories": null,
+    "tags": [
+      "Cloud Series",
+      "Roasted Oolong",
+      "Milk Cap",
+      "Creamy",
+      "Iced Tea",
+      "Toasty",
+      "Savory and Sweet",
+      "Layered",
+      "Asian",
+      "Rich"
+    ]
+  },
+  {
+    "name": "Orange Yakult",
+    "description": null,
+    "price": 6.25,
+    "calories": null,
+    "tags": [
+      "Yakult",
+      "Orange",
+      "Probiotic",
+      "Yogurt Drink",
+      "Refreshing",
+      "Tangy",
+      "Fruity",
+      "Healthy",
+      "Kids Friendly",
+      "Sweet"
+    ]
+  },
+  {
+    "name": "Grapefruit Yakult",
+    "description": null,
+    "price": 6.25,
+    "calories": null,
+    "tags": [
+      "Yakult",
+      "Grapefruit",
+      "Probiotic",
+      "Yogurt Drink",
+      "Refreshing",
+      "Tangy",
+      "Citrus",
+      "Healthy",
+      "Bitter-sweet",
+      "Unique"
+    ]
+  },
+  {
+    "name": "Passion Fruit Yakult",
+    "description": null,
+    "price": 6.25,
+    "calories": null,
+    "tags": [
+      "Yakult",
+      "Passion Fruit",
+      "Probiotic",
+      "Yogurt Drink",
+      "Refreshing",
+      "Tangy",
+      "Tropical",
+      "Fruity",
+      "Sweet",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Taro Tornado",
+    "description": null,
+    "price": 6.75,
+    "calories": null,
+    "tags": [
+      "Tornado Series",
+      "Taro",
+      "Slush",
+      "Blended Ice",
+      "Creamy",
+      "Sweet",
+      "Dessert Drink",
+      "Refreshing",
+      "Asian",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Matcha Tornado",
+    "description": null,
+    "price": 6.75,
+    "calories": null,
+    "tags": [
+      "Tornado Series",
+      "Matcha",
+      "Slush",
+      "Blended Ice",
+      "Green Tea",
+      "Earthy",
+      "Dessert Drink",
+      "Refreshing",
+      "Japanese",
+      "Sweet"
+    ]
+  },
+  {
+    "name": "Mango Tornado",
+    "description": null,
+    "price": 6.75,
+    "calories": null,
+    "tags": [
+      "Tornado Series",
+      "Mango",
+      "Slush",
+      "Blended Ice",
+      "Tropical",
+      "Fruity",
+      "Sweet",
+      "Refreshing",
+      "Dessert Drink",
+      "Popular"
+    ]
+  }
+]

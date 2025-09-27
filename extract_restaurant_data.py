@@ -12,7 +12,7 @@ YELP_API_KEY = os.getenv("YELP_API_KEY")
 
 # Georgia Tech/Tech Square coordinates
 LOCATION = {'lat': 33.7770706, 'lng': -84.3902668}  # Georgia Tech/ Tech Square
-RADIUS_METERS = 1000  # 1km radius
+RADIUS_METERS = 250  # 250m radius
 
 def get_google_restaurants():
 	url = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json'

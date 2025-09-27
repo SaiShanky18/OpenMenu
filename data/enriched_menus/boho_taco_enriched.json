@@ -1,0 +1,350 @@
+[
+  {
+    "name": "The OG",
+    "description": "A classic taco with seasoned ground beef, shredded lettuce, pico de gallo, cheddar jack cheese, and creamy BOHO sauce on a warm tortilla.",
+    "price": 4.5,
+    "calories": 380,
+    "tags": [
+      "Tacos",
+      "Beef",
+      "Classic",
+      "Mexican",
+      "Street Food",
+      "Handheld",
+      "Savory",
+      "Lunch",
+      "Dinner",
+      "Popular"
+    ]
+  },
+  {
+    "name": "El Pastor",
+    "description": "Traditional marinated pork, slow-roasted and served on a warm tortilla with sweet pineapple, fresh onion, and cilantro.",
+    "price": 4.5,
+    "calories": 310,
+    "tags": [
+      "Tacos",
+      "Pork",
+      "Al Pastor",
+      "Mexican",
+      "Street Food",
+      "Sweet and Savory",
+      "Pineapple",
+      "Traditional",
+      "Lunch",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "The Borracho",
+    "description": "Crispy beer-battered fish served on a warm tortilla with a refreshing slaw and a smoky chipotle crema.",
+    "price": 5.5,
+    "calories": 420,
+    "tags": [
+      "Tacos",
+      "Fish Taco",
+      "Seafood",
+      "Fish",
+      "Beer Battered",
+      "Fried",
+      "Mexican",
+      "Coastal",
+      "Slaw",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Down South",
+    "description": "A Southern-inspired taco with crispy fried chicken, refreshing slaw, and creamy BOHO sauce on a warm tortilla.",
+    "price": 4.5,
+    "calories": 450,
+    "tags": [
+      "Tacos",
+      "Fried Chicken",
+      "Chicken",
+      "Southern",
+      "Fusion",
+      "Comfort Food",
+      "Crispy",
+      "Slaw",
+      "Handheld",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Carne Asada",
+    "description": "Tender, marinated grilled steak, chopped and served simply on a warm tortilla with fresh onion and cilantro.",
+    "price": 5.5,
+    "calories": 330,
+    "tags": [
+      "Tacos",
+      "Steak",
+      "Carne Asada",
+      "Grilled",
+      "Mexican",
+      "Street Food",
+      "Beef",
+      "Classic",
+      "Savory",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Veg Out",
+    "description": "A delicious vegetarian taco with seasoned black beans, corn, refreshing slaw, and a smoky chipotle crema.",
+    "price": 4.5,
+    "calories": 280,
+    "tags": [
+      "Tacos",
+      "Vegetarian",
+      "Black Beans",
+      "Corn",
+      "Healthy",
+      "Mexican",
+      "Veggie",
+      "Light",
+      "Lunch",
+      "Vegan Option"
+    ]
+  },
+  {
+    "name": "Carnitas",
+    "description": "Tender, slow-cooked shredded pork with crispy edges, served on a warm tortilla with fresh onion and cilantro.",
+    "price": 4.5,
+    "calories": 350,
+    "tags": [
+      "Tacos",
+      "Pork",
+      "Carnitas",
+      "Slow-Cooked",
+      "Mexican",
+      "Traditional",
+      "Street Food",
+      "Savory",
+      "Hearty",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Chicken Tinga",
+    "description": "Flavorful shredded chicken stewed in a smoky chipotle-tomato sauce, served on a warm tortilla with fresh onion and cilantro.",
+    "price": 4.5,
+    "calories": 290,
+    "tags": [
+      "Tacos",
+      "Chicken",
+      "Shredded Chicken",
+      "Tinga",
+      "Mexican",
+      "Street Food",
+      "Savory",
+      "Flavorful",
+      "Lunch",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Chips & Salsa",
+    "description": "A basket of fresh, crispy fried corn tortillas served with our signature house-made salsa.",
+    "price": 4.0,
+    "calories": 500,
+    "tags": [
+      "Sides",
+      "Appetizer",
+      "Chips",
+      "Salsa",
+      "Mexican",
+      "Vegetarian",
+      "Sharable",
+      "Classic",
+      "Starter",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Chips & Guac",
+    "description": "A basket of fresh, crispy fried corn tortillas served with a generous portion of our house-made guacamole.",
+    "price": 6.0,
+    "calories": 720,
+    "tags": [
+      "Sides",
+      "Appetizer",
+      "Chips",
+      "Guacamole",
+      "Mexican",
+      "Vegetarian",
+      "Sharable",
+      "Classic",
+      "Fresh",
+      "Popular",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Chips & Queso",
+    "description": "A basket of fresh, crispy fried corn tortillas served with a bowl of our warm, creamy house-made queso.",
+    "price": 6.0,
+    "calories": 780,
+    "tags": [
+      "Sides",
+      "Appetizer",
+      "Chips",
+      "Queso",
+      "Mexican",
+      "Cheese",
+      "Sharable",
+      "Warm",
+      "Comfort Food",
+      "Popular",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Mexican Street Corn",
+    "description": "A cup of sweet corn kernels mixed with cotija cheese, cilantro, and creamy BOHO sauce.",
+    "price": 4.0,
+    "calories": 380,
+    "tags": [
+      "Sides",
+      "Street Corn",
+      "Elote",
+      "Mexican",
+      "Vegetarian",
+      "Grilled",
+      "Creamy",
+      "Savory",
+      "Classic",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Quesadilla",
+    "description": "A large flour tortilla filled with melted cheddar jack cheese and grilled to perfection. Add any of our proteins for an extra charge.",
+    "price": 7.0,
+    "calories": 700,
+    "tags": [
+      "Mains",
+      "Quesadilla",
+      "Cheese",
+      "Mexican",
+      "Vegetarian",
+      "Kid Friendly",
+      "Lunch",
+      "Dinner",
+      "Classic",
+      "Comfort Food"
+    ]
+  },
+  {
+    "name": "Loaded Nachos",
+    "description": "A mountain of fried corn tortillas loaded with warm queso, pico de gallo, jalapenos, and a drizzle of chipotle crema. Add protein for an extra charge.",
+    "price": 10.0,
+    "calories": 1350,
+    "tags": [
+      "Mains",
+      "Nachos",
+      "Sharable",
+      "Mexican",
+      "Appetizer",
+      "Queso",
+      "Spicy",
+      "Comfort Food",
+      "Loaded",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Burrito/Bowl",
+    "description": "Your choice of protein wrapped in a flour tortilla or served in a bowl with rice, beans, shredded lettuce, pico de gallo, and cheddar jack cheese.",
+    "price": 10.0,
+    "calories": 750,
+    "tags": [
+      "Mains",
+      "Burrito",
+      "Bowl",
+      "Customizable",
+      "Mexican",
+      "Lunch",
+      "Dinner",
+      "Hearty",
+      "Healthy Option",
+      "Takeout"
+    ]
+  },
+  {
+    "name": "Horchata",
+    "description": "A traditional, sweet Mexican drink made from rice milk and flavored with cinnamon and vanilla.",
+    "price": 4.0,
+    "calories": 300,
+    "tags": [
+      "Drinks",
+      "Horchata",
+      "Beverage",
+      "Non-Alcoholic",
+      "Mexican",
+      "Traditional",
+      "Sweet",
+      "Cinnamon",
+      "Rice Milk",
+      "Refreshing",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Mexican Coke",
+    "description": "Coca-Cola made with real cane sugar, served in its iconic glass bottle for a classic, crisp taste.",
+    "price": 4.0,
+    "calories": 150,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Beverage",
+      "Non-Alcoholic",
+      "Mexican Coke",
+      "Classic",
+      "Sweet",
+      "Cane Sugar",
+      "Refreshing",
+      "Bottle",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Jarritos",
+    "description": "An authentic Mexican fruit-flavored soda in a glass bottle. Ask for available flavors like Mandarin, Tamarind, or Lime.",
+    "price": 4.0,
+    "calories": 160,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Beverage",
+      "Non-Alcoholic",
+      "Jarritos",
+      "Mexican",
+      "Fruit Flavored",
+      "Sweet",
+      "Refreshing",
+      "Bottle",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Water",
+    "description": "A simple bottle of purified spring water.",
+    "price": 2.0,
+    "calories": 0,
+    "tags": [
+      "Drinks",
+      "Water",
+      "Beverage",
+      "Non-Alcoholic",
+      "Healthy",
+      "Refreshing",
+      "Hydration",
+      "Simple",
+      "Zero Calorie",
+      "Bottle",
+      "Vegan"
+    ]
+  }
+]

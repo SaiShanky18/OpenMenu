@@ -1,0 +1,537 @@
+[
+  {
+    "name": "Taco Box (3 Tacos)",
+    "description": "Your choice of any three delicious tacos, served as a complete meal with savory Mexican rice and black beans.",
+    "price": 14.95,
+    "calories": 1250,
+    "tags": [
+      "Taco Box",
+      "Combo",
+      "Mexican",
+      "Lunch Special",
+      "Dinner",
+      "Value Meal",
+      "Customizable",
+      "Rice and Beans",
+      "Complete Meal",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Carne Asada Taco",
+    "description": "Tender grilled steak, chopped and served on a warm corn tortilla, topped with fresh cilantro and onion.",
+    "price": 5.0,
+    "calories": 320,
+    "tags": [
+      "Taco",
+      "Carne Asada",
+      "Steak",
+      "Beef",
+      "Mexican",
+      "Street Food",
+      "Grilled",
+      "Savory",
+      "Dinner",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Shrimp Taco",
+    "description": "Juicy grilled shrimp served on a warm corn tortilla, topped with fresh pico de gallo and a creamy chipotle aioli.",
+    "price": 5.0,
+    "calories": 250,
+    "tags": [
+      "Taco",
+      "Shrimp",
+      "Seafood",
+      "Mexican",
+      "Grilled",
+      "Coastal",
+      "Chipotle",
+      "Pico de Gallo",
+      "Fresh",
+      "Light"
+    ]
+  },
+  {
+    "name": "Fish Taco",
+    "description": "Crispy, beer-battered fried fish on a warm corn tortilla, topped with pico de gallo and a creamy chipotle aioli.",
+    "price": 5.0,
+    "calories": 350,
+    "tags": [
+      "Taco",
+      "Fish Taco",
+      "Seafood",
+      "Fish",
+      "Fried",
+      "Baja Style",
+      "Mexican",
+      "Crispy",
+      "Chipotle",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Al Pastor Taco",
+    "description": "Traditional marinated pork, slow-roasted on a vertical spit, served on a warm corn tortilla with cilantro, onion, and a slice of pineapple.",
+    "price": 4.0,
+    "calories": 290,
+    "tags": [
+      "Taco",
+      "Al Pastor",
+      "Pork",
+      "Mexican",
+      "Street Food",
+      "Traditional",
+      "Sweet and Savory",
+      "Pineapple",
+      "Marinated",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Carnitas Taco",
+    "description": "Tender, slow-cooked shredded pork with crispy edges, served on a warm corn tortilla and topped with cilantro and onion.",
+    "price": 4.0,
+    "calories": 300,
+    "tags": [
+      "Taco",
+      "Carnitas",
+      "Pork",
+      "Slow-Cooked",
+      "Mexican",
+      "Street Food",
+      "Traditional",
+      "Savory",
+      "Tender",
+      "Hearty"
+    ]
+  },
+  {
+    "name": "Chicken Tinga Taco",
+    "description": "Flavorful shredded chicken stewed in a smoky chipotle-tomato sauce, served on a warm corn tortilla with cilantro and onion.",
+    "price": 4.0,
+    "calories": 260,
+    "tags": [
+      "Taco",
+      "Chicken Tinga",
+      "Chicken",
+      "Shredded Chicken",
+      "Mexican",
+      "Street Food",
+      "Savory",
+      "Smoky",
+      "Lunch",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Veggies Taco",
+    "description": "A fresh and healthy taco with sautéed bell peppers and onions, served on a warm corn tortilla and topped with cilantro.",
+    "price": 4.0,
+    "calories": 210,
+    "tags": [
+      "Taco",
+      "Vegetarian",
+      "Veggies",
+      "Sautéed Peppers",
+      "Onions",
+      "Mexican",
+      "Healthy",
+      "Vegan",
+      "Light",
+      "Street Food"
+    ]
+  },
+  {
+    "name": "Carne Asada Burrito/Bowl",
+    "description": "A hearty portion of grilled steak served in a warm flour tortilla or a bowl with rice, beans, lettuce, pico de gallo, and cheese.",
+    "price": 14.95,
+    "calories": 1150,
+    "tags": [
+      "Burrito/Bowl",
+      "Carne Asada",
+      "Steak",
+      "Beef",
+      "Mexican",
+      "Hearty",
+      "Entree",
+      "Dinner",
+      "Grilled",
+      "Complete Meal"
+    ]
+  },
+  {
+    "name": "Shrimp Burrito/Bowl",
+    "description": "Juicy grilled shrimp served in a warm flour tortilla or a bowl with rice, beans, lettuce, pico de gallo, and cheese.",
+    "price": 14.95,
+    "calories": 1050,
+    "tags": [
+      "Burrito/Bowl",
+      "Shrimp",
+      "Seafood",
+      "Mexican",
+      "Healthy Option",
+      "Entree",
+      "Grilled",
+      "Fresh",
+      "Complete Meal",
+      "Coastal"
+    ]
+  },
+  {
+    "name": "Fish Burrito/Bowl",
+    "description": "Crispy fried fish served in a warm flour tortilla or a bowl with rice, beans, lettuce, pico de gallo, and cheese.",
+    "price": 14.95,
+    "calories": 1200,
+    "tags": [
+      "Burrito/Bowl",
+      "Fish",
+      "Seafood",
+      "Fried",
+      "Baja Style",
+      "Mexican",
+      "Hearty",
+      "Entree",
+      "Crispy",
+      "Complete Meal"
+    ]
+  },
+  {
+    "name": "Al Pastor Burrito/Bowl",
+    "description": "Savory marinated pork and pineapple served in a warm flour tortilla or a bowl with rice, beans, lettuce, pico de gallo, and cheese.",
+    "price": 12.95,
+    "calories": 1100,
+    "tags": [
+      "Burrito/Bowl",
+      "Al Pastor",
+      "Pork",
+      "Mexican",
+      "Marinated",
+      "Sweet and Savory",
+      "Entree",
+      "Hearty",
+      "Pineapple",
+      "Complete Meal"
+    ]
+  },
+  {
+    "name": "Carnitas Burrito/Bowl",
+    "description": "Tender, slow-cooked shredded pork served in a warm flour tortilla or a bowl with rice, beans, lettuce, pico de gallo, and cheese.",
+    "price": 12.95,
+    "calories": 1120,
+    "tags": [
+      "Burrito/Bowl",
+      "Carnitas",
+      "Pork",
+      "Slow-Cooked",
+      "Mexican",
+      "Traditional",
+      "Entree",
+      "Hearty",
+      "Tender",
+      "Complete Meal"
+    ]
+  },
+  {
+    "name": "Chicken Tinga Burrito/Bowl",
+    "description": "Smoky shredded chicken tinga served in a warm flour tortilla or a bowl with rice, beans, lettuce, pico de gallo, and cheese.",
+    "price": 12.95,
+    "calories": 1080,
+    "tags": [
+      "Burrito/Bowl",
+      "Chicken Tinga",
+      "Chicken",
+      "Shredded Chicken",
+      "Mexican",
+      "Smoky",
+      "Entree",
+      "Hearty",
+      "Complete Meal",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Veggies Burrito/Bowl",
+    "description": "Sautéed bell peppers and onions served in a warm flour tortilla or a bowl with rice, beans, lettuce, pico de gallo, and cheese.",
+    "price": 12.95,
+    "calories": 900,
+    "tags": [
+      "Burrito/Bowl",
+      "Vegetarian",
+      "Veggies",
+      "Mexican",
+      "Healthy",
+      "Vegan Option",
+      "Entree",
+      "Light",
+      "Complete Meal",
+      "Sautéed"
+    ]
+  },
+  {
+    "name": "Chips and Salsa",
+    "description": "A basket of fresh, crispy tortilla chips served with our signature house-made tomato salsa.",
+    "price": 5.0,
+    "calories": 500,
+    "tags": [
+      "Side",
+      "Appetizer",
+      "Chips",
+      "Salsa",
+      "Mexican",
+      "Vegetarian",
+      "Sharable",
+      "Classic",
+      "Light",
+      "Starter",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Chips and Guacamole",
+    "description": "A basket of fresh, crispy tortilla chips served with a generous portion of our house-made guacamole, made with fresh avocados.",
+    "price": 8.0,
+    "calories": 750,
+    "tags": [
+      "Side",
+      "Appetizer",
+      "Chips",
+      "Guacamole",
+      "Mexican",
+      "Vegetarian",
+      "Sharable",
+      "Classic",
+      "Fresh",
+      "Popular",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Elote",
+    "description": "Classic Mexican street corn on the cob, grilled and coated with mayonnaise, cotija cheese, chili powder, and a squeeze of lime.",
+    "price": 5.0,
+    "calories": 400,
+    "tags": [
+      "Side",
+      "Elote",
+      "Street Corn",
+      "Mexican",
+      "Vegetarian",
+      "Grilled",
+      "Creamy",
+      "Savory",
+      "Classic",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Rice",
+    "description": "A side of our fluffy, savory Mexican-style rice.",
+    "price": 4.0,
+    "calories": 220,
+    "tags": [
+      "Side",
+      "Rice",
+      "Mexican Rice",
+      "Vegetarian",
+      "Classic",
+      "Staple",
+      "Seasoned",
+      "Simple",
+      "Gluten-Free",
+      "Accompaniment",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Beans",
+    "description": "A side of our perfectly seasoned, slow-simmered black beans.",
+    "price": 4.0,
+    "calories": 200,
+    "tags": [
+      "Side",
+      "Beans",
+      "Black Beans",
+      "Vegetarian",
+      "Mexican",
+      "Healthy",
+      "Protein",
+      "Classic",
+      "Simple",
+      "Accompaniment",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Rice and Beans",
+    "description": "A classic side combination of our savory Mexican rice and seasoned black beans.",
+    "price": 4.0,
+    "calories": 420,
+    "tags": [
+      "Side",
+      "Rice and Beans",
+      "Mexican",
+      "Vegetarian",
+      "Classic",
+      "Hearty",
+      "Staple",
+      "Accompaniment",
+      "Value",
+      "Comfort Food",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Jarritos",
+    "description": "An authentic Mexican fruit-flavored soda in a glass bottle. Ask for available flavors like Mandarin, Tamarind, or Lime.",
+    "price": 3.5,
+    "calories": 160,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Beverage",
+      "Non-Alcoholic",
+      "Jarritos",
+      "Mexican",
+      "Fruit Flavored",
+      "Sweet",
+      "Refreshing",
+      "Bottle",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Mexican Coke",
+    "description": "Coca-Cola made with real cane sugar, served in its iconic glass bottle for a classic, crisp taste.",
+    "price": 3.5,
+    "calories": 150,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Beverage",
+      "Non-Alcoholic",
+      "Mexican Coke",
+      "Classic",
+      "Sweet",
+      "Cane Sugar",
+      "Refreshing",
+      "Bottle",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Topo Chico",
+    "description": "A refreshing, bubbly mineral water from Mexico, known for its crisp carbonation.",
+    "price": 3.5,
+    "calories": 0,
+    "tags": [
+      "Drinks",
+      "Sparkling Water",
+      "Beverage",
+      "Non-Alcoholic",
+      "Topo Chico",
+      "Mineral Water",
+      "Bubbly",
+      "Refreshing",
+      "Zero Calorie",
+      "Mexican",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Water",
+    "description": "A simple bottle of purified spring water.",
+    "price": 2.0,
+    "calories": 0,
+    "tags": [
+      "Drinks",
+      "Water",
+      "Beverage",
+      "Non-Alcoholic",
+      "Healthy",
+      "Refreshing",
+      "Hydration",
+      "Simple",
+      "Zero Calorie",
+      "Bottle",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Coke",
+    "description": "The classic, refreshing taste of Coca-Cola served from the fountain.",
+    "price": 2.5,
+    "calories": 180,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Coke",
+      "Beverage",
+      "Non-Alcoholic",
+      "Classic",
+      "Refreshing",
+      "Cold",
+      "Fountain",
+      "Sweet",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Diet Coke",
+    "description": "The crisp, refreshing taste of Diet Coke with zero calories, served from the fountain.",
+    "price": 2.5,
+    "calories": 0,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Diet Coke",
+      "Beverage",
+      "Non-Alcoholic",
+      "Zero Calorie",
+      "Refreshing",
+      "Cold",
+      "Fountain",
+      "Light",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Sprite",
+    "description": "A crisp, clean, caffeine-free lemon-lime soda served from the fountain.",
+    "price": 2.5,
+    "calories": 180,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Sprite",
+      "Beverage",
+      "Non-Alcoholic",
+      "Lemon-Lime",
+      "Refreshing",
+      "Cold",
+      "Fountain",
+      "Caffeine-Free",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Churros",
+    "description": "A classic Mexican dessert of fried dough pastry, coated in cinnamon sugar and served warm.",
+    "price": 5.0,
+    "calories": 450,
+    "tags": [
+      "Dessert",
+      "Churros",
+      "Sweet",
+      "Fried",
+      "Cinnamon Sugar",
+      "Mexican",
+      "Classic",
+      "Dessert",
+      "Pastry",
+      "Popular",
+      "Vegetarian"
+    ]
+  }
+]

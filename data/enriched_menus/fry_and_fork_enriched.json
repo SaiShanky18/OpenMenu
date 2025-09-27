@@ -1,0 +1,276 @@
+[
+  {
+    "name": "Bacon Cheesy Fries",
+    "description": "Crispy fries smothered in melted cheddar cheese and topped with savory bacon bits.",
+    "price": 8.99,
+    "calories": 950,
+    "tags": [
+      "Loaded Fries",
+      "Bacon",
+      "Pork",
+      "Cheese",
+      "American",
+      "Comfort Food",
+      "Appetizer",
+      "Savory",
+      "Sharable",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Chili Cheese Fries",
+    "description": "A hearty portion of fries topped with our house-made beef chili and cheddar cheese.",
+    "price": 9.49,
+    "calories": 1050,
+    "tags": [
+      "Loaded Fries",
+      "Chili",
+      "Cheese",
+      "American",
+      "Comfort Food",
+      "Hearty",
+      "Spicy",
+      "Sharable",
+      "Beef",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Garlic Parmesan Fries",
+    "description": "Fries tossed in garlic butter and sprinkled with grated Parmesan cheese and parsley.",
+    "price": 7.99,
+    "calories": 820,
+    "tags": [
+      "Loaded Fries",
+      "Garlic",
+      "Parmesan",
+      "Vegetarian",
+      "Gourmet Fries",
+      "Appetizer",
+      "Savory",
+      "Italian Inspired",
+      "Side Dish",
+      "Flavorful"
+    ]
+  },
+  {
+    "name": "Classic Burger",
+    "description": "A juicy all-beef patty with lettuce, tomato, onions, pickles, and our special sauce on a toasted bun.",
+    "price": 10.99,
+    "calories": 780,
+    "tags": [
+      "Burgers",
+      "Classic",
+      "Beef",
+      "American",
+      "Comfort Food",
+      "Grilled",
+      "Lunch",
+      "Dinner",
+      "Hearty",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Spicy Jalapeno Burger",
+    "description": "Beef patty topped with pepper jack cheese, fried jalapenos, and a spicy aioli.",
+    "price": 11.99,
+    "calories": 920,
+    "tags": [
+      "Burgers",
+      "Spicy",
+      "Jalapeno",
+      "Beef",
+      "American",
+      "Gourmet",
+      "Pepper Jack Cheese",
+      "Hot",
+      "Dinner",
+      "Bold Flavor"
+    ]
+  },
+  {
+    "name": "Mushroom Swiss Burger",
+    "description": "Our classic beef patty with sautéed mushrooms, Swiss cheese, and a creamy garlic sauce.",
+    "price": 11.99,
+    "calories": 960,
+    "tags": [
+      "Burgers",
+      "Mushroom",
+      "Swiss Cheese",
+      "Beef",
+      "American",
+      "Gourmet",
+      "Savory",
+      "Comfort Food",
+      "Dinner",
+      "Rich"
+    ]
+  },
+  {
+    "name": "Crispy Chicken Sandwich",
+    "description": "A perfectly fried chicken breast with pickles and mayo on a soft brioche bun.",
+    "price": 10.49,
+    "calories": 720,
+    "tags": [
+      "Sandwiches",
+      "Chicken",
+      "Fried Chicken",
+      "Crispy",
+      "American",
+      "Comfort Food",
+      "Lunch",
+      "Dinner",
+      "Classic",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Buffalo Chicken Sandwich",
+    "description": "Fried chicken breast tossed in buffalo sauce, with lettuce, tomato, and ranch dressing.",
+    "price": 11.49,
+    "calories": 860,
+    "tags": [
+      "Sandwiches",
+      "Chicken",
+      "Buffalo",
+      "Spicy",
+      "Fried Chicken",
+      "American",
+      "Lunch",
+      "Dinner",
+      "Tangy",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Classic Hot Dog",
+    "description": "An all-beef hot dog on a steamed bun. Add your favorite toppings!",
+    "price": 6.99,
+    "calories": 350,
+    "tags": [
+      "Hot Dogs",
+      "Classic",
+      "Beef",
+      "American",
+      "Comfort Food",
+      "Grilled",
+      "Lunch",
+      "Kid Friendly",
+      "Simple",
+      "Customizable"
+    ]
+  },
+  {
+    "name": "Chili Cheese Dog",
+    "description": "Our classic hot dog smothered in beef chili and melted cheddar cheese.",
+    "price": 8.49,
+    "calories": 650,
+    "tags": [
+      "Hot Dogs",
+      "Chili",
+      "Cheese",
+      "Beef",
+      "American",
+      "Comfort Food",
+      "Hearty",
+      "Loaded",
+      "Dinner",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Fountain Drink",
+    "description": "Choose from a selection of Coke products.",
+    "price": 2.99,
+    "calories": 220,
+    "tags": [
+      "Drinks",
+      "Soda",
+      "Beverage",
+      "Non-Alcoholic",
+      "Fountain Drink",
+      "Coke",
+      "Refreshing",
+      "Cold",
+      "Classic",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Fresh-Squeezed Lemonade",
+    "description": "Made fresh in-house daily.",
+    "price": 3.49,
+    "calories": 260,
+    "tags": [
+      "Drinks",
+      "Lemonade",
+      "Beverage",
+      "Non-Alcoholic",
+      "Fresh",
+      "Homemade",
+      "Sweet",
+      "Tangy",
+      "Refreshing",
+      "Summer",
+      "Vegan"
+    ]
+  },
+  {
+    "name": "Chocolate Milkshake",
+    "description": "Rich and creamy chocolate milkshake, topped with whipped cream.",
+    "price": 5.99,
+    "calories": 780,
+    "tags": [
+      "Shakes",
+      "Chocolate",
+      "Milkshake",
+      "Dessert",
+      "Sweet",
+      "Creamy",
+      "Indulgent",
+      "Cold",
+      "Classic",
+      "Popular",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Vanilla Milkshake",
+    "description": "Classic vanilla bean milkshake, smooth and delicious.",
+    "price": 5.99,
+    "calories": 750,
+    "tags": [
+      "Shakes",
+      "Vanilla",
+      "Milkshake",
+      "Dessert",
+      "Sweet",
+      "Creamy",
+      "Indulgent",
+      "Cold",
+      "Classic",
+      "Simple",
+      "Vegetarian"
+    ]
+  },
+  {
+    "name": "Strawberry Milkshake",
+    "description": "Made with real strawberries for a fresh, fruity flavor.",
+    "price": 5.99,
+    "calories": 760,
+    "tags": [
+      "Shakes",
+      "Strawberry",
+      "Milkshake",
+      "Dessert",
+      "Sweet",
+      "Creamy",
+      "Fruity",
+      "Cold",
+      "Classic",
+      "Refreshing",
+      "Vegetarian"
+    ]
+  }
+]

@@ -1,0 +1,758 @@
+[
+  {
+    "name": "Garlic Knots",
+    "description": "6 pieces. Served with a side of marinara.",
+    "price": 6.99,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Side",
+      "Garlic",
+      "Italian-American",
+      "Vegetarian",
+      "Sharable",
+      "Comfort Food",
+      "Baked",
+      "Marinara",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Garlic Bread",
+    "description": "Served with a side of marinara.",
+    "price": 5.99,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Side",
+      "Garlic Bread",
+      "Italian-American",
+      "Vegetarian",
+      "Sharable",
+      "Toasted",
+      "Classic",
+      "Savory",
+      "Starter"
+    ]
+  },
+  {
+    "name": "Garlic Bread with Cheese",
+    "description": "Served with a side of marinara.",
+    "price": 6.99,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Side",
+      "Garlic Bread",
+      "Cheese",
+      "Italian-American",
+      "Vegetarian",
+      "Sharable",
+      "Melted Cheese",
+      "Comfort Food",
+      "Popular"
+    ]
+  },
+  {
+    "name": "French Fries",
+    "description": null,
+    "price": 4.99,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Appetizer",
+      "French Fries",
+      "American",
+      "Vegetarian",
+      "Classic",
+      "Crispy",
+      "Salty",
+      "Kid Friendly",
+      "Sharable"
+    ]
+  },
+  {
+    "name": "Mozzarella Sticks",
+    "description": "6 pieces. Served with a side of marinara.",
+    "price": 8.99,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Side",
+      "Mozzarella Sticks",
+      "Cheese",
+      "Fried",
+      "Italian-American",
+      "Vegetarian",
+      "Sharable",
+      "Popular",
+      "Comfort Food"
+    ]
+  },
+  {
+    "name": "Chicken Tenders",
+    "description": "4 pieces.",
+    "price": 8.99,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Side",
+      "Chicken Tenders",
+      "Fried Chicken",
+      "American",
+      "Kid Friendly",
+      "Crispy",
+      "Popular",
+      "White Meat",
+      "Sharable"
+    ]
+  },
+  {
+    "name": "Side of Meatballs",
+    "description": null,
+    "price": 6.99,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Appetizer",
+      "Meatballs",
+      "Beef",
+      "Italian-American",
+      "Marinara",
+      "Savory",
+      "Classic",
+      "Hearty",
+      "Protein"
+    ]
+  },
+  {
+    "name": "Side of Sausage",
+    "description": null,
+    "price": 6.99,
+    "calories": null,
+    "tags": [
+      "Side",
+      "Appetizer",
+      "Sausage",
+      "Pork",
+      "Italian",
+      "Savory",
+      "Spiced",
+      "Hearty",
+      "Grilled",
+      "Protein"
+    ]
+  },
+  {
+    "name": "House Salad",
+    "description": "Lettuce, tomatoes, onions, cucumbers, and black olives.",
+    "price": 8.99,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Side",
+      "Salad",
+      "House Salad",
+      "Vegetarian",
+      "Healthy",
+      "Light",
+      "Fresh",
+      "Starter",
+      "Greens"
+    ]
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Romaine lettuce, croutons, and Parmesan cheese.",
+    "price": 8.99,
+    "calories": null,
+    "tags": [
+      "Appetizer",
+      "Side",
+      "Salad",
+      "Caesar Salad",
+      "Classic",
+      "Healthy",
+      "Light",
+      "Starter",
+      "Romaine",
+      "Parmesan"
+    ]
+  },
+  {
+    "name": "6 Wings",
+    "description": "Served with your choice of sauce.",
+    "price": 9.99,
+    "calories": null,
+    "tags": [
+      "Jumbo Buffalo Wings",
+      "Chicken Wings",
+      "Buffalo Wings",
+      "Appetizer",
+      "American",
+      "Spicy",
+      "Sharable",
+      "Game Day",
+      "Popular",
+      "Fried"
+    ]
+  },
+  {
+    "name": "10 Wings",
+    "description": "Served with your choice of sauce.",
+    "price": 14.99,
+    "calories": null,
+    "tags": [
+      "Jumbo Buffalo Wings",
+      "Chicken Wings",
+      "Buffalo Wings",
+      "Sharable",
+      "American",
+      "Spicy",
+      "Appetizer",
+      "Game Day",
+      "Party",
+      "Fried"
+    ]
+  },
+  {
+    "name": "20 Wings",
+    "description": "Served with your choice of sauce.",
+    "price": 28.99,
+    "calories": null,
+    "tags": [
+      "Jumbo Buffalo Wings",
+      "Chicken Wings",
+      "Buffalo Wings",
+      "Large Portion",
+      "American",
+      "Spicy",
+      "Party",
+      "Game Day",
+      "Sharable",
+      "Fried"
+    ]
+  },
+  {
+    "name": "50 Wings",
+    "description": "Served with your choice of sauce.",
+    "price": 69.99,
+    "calories": null,
+    "tags": [
+      "Jumbo Buffalo Wings",
+      "Chicken Wings",
+      "Buffalo Wings",
+      "Catering",
+      "American",
+      "Spicy",
+      "Party Size",
+      "Game Day",
+      "Group Meal",
+      "Fried"
+    ]
+  },
+  {
+    "name": "Cheese Calzone",
+    "description": "Ricotta and mozzarella cheese. Served with a side of marinara.",
+    "price": 10.99,
+    "calories": null,
+    "tags": [
+      "Calzones & Rolls",
+      "Calzone",
+      "Cheese",
+      "Ricotta",
+      "Mozzarella",
+      "Italian-American",
+      "Baked",
+      "Vegetarian",
+      "Comfort Food",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Stromboli",
+    "description": "Pepperoni, sausage, mushrooms, and mozzarella cheese. Served with a side of marinara.",
+    "price": 12.99,
+    "calories": null,
+    "tags": [
+      "Calzones & Rolls",
+      "Stromboli",
+      "Pepperoni",
+      "Sausage",
+      "Mushroom",
+      "Italian-American",
+      "Baked",
+      "Hearty",
+      "Meat",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Chicken Roll",
+    "description": "Chicken cutlet, marinara, and mozzarella cheese. Served with a side of marinara.",
+    "price": 11.99,
+    "calories": null,
+    "tags": [
+      "Calzones & Rolls",
+      "Chicken Roll",
+      "Chicken",
+      "Italian-American",
+      "Baked",
+      "Comfort Food",
+      "Marinara",
+      "Cheese",
+      "Entree",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Sausage Roll",
+    "description": "Sausage, peppers, onions, and mozzarella cheese. Served with a side of marinara.",
+    "price": 11.99,
+    "calories": null,
+    "tags": [
+      "Calzones & Rolls",
+      "Sausage Roll",
+      "Sausage",
+      "Peppers",
+      "Onions",
+      "Italian-American",
+      "Baked",
+      "Comfort Food",
+      "Hearty",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Ray's Special Pizza (18\")",
+    "description": "Pepperoni, sausage, meatballs, mushrooms, peppers, and onions.",
+    "price": 28.99,
+    "calories": null,
+    "tags": [
+      "Gourmet Pizza",
+      "Supreme Pizza",
+      "Specialty",
+      "New York Style",
+      "Meat",
+      "Vegetable",
+      "Combo",
+      "Sharable",
+      "Family Size",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Meat Lovers Pizza (18\")",
+    "description": "Pepperoni, sausage, meatballs, and ham.",
+    "price": 26.99,
+    "calories": null,
+    "tags": [
+      "Gourmet Pizza",
+      "Meat Lovers",
+      "Pepperoni",
+      "Sausage",
+      "Meatball",
+      "Ham",
+      "New York Style",
+      "Hearty",
+      "Sharable",
+      "Protein"
+    ]
+  },
+  {
+    "name": "Veggie Lovers Pizza (18\")",
+    "description": "Mushrooms, peppers, onions, and black olives.",
+    "price": 24.99,
+    "calories": null,
+    "tags": [
+      "Gourmet Pizza",
+      "Veggie",
+      "Vegetarian",
+      "Mushroom",
+      "Peppers",
+      "Onions",
+      "Olives",
+      "New York Style",
+      "Healthy",
+      "Sharable"
+    ]
+  },
+  {
+    "name": "White Pizza (18\")",
+    "description": "Ricotta, mozzarella, and garlic.",
+    "price": 23.99,
+    "calories": null,
+    "tags": [
+      "Gourmet Pizza",
+      "White Pizza",
+      "Ricotta",
+      "Mozzarella",
+      "Garlic",
+      "No Red Sauce",
+      "Vegetarian",
+      "New York Style",
+      "Rich",
+      "Creamy"
+    ]
+  },
+  {
+    "name": "Margherita Pizza (18\")",
+    "description": "Fresh mozzarella, basil, and tomato sauce.",
+    "price": 23.99,
+    "calories": null,
+    "tags": [
+      "Gourmet Pizza",
+      "Margherita",
+      "Fresh Mozzarella",
+      "Basil",
+      "Italian",
+      "Classic",
+      "Vegetarian",
+      "New York Style",
+      "Fresh",
+      "Light"
+    ]
+  },
+  {
+    "name": "Hawaiian Pizza (18\")",
+    "description": "Ham and pineapple.",
+    "price": 24.99,
+    "calories": null,
+    "tags": [
+      "Gourmet Pizza",
+      "Hawaiian",
+      "Ham",
+      "Pineapple",
+      "Sweet and Savory",
+      "Controversial",
+      "New York Style",
+      "Classic",
+      "Sharable",
+      "Fruity"
+    ]
+  },
+  {
+    "name": "Buffalo Chicken Pizza (18\")",
+    "description": "Spicy buffalo chicken and mozzarella.",
+    "price": 26.99,
+    "calories": null,
+    "tags": [
+      "Gourmet Pizza",
+      "Buffalo Chicken",
+      "Spicy",
+      "Chicken",
+      "American",
+      "New York Style",
+      "Savory",
+      "Tangy",
+      "Popular",
+      "Sharable"
+    ]
+  },
+  {
+    "name": "BBQ Chicken Pizza (18\")",
+    "description": "BBQ chicken and mozzarella.",
+    "price": 26.99,
+    "calories": null,
+    "tags": [
+      "Gourmet Pizza",
+      "BBQ Chicken",
+      "Sweet",
+      "Smoky",
+      "Chicken",
+      "American",
+      "New York Style",
+      "Savory",
+      "Popular",
+      "Sharable"
+    ]
+  },
+  {
+    "name": "Chicken Bacon Ranch Pizza (18\")",
+    "description": "Chicken, bacon, ranch, and mozzarella.",
+    "price": 26.99,
+    "calories": null,
+    "tags": [
+      "Gourmet Pizza",
+      "Chicken Bacon Ranch",
+      "Chicken",
+      "Bacon",
+      "Ranch",
+      "American",
+      "New York Style",
+      "Savory",
+      "Creamy",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Cheese Slice",
+    "description": null,
+    "price": 3.50,
+    "calories": null,
+    "tags": [
+      "Pizza by the Slice",
+      "Cheese Pizza",
+      "New York Style",
+      "Classic",
+      "Vegetarian",
+      "Lunch",
+      "Quick Meal",
+      "Individual",
+      "Popular",
+      "Simple"
+    ]
+  },
+  {
+    "name": "Pepperoni Slice",
+    "description": null,
+    "price": 4.00,
+    "calories": null,
+    "tags": [
+      "Pizza by the Slice",
+      "Pepperoni",
+      "New York Style",
+      "Classic",
+      "Meat",
+      "Lunch",
+      "Quick Meal",
+      "Individual",
+      "Popular",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Gourmet Slice",
+    "description": null,
+    "price": 4.50,
+    "calories": null,
+    "tags": [
+      "Pizza by the Slice",
+      "Gourmet",
+      "Specialty",
+      "New York Style",
+      "Daily Special",
+      "Lunch",
+      "Quick Meal",
+      "Individual",
+      "Flavorful",
+      "Unique"
+    ]
+  },
+  {
+    "name": "Cheese Pizza (14\")",
+    "description": "Classic cheese pizza.",
+    "price": 17.99,
+    "calories": null,
+    "tags": [
+      "Create Your Own Pizza",
+      "Cheese Pizza",
+      "New York Style",
+      "Classic",
+      "Vegetarian",
+      "Medium",
+      "Sharable",
+      "Customizable",
+      "Family Meal",
+      "Base"
+    ]
+  },
+  {
+    "name": "Cheese Pizza (18\")",
+    "description": "Classic cheese pizza.",
+    "price": 19.99,
+    "calories": null,
+    "tags": [
+      "Create Your Own Pizza",
+      "Cheese Pizza",
+      "New York Style",
+      "Classic",
+      "Vegetarian",
+      "Large",
+      "Sharable",
+      "Customizable",
+      "Family Size",
+      "Base"
+    ]
+  },
+  {
+    "name": "Meatball Parmigiana",
+    "description": "Meatballs, marinara sauce, and mozzarella cheese on a toasted hero roll.",
+    "price": 11.99,
+    "calories": null,
+    "tags": [
+      "Hot Subs",
+      "Meatball",
+      "Parmigiana",
+      "Italian-American",
+      "Sandwich",
+      "Hearty",
+      "Comfort Food",
+      "Lunch",
+      "Dinner",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Chicken Parmigiana",
+    "description": "Breaded chicken cutlet, marinara sauce, and mozzarella cheese on a toasted hero roll.",
+    "price": 11.99,
+    "calories": null,
+    "tags": [
+      "Hot Subs",
+      "Chicken Parm",
+      "Parmigiana",
+      "Italian-American",
+      "Sandwich",
+      "Hearty",
+      "Comfort Food",
+      "Lunch",
+      "Dinner",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Sausage Parmigiana",
+    "description": "Italian sausage, marinara sauce, and mozzarella cheese on a toasted hero roll.",
+    "price": 11.99,
+    "calories": null,
+    "tags": [
+      "Hot Subs",
+      "Sausage",
+      "Parmigiana",
+      "Italian-American",
+      "Sandwich",
+      "Hearty",
+      "Comfort Food",
+      "Lunch",
+      "Dinner",
+      "Savory"
+    ]
+  },
+  {
+    "name": "Eggplant Parmigiana",
+    "description": "Breaded eggplant, marinara sauce, and mozzarella cheese on a toasted hero roll.",
+    "price": 11.99,
+    "calories": null,
+    "tags": [
+      "Hot Subs",
+      "Eggplant Parm",
+      "Parmigiana",
+      "Italian-American",
+      "Sandwich",
+      "Vegetarian",
+      "Comfort Food",
+      "Lunch",
+      "Dinner",
+      "Classic"
+    ]
+  },
+  {
+    "name": "Philly Cheesesteak",
+    "description": "Thinly sliced steak with grilled onions, peppers, and melted cheese on a hero roll.",
+    "price": 12.99,
+    "calories": null,
+    "tags": [
+      "Hot Subs",
+      "Philly Cheesesteak",
+      "Steak",
+      "Cheese",
+      "American",
+      "Sandwich",
+      "Hearty",
+      "Popular",
+      "Lunch",
+      "Dinner"
+    ]
+  },
+  {
+    "name": "Cannoli",
+    "description": "Crispy pastry shell filled with a sweet, creamy ricotta filling.",
+    "price": 4.99,
+    "calories": null,
+    "tags": [
+      "Desserts",
+      "Cannoli",
+      "Italian",
+      "Pastry",
+      "Sweet",
+      "Creamy",
+      "Classic",
+      "Ricotta",
+      "Dessert",
+      "Indulgent"
+    ]
+  },
+  {
+    "name": "Tiramisu",
+    "description": "A classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream.",
+    "price": 5.99,
+    "calories": null,
+    "tags": [
+      "Desserts",
+      "Tiramisu",
+      "Italian",
+      "Coffee",
+      "Mascarpone",
+      "Sweet",
+      "Creamy",
+      "Classic",
+      "Dessert",
+      "Indulgent"
+    ]
+  },
+  {
+    "name": "Cheesecake",
+    "description": "New York style cheesecake with a graham cracker crust.",
+    "price": 5.99,
+    "calories": null,
+    "tags": [
+      "Desserts",
+      "Cheesecake",
+      "New York Style",
+      "American",
+      "Sweet",
+      "Creamy",
+      "Classic",
+      "Rich",
+      "Dessert",
+      "Popular"
+    ]
+  },
+  {
+    "name": "Fountain Drink",
+    "description": null,
+    "price": 2.99,
+    "calories": null,
+    "tags": [
+      "Beverages",
+      "Soda",
+      "Fountain Drink",
+      "Non-Alcoholic",
+      "Refreshing",
+      "Cold",
+      "Coke",
+      "Sprite",
+      "Customizable",
+      "Classic"
+    ]
+  },
+  {
+    "name": "2-Liter Soda",
+    "description": null,
+    "price": 4.99,
+    "calories": null,
+    "tags": [
+      "Beverages",
+      "Soda",
+      "2-Liter",
+      "Non-Alcoholic",
+      "Sharable",
+      "Party Size",
+      "Takeout",
+      "Coke",
+      "Family Meal",
+      "Classic"
+    ]
+  }
+]
