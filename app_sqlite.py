@@ -2,6 +2,7 @@ import sqlite3
 import os
 import json
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 from dotenv import load_dotenv
 from litellm import completion
 import re
@@ -13,6 +14,7 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 DB_PATH = "restaurants.db"
 
 app = Flask(__name__)
+CORS(app)
 
 # Define comprehensive keyword mappings
 SPICY_KEYWORDS = {
@@ -344,4 +346,4 @@ def recommend():
     })
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
