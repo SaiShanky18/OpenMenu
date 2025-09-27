@@ -11,6 +11,8 @@ c = conn.cursor()
 # Create tables
 c.execute('''CREATE TABLE IF NOT EXISTS restaurants (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
+    lat REAL,
+    lng REAL,
     name TEXT,
     address TEXT,
     rating REAL,
@@ -39,9 +41,9 @@ with open(JSON_PATH, encoding='utf-8') as f:
     restaurants = json.load(f)
 
 for r in restaurants:
-    c.execute('''INSERT INTO restaurants (name, address, rating, user_ratings_count, opening_hours, phone, website, photo_url, price_level, business_status, google_maps_url)
-                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)''',
-                                (r.get('name'), r.get('address'), r.get('rating'), r.get('user_ratings_count'), json.dumps(r.get('opening_hours', [])), r.get('phone_number'), r.get('website'), json.dumps(r.get('photos', [])), r.get('price_level'), r.get('business_status'), r.get('google_maps_url')))
+    c.execute('''INSERT INTO restaurants (lat, lng, name, address, rating, user_ratings_count, opening_hours, phone, website, photo_url, price_level, business_status, google_maps_url)
+                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)''',
+                                (r.get('lat'), r.get('lng'), r.get('name'), r.get('address'), r.get('rating'), r.get('user_ratings_count'), json.dumps(r.get('opening_hours', [])), r.get('phone_number'), r.get('website'), json.dumps(r.get('photos', [])), r.get('price_level'), r.get('business_status'), r.get('google_maps_url')))
     restaurant_id = c.lastrowid
     for item in r.get('menu_items', []):
         c.execute('''INSERT INTO menu_items (restaurant_id, name, description, price, calories, tags)

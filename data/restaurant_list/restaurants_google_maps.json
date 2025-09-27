@@ -313,6 +313,8 @@
   }
     ],
     "address": "85 5th St NW B, Atlanta, GA 30332, USA",
+    "lat": 33.7775,
+    "lng": -84.3903,
     "rating": 4,
     "user_ratings_count": 340,
     "opening_hours": [
@@ -1160,6 +1162,8 @@
   }
     ],
     "address": "26 5th St NW, Atlanta, GA 30332, USA",
+    "lat":33.7775,
+    "lng":-84.3977,
     "rating": 4.3,
     "user_ratings_count": 899,
     "opening_hours": [
@@ -3842,6 +3846,8 @@
   }
 ],
     "address": "88 5th St NW, Atlanta, GA 30308, USA",
+    "lat": 33.7725,
+    "lng": -84.3929,
     "rating": 4,
     "user_ratings_count": 941,
     "opening_hours": [
@@ -4632,6 +4638,8 @@
   }
 ],
     "address": "85 5th St NE Suite A, Atlanta, GA 30308, USA",
+    "lat": 33.7751,
+    "lng": -84.3963,
     "rating": 4.1,
     "user_ratings_count": 236,
     "opening_hours": [
@@ -4978,6 +4986,8 @@
   }
 ],
     "address": "85 5th St NW D1, Atlanta, GA 30332, USA",
+    "lat": 33.7754,
+    "lng": -84.3965,
     "rating": 4.2,
     "user_ratings_count": 28,
     "opening_hours": [
@@ -7498,6 +7508,8 @@
   }
 ],
     "address": "75 5th St NW #170, Atlanta, GA 30308, USA",
+    "lat": 33.7725,
+    "lng": -84.3943,
     "rating": 4.8,
     "user_ratings_count": 423,
     "opening_hours": [
@@ -8105,6 +8117,8 @@
   }
 ],
     "address": "75 5th St NW, Atlanta, GA 30308, USA",
+    "lat": 33.7725,
+    "lng": -84.3963,
     "rating": 4.4,
     "user_ratings_count": 27,
     "opening_hours": [
@@ -9142,6 +9156,8 @@
   }
 ],
     "address": "848 Spring St NW, Atlanta, GA 30308, USA",
+    "lat": 33.7725,
+    "lng": -84.3933,
     "rating": 3.7,
     "user_ratings_count": 59,
     "opening_hours": [
@@ -9565,6 +9581,8 @@
   }
 ],
     "address": "22 5th St NW, Atlanta, GA 30308, USA",
+    "lat": 33.7725,
+    "lng": -84.3933,
     "rating": 4.6,
     "user_ratings_count": 235,
     "opening_hours": [
