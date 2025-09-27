@@ -1,10 +1,14 @@
 # Google Maps and Yelp API restaurant extractor for Georgia Tech & Tech Square
 import requests
 import json
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Insert your API keys here
-GOOGLE_API_KEY = 'AIzaSyDd82arIooHw1KLGIZ4pmPmsVJiesXbzis'
-YELP_API_KEY = 'Zm8RifCKGYByWiO_kIUwoOkE53N-nHTXrSRLz53eVURoLPn9pZaKo7N-kEVfq52siohd48DBA__Q8Ql187XI1PGcFLyTHpOxV4IL-e_a3UEYGlTzHFiUsMYV6ufXaHYx'
+GOOGLE_API_KEY = os.getenv("GOOGLE_MAPS_API_KEY")
+YELP_API_KEY = os.getenv("YELP_API_KEY")
 
 # Georgia Tech/Tech Square coordinates
 LOCATION = {'lat': 33.7770706, 'lng': -84.3902668}  # Georgia Tech/ Tech Square
