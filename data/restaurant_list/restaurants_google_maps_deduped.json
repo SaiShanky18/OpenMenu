@@ -2458,24 +2458,6 @@
         ]
       },
       {
-        "name": "Buddha Ramen",
-        "description": "A wholesome and flavorful plant-based miso broth with ramen noodles, green onion, pickled ginger, spinach, and crispy onions.",
-        "price": 12.95,
-        "calories": 720,
-        "tags": [
-          "RAMEN & PHO",
-          "Ramen",
-          "Japanese",
-          "Miso Broth",
-          "Vegetarian",
-          "Vegan",
-          "Plant-Based",
-          "Noodle Soup",
-          "Healthy",
-          "Entree"
-        ]
-      },
-      {
         "name": "Chinese General Tso's Stir Fry",
         "description": "Your choice of crispy protein tossed in a spicy, savory, and tangy sauce with onions, bell peppers, and red chilis.",
         "price": 10.5,
@@ -5732,24 +5714,6 @@
           "Classic",
           "Creamy",
           "Simple"
-        ]
-      },
-      {
-        "name": "Shrimp Tempura Roll",
-        "description": "A popular cooked sushi roll with crispy fried shrimp tempura, avocado, and cucumber.",
-        "price": 7.0,
-        "calories": 510,
-        "tags": [
-          "Sushi Roll",
-          "Cooked",
-          "Shrimp Tempura",
-          "Fried",
-          "Japanese",
-          "Seafood",
-          "Maki",
-          "Crunchy",
-          "Popular",
-          "Classic"
         ]
       },
       {
