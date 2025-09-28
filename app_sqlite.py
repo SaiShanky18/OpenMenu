@@ -322,17 +322,17 @@ def recommend():
         if item_matches_requirements(item, requirements):
             filtered_items.append(item)
     
-    # Shuffle and ensure unique restaurants
+    # Shuffle and allow up to 5 items per restaurant
     random.shuffle(filtered_items)
     recommendations = []
-    seen_restaurants = set()
-    
+    restaurant_item_counts = {}
     for item in filtered_items:
         rest_id = item['restaurant']['id']
-        if rest_id not in seen_restaurants:
+        count = restaurant_item_counts.get(rest_id, 0)
+        if count < 5:
             recommendations.append(item)
-            seen_restaurants.add(rest_id)
-        if len(recommendations) >= 10:
+            restaurant_item_counts[rest_id] = count + 1
+        if len(recommendations) >= 20:
             break
     
     return jsonify({

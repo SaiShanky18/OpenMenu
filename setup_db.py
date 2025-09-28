@@ -3,7 +3,7 @@ import json
 import sqlite3
 
 DB_PATH = "restaurants.db"
-JSON_PATH = "data/restaurant_list/restaurants_google_maps.json"
+JSON_PATH = "data\\restaurant_list\\restaurants_google_maps.json"
 
 conn = sqlite3.connect(DB_PATH)
 c = conn.cursor()
